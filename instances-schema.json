@@ -1,0 +1,59 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "type": "object",
+    "properties": {
+        "updated": {
+            "type": "string",
+            "format": "date",
+            "$comment": "List generation date, in ISO 8601 format."
+        },
+        "instances": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "url": {
+                        "type": "string",
+                        "format": "uri",
+                        "$comment": "URL to Libreddit instance on the internet."
+                    },
+                    "country": {
+                        "type": "string",
+                        "$comment": "Geographical location of Libreddit instance."
+                    },
+                    "version": {
+                        "type": "string",
+                        "pattern": "^v([0-9]+\\.){2}[0-9]+$",
+                        "$comment": "Version of Libreddit running on this instance."
+                    },
+                    "cloudflare": {
+                        "type": "boolean",
+                        "$comment": "Specifies whether or not the instance sits behind Cloudflare. Cloudflare may monitor traffic to and from this instance."
+                    },
+                    "onion": {
+                        "type": "string",
+                        "format": "uri",
+                        "$comment": "URI of Libreddit instance on TOR."
+                    },
+                    "i2p": {
+                        "type": "string",
+                        "format": "uri",
+                        "$comment": "URI of Libreddit instance on I2P."
+                    },
+                    "description": {
+                        "type": "string",
+                        "$comment": "Description of instance."
+                    }
+                },
+                "required": [
+                    "country",
+                    "version"
+                ]
+            }
+        }
+    },
+    "required": [
+        "instances",
+        "updated"
+    ]
+}
