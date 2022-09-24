@@ -135,4 +135,4 @@ This script will attempt to connect to instances that are onion sites. To make s
 
 # License
 
-The script `generate-instances-json.sh` and `instances-schema.json` are licensed under [the GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). `instances.json` and `instances.txt` are released to the public domain.
+The script `generate-instances-json.sh` and the schema file `instances-schema.json` are licensed under [the GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). `instances.json` and `instances.txt` are released to the public domain.
