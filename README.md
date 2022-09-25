@@ -6,7 +6,7 @@ The motivation is to provide a machine-consumable list of these instances that c
 
 # Contents
 
-This repo consists of three files:
+This repo consists of four files:
 
 1. `instances.json`: This is the list of Libreddit instances.
 1. `instances-schema.json`: JSON Schema governing `instances.json`.
