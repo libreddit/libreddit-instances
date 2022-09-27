@@ -32,6 +32,10 @@ TODAY="$(date -I -u)"
 # jq is required for JSON processing.
 DEPENDENCIES=(curl jq)
 
+# If USER_AGENT is specified in the envs, we'll pass this argument to curl
+# using the -A flag to set a custom User-Agent.
+USER_AGENT="${USER_AGENT:-}"
+
 # check_tor
 #
 # Returns true if tor is running; false otherwise.
@@ -341,12 +345,18 @@ get ()
         return 103
     fi
 
+    # Use a custom User-Agent if provided.
+    if [[ -n "${USER_AGENT?}" ]]
+    then
+        curl_cmd=("${curl_cmd[@]}" -A "${USER_AGENT}")
+    fi
+
     # Do the GET. Try up to the number of times specified in the tries variable.
     for (( i = tries; i > 0; i-- ))
     do
         "${curl_cmd[@]}" -m"${timeout}" -fsL -- "${scheme}://${url_no_scheme}"
-        rc=$?    
-    
+        rc=$?
+
         if [[ ${rc} -eq 0 ]]
         then
             return
@@ -482,7 +492,7 @@ create_instance_entry ()
 
 # helpdoc
 #
-# TODO
+# Print usage information to stdout.
 helpdoc ()
 {
     cat <<!
@@ -538,6 +548,11 @@ OPTIONS
         Write the results to OUTPUT_JSON. Any existing file will be
         overwritten. To write to stdout (the default behavior), either omit
         this option or provide \`-o -\`.
+
+ENVIRONMENT
+
+    USER_AGENT
+        Sets the User-Agent that curl will use when making the GET to each website.
 !
 }
 
