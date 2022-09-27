@@ -275,6 +275,8 @@ get ()
     local url_no_scheme=
     local scheme=
     local zone=
+    local -i rc=0
+    local -i tries=3
     local -i timeout=30
     local -a curl_cmd=(curl)
 
@@ -339,8 +341,19 @@ get ()
         return 103
     fi
 
-    # Do the GET.
-    "${curl_cmd[@]}" -m"${timeout}" -fsL -- "${scheme}://${url_no_scheme}"
+    # Do the GET. Try up to the number of times specified in the tries variable.
+    for (( i = tries; i > 0; i-- ))
+    do
+        "${curl_cmd[@]}" -m"${timeout}" -fsL -- "${scheme}://${url_no_scheme}"
+        rc=$?    
+    
+        if [[ ${rc} -eq 0 ]]
+        then
+            return
+        fi
+    done
+
+    return ${rc}
 }
 
 # create_instance_entry [-T] URL COUNTRY_CODE [CLOUDFLARE [DESCRIPTION]]
