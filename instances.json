@@ -1,5 +1,5 @@
 {
-  "updated": "2022-09-24",
+  "updated": "2022-09-27",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -57,7 +57,7 @@
     {
       "url": "https://libreddit.drivet.xyz",
       "country": "PL",
-      "version": "v0.22.8"
+      "version": "v0.22.9"
     },
     {
       "url": "https://libreddit.de",
