@@ -354,7 +354,7 @@ get ()
     # Do the GET. Try up to the number of times specified in the tries variable.
     for (( i = tries; i > 0; i-- ))
     do
-        "${curl_cmd[@]}" -m"${timeout}" -fsL -- "${scheme}://${url_no_scheme}"
+        "${curl_cmd[@]}" -m"${timeout}" -fs -- "${scheme}://${url_no_scheme}"
         rc=$?
 
         if [[ ${rc} -eq 0 ]]
