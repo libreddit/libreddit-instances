@@ -32,6 +32,6 @@ jobs:
           git add ${{env.OUTPUT_FILE}} 
           git diff-index --quiet HEAD \
             && echo "No changes to commit" \
-            || git commit -m "[update] Uupdate instances"
+            || git commit -m "[update] Update instances"
           git fetch
           git push
