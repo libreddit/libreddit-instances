@@ -86,6 +86,11 @@
       "cloudflare": true
     },
     {
+      "url": "https://libreddit.totaldarkness.net",
+      "country": "CA",
+      "version": "v0.22.9"
+    },
+    {
       "url": "https://libreddit.esmailelbob.xyz",
       "country": "CA",
       "version": "v0.22.9"
@@ -214,7 +219,7 @@
       "version": "v0.22.9"
     },
     {
-      "url": "https://reddit.utsav2.dev/",
+      "url": "https://reddit.utsav2.dev",
       "country": "US",
       "version": "v0.22.9"
     },
