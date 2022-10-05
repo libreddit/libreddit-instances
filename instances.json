@@ -1,5 +1,5 @@
 {
-  "updated": "2022-09-28",
+  "updated": "2022-10-04",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -123,12 +123,6 @@
       "version": "v0.22.9"
     },
     {
-      "url": "https://libreddit.winscloud.net",
-      "country": "TH",
-      "version": "v0.21.7",
-      "cloudflare": true
-    },
-    {
       "url": "https://libreddit.tiekoetter.com",
       "country": "DE",
       "version": "v0.22.9"
@@ -223,11 +217,6 @@
       "url": "https://libreddit.oxymagnesium.com",
       "country": "US",
       "version": "v0.22.9"
-    },
-    {
-      "onion": "http://kzhfp3nvb4qp575vy23ccbrgfocezjtl5dx66uthgrhu7nscu6rcwjyd.onion",
-      "country": "US",
-      "version": "v0.15.2"
     },
     {
       "onion": "http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion",
