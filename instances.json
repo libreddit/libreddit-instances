@@ -1,5 +1,5 @@
 {
-  "updated": "2022-10-04",
+  "updated": "2022-10-05",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -57,7 +57,7 @@
     {
       "url": "https://libreddit.drivet.xyz",
       "country": "PL",
-      "version": "v0.22.8"
+      "version": "v0.22.9"
     },
     {
       "url": "https://libreddit.de",
@@ -215,6 +215,11 @@
     },
     {
       "url": "https://libreddit.oxymagnesium.com",
+      "country": "US",
+      "version": "v0.22.9"
+    },
+    {
+      "url": "https://reddit.utsav2.dev",
       "country": "US",
       "version": "v0.22.9"
     },
