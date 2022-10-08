@@ -1,5 +1,5 @@
 {
-  "updated": "2022-10-05",
+  "updated": "2022-10-08",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -222,6 +222,12 @@
       "url": "https://reddit.utsav2.dev",
       "country": "US",
       "version": "v0.22.9"
+    },
+    {
+      "url": "https://libreddit.freedit.eu",
+      "country": "US",
+      "version": "v0.22.9",
+      "cloudflare": true
     },
     {
       "onion": "http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion",
