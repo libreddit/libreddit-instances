@@ -483,13 +483,6 @@ create_instance_entry ()
     echo "${json}"
 }
 
-# NOTES
-#
-# use jq --slurp to turn mutliple objects into array
-#
-# load any existing onion sites from json:
-# jq -Mcer '.instances[] | select(.onion)' instances-example.json
-
 # helpdoc
 #
 # Print usage information to stdout.
