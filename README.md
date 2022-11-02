@@ -2,8 +2,6 @@
 
 This repository maintains a list of [Libreddit](https://github.com/spikecodes/libreddit) instances in JSON format, providing the URL, location, and Libreddit version for each instance. A helper script exists in this repository to generate the list in JSON form.
 
-The motivation is to provide a machine-consumable list of these instances that can be updated independent of the Libreddit project. At the time this repo was started, the only way to obtain the list of instances was to scrape the [Libreddit README markdown file](https://github.com/spikecodes/libreddit/blob/master/README.md). Additionally, the project was seemingly abandoned in June 2022, and since then many of the instances have ceased operation and requests to update the list were unanswered. 
-
 # Contents
 
 This repo consists of four files:
