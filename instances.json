@@ -1,5 +1,5 @@
 {
-  "updated": "2022-10-27",
+  "updated": "2022-11-04",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -16,6 +16,11 @@
       "url": "https://reddit.invak.id",
       "country": "BG",
       "version": "v0.22.9"
+    },
+    {
+      "url": "https://reddit.invak.id",
+      "country": "BG",
+      "version": "v0.23.2"
     },
     {
       "url": "https://lr.riverside.rocks",
