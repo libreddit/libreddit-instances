@@ -250,6 +250,17 @@
       "version": "v0.23.2"
     },
     {
+      "url": "https://www.futureddit.gq",
+      "country": "IT",
+      "version": "v0.23.1",
+      "cloudflare": true
+    },
+    {
+      "url": "https://lr.4201337.xyz",
+      "country": "FR",
+      "version": "v0.22.9"
+    },
+    {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
       "country": "US",
       "version": "v0.22.9"
