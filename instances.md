@@ -44,7 +44,7 @@
 |https://reddit.utsav2.dev|WWW|v0.22.9|🇺🇸 US|||
 |https://libreddit.freedit.eu|WWW|v0.23.1|🇺🇸 US|✅||
 |https://libreddit.mha.fi|WWW|v0.22.9|🇫🇮 FI|||
-|https://libreddit.garudalinux.org|WWW|v0.23.2|🇫🇮 FI|||
+|https://libreddit.garudalinux.org|WWW|v0.23.2|🇫🇮 FI|✅||
 |https://libreddit.mask.sh|WWW|v0.23.2|🇺🇸 US|||
 |https://www.futureddit.gq|WWW|v0.23.1|🇮🇹 IT|✅||
 |https://lr.4201337.xyz|WWW|v0.22.9|🇫🇷 FR|||
