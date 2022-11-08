@@ -32,9 +32,16 @@ TODAY="$(date -I -u)"
 # jq is required for JSON processing.
 DEPENDENCIES=(curl jq)
 
+# This is the default User-Agent the script will tell curl to use if the
+# environment variable USER_AGENT is not defined.
+DEFAULT_USER_AGENT="libreddit-instance-updater/0.1"
+
 # If USER_AGENT is specified in the envs, we'll pass this argument to curl
 # using the -A flag to set a custom User-Agent.
-USER_AGENT="${USER_AGENT:-}"
+USER_AGENT="${USER_AGENT:-${DEFAULT_USER_AGENT}}"
+
+# HTTP proxy for connecting to nodes on I2P. This is an environment variable.
+I2P_HTTP_PROXY="${I2P_HTTP_PROXY:-}"
 
 # check_tor
 #
@@ -58,6 +65,14 @@ check_program ()
 can_tor ()
 {
     check_tor && check_program torsocks
+}
+
+# can_i2p
+#
+# Returns true if an I2P HTTP proxy is specified.
+can_i2p ()
+{
+    [[ -n "${I2P_HTTP_PROXY}" ]]
 }
 
 # check_dependencies
@@ -258,13 +273,17 @@ canonicalize_url ()
 #
 # Makes an HTTP(S) GET equest to the provided URL with curl. The response is
 # written to standard out. get will determine if the URL is an onion site, and,
-# if so, it wrap the curl call with torsocks. The return value is the curl
-# return value, or:
+# if so, it wrap the curl call with torsocks. If the URL is a I2P site, and
+# I2P_HTTP_PROXY is non-empty, tell curl to use that as the proxy.
+#
+# The return value is the curl return value, or:
 #     100: no or blank URL provided
 #     101: invalid URL
 #     102: URL is an onion site, but we can't connect to tor
 #     103: non-tor URL has non-https scheme
 #     104: prevented from dialing onion site
+#     105: no I2P proxy provided
+#     106: prevented from dialing I2P site
 #
 # Option -T will cause get to skip an onion site, silently, and 104 will be
 # returned.
@@ -275,6 +294,7 @@ get ()
     local OPTARG
    
     local no_tor=n
+    local no_i2p=n
     local url=
     local url_no_scheme=
     local scheme=
@@ -284,9 +304,10 @@ get ()
     local -i timeout=30
     local -a curl_cmd=(curl)
 
-    while getopts "T" opt
+    while getopts "IT" opt
     do
         case "${opt}" in
+        I) no_i2p=y ;;
         T) no_tor=y ;;
         *) ;;
         esac
@@ -309,8 +330,6 @@ get ()
 
     # Extract the scheme. We only support HTTP or HTTPS. But maybe Libreddit
     # has a future on gopher...
-    #
-    # TODO: support i2p
     local scheme="${url%%://*}"
     case "${scheme}" in
     http|https) ;;
@@ -320,14 +339,14 @@ get ()
     # Extract the zone.
     zone="$(<<<"${url}" sed -nE 's|^.+://.+\.([^\./]+)/?.*|\1|p')"
 
-    # Special handling for Onion sites.
-    #  - Don't bother if tor isn't running or we don't have torsocks. But if
-    #    both are available, make sure we warp curl with torsocks.
-    #  - Onion sites can be either HTTPS or HTTP. But we want to enforce
+    # Special handling for Onion and I2P sites.
+    #  - Onion/I2P sites can be either HTTPS or HTTP. But we want to enforce
     #    HTTPS on clearnet sites.
     #  - Increase curl max-time to 60 seconds.
-    if [[ "${zone}" == "onion" ]]
+    if [[ "${zone,,}" == "onion" ]]
     then
+        # Don't bother if tor isn't running or we don't have torsocks. But if
+        # both are available, make sure we warp curl with torsocks.
         if [[ "${no_tor}" == "y" ]]
         then
             return 104
@@ -340,6 +359,20 @@ get ()
 
         timeout=60
         curl_cmd=(torsocks curl)
+    elif [[ "${zone,,}" == "i2p" ]]
+    then
+        if [[ "${no_i2p}" == "y" ]]
+        then
+            return 106
+        fi
+
+        if ! can_i2p
+        then
+            return 105
+        fi
+
+        timeout=60
+        curl_cmd=(curl -x "${I2P_HTTP_PROXY}")
     elif [[ "${scheme}" != "https" ]]
     then
         return 103
@@ -366,7 +399,7 @@ get ()
     return ${rc}
 }
 
-# create_instance_entry [-T] URL COUNTRY_CODE [CLOUDFLARE [DESCRIPTION]]
+# create_instance_entry [-I] [-T] URL COUNTRY_CODE [CLOUDFLARE [DESCRIPTION]]
 #
 # Create JSON object for instance. To specify that the instance is behind
 # Cloudflare, simply set the third argument to be true; any other value
@@ -380,8 +413,8 @@ get ()
 # processing of the rows, including escaping characters in the description
 # column and we will then pass those values verbatim into this function.)
 #
-# Option -T will cause get to skip an onion site, silently, and 100 will be
-# returned.
+# Option -I/-T will cause get to skip an onion/i2p site, respectively, and 100
+# will be returned.
 create_instance_entry ()
 {
     local cloudflare=n
@@ -396,9 +429,10 @@ create_instance_entry ()
     local OPTIND
     local OPTARG
     
-    while getopts "T" opt
+    while getopts "IT" opt
     do
         case "${opt}" in
+        I) get_opts+=("-I") ;;
         T) get_opts+=("-T") ;;
         *) ;;
         esac
@@ -424,9 +458,9 @@ create_instance_entry ()
 
     if [[ ${rc} -ne 0 ]]
     then
-        # 104 is returned if we prevented get from connecting to an onion site.
-        # That requires us to return the special code 100.
-        if [[ ${rc} -eq 104 ]]
+        # 104-6 are returned if we prevented get from connecting to an
+        # onion/i2p site. This requires us to return the special code 100.
+        if [[ ${rc} -eq 104 || ${rc} -eq 105 || ${rc} -eq 106 ]]
         then
             return 100
         fi
@@ -439,23 +473,25 @@ create_instance_entry ()
         return 3
     fi
 
-    # There's no good way to get the version apart from a scrape. This might
-    # not work in early versions of Libreddit, or into the future.
-    # TODO: previous capture group was ([^\<]+), but I changed this to
-    # (v([0-9]+\.){2}[0-9]+) under the assumption the version is always a semantic
-    # version; but this may not be true.
+    # Scrape the version from the site.
+    #
+    # Future versions of Libreddit may advertise the version in a <meta> tag in
+    # <head>, but it doesn't right now.
     version="$(<<<"${res}" sed -nE 's/.*<span\s+id="version">(v([0-9]+\.){2}[0-9]+).*$/\1/p')"
     if [[ -z "${version}" ]]
     then
         return 4
     fi
 
-    # Find out if this is an onion website.
+    # Find out if this is an onion/i2p website.
     # Yeah, this is a little lazy and we could do this a bit better.
-    if [[ "${url,,}" =~ ^https?://[^/]+\.onion ]]
-    then
-        url_type="onion"
-    fi
+    for zone in onion i2p
+    do
+        if [[ "${url,,}" =~ ^https?://[^/]+\.${zone}/?$ ]]
+        then
+            url_type="${zone}"
+        fi
+    done
 
     # Build JSON.
     json="{"
@@ -502,23 +538,31 @@ DESCRIPTION
         [url],[country code],[cloudflare enabled],[description]
 
     where all four parameters are required (though the description may be
-    blank). Except for onion sites, all URLs MUST be HTTPS.
+    blank). Except for onion and I2P sites, all URLs MUST be HTTPS.
 
     OUTPUT_JSON will be overwritten if it exists. No confirmation will be
     requested from the user.
 
-    By default, this script will attempt to connect to instances in the CSV
-    that are on Tor, provided that it can (it will check to see if Tor is
-    running and the availability of the torsocks program). If you want to
-    disable connections to these onion sites, provide the -T option.
+    By default:
+
+    * This script will not attempt to connect to I2P instances. If you want
+      this script to consider instances on the I2P network, you will need to
+      provide an HTTP proxy in the environment variable I2P_HTTP_PROXY.
+      This proxy typically listens at 127.0.0.1:4444.
+
+    * This script will attempt to connect to instances in the CSV that are on
+      Tor, provided that it can (it will check to see if Tor is running and the
+      availability of the torsocks program). If you want to disable connections
+      to these onion sites, provide the -T option.
 
 OPTIONS
     -I INPUT_JSON
-        Import the list of Libreddit onion instances from the file INPUT_JSON.
-        To use stdin, provide \`-I -\`. Implies -T. Note that the argument
-        provided to this option CANNOT be the same as the argument provided to
-        -i. If the JSON could not be read, the script will exit with status
-        code 1.
+        Import the list of Libreddit onion and I2P instances from the file
+        INPUT_JSON. To use stdin, provide \`-I -\`. Implies -T, and further
+        causes the script to ignore the value in I2P_HTTP_PROXY. Note that the
+        argument provided to this option CANNOT be the same as the argument
+        provided to -i. If the JSON could not be read, the script will exit with
+        status code 1.
 
     -T
         Do not connect to Tor. Onion sites in INPUT_CSV will not be processed.
@@ -545,7 +589,14 @@ OPTIONS
 ENVIRONMENT
 
     USER_AGENT
-        Sets the User-Agent that curl will use when making the GET to each website.
+        Sets the User-Agent that curl will use when making the GET to each
+        website. By default, this script will tell curl to set its User-Agent
+        string to "${DEFAULT_USER_AGENT}".
+
+    I2P_HTTP_PROXY
+        HTTP proxy for connecting to the I2P network. This is required in
+        order to connect to instances on I2P. If -I is provided, the value in
+        this variable is ignored.
 !
 }
 
@@ -560,20 +611,21 @@ main ()
 
     local failfast=n
     local do_tor=y
+    local do_i2p=y
     local -a get_opts=()
     local -a missing_deps=()
-    local import_onions_from_file=
+    local import_nonwww_from_file=
     local input_file=/dev/stdin
     local output_file=/dev/stdout
     local -a instance_entries=()
-    local -a imported_onions=()
+    local -a imported_nonwww=()
     local instance_entry=
     local -i rc=0
 
     while getopts ":I:Tfhi:o:" opt
     do
         case "${opt}" in
-        I) import_onions_from_file="${OPTARG}" ;;
+        I) import_nonwww_from_file="${OPTARG}" ;;
         T) do_tor=n ;;
         f) failfast=y ;;
         h) helpdoc ; exit ;;
@@ -629,10 +681,10 @@ main ()
     fi
 
     # Special handling for -I.
-    if [[ -n "${import_onions_from_file}" ]]
+    if [[ -n "${import_nonwww_from_file}" ]]
     then
         # Abort if -I and -i point to the same file.
-        if [[ "${import_onions_from_file}" == "${input_file}" ]]
+        if [[ "${import_nonwww_from_file}" == "${input_file}" ]]
         then
             echo >&2 "-I and -i cannot point to the same file."
             echo >&2 "For more information, run: ${BASH_SOURCE[0]} -h"
@@ -642,12 +694,15 @@ main ()
         # Set do_tor <- n so that we don't attempt to make tor connections.
         do_tor=n
 
+        # Do the same for i2p.
+        do_i2p=n
+
         # Attempt to read in onion instances.
         # shellcheck disable=SC2207
-        # (mapfile not ideal here since a pipe is required, inducing a
+        # (a mapfile would not ideal here since a pipe is required, inducing a
         # subshell, meaning nothing will actually get added to
-        # imported_onions)
-        IFS=$'\n' imported_onions=($(jq -Mcer '.instances[] | select(.onion)' "${import_onions_from_file}"))
+        # imported_nonwww)
+        IFS=$'\n' imported_nonwww=($(jq -Mcer '.instances[] | select(.onion or .i2p)' "${import_nonwww_from_file}"))
         rc=$?
 
         if [[ ${rc} -ne 0 ]]
@@ -668,6 +723,17 @@ main ()
         fi
         do_tor="n"
         get_opts+=("-T")
+    fi
+
+    # Don't attempt I2P connections if no proxy was given.
+    if ! can_i2p
+    then
+        do_i2p="n"
+    fi
+
+    if [[ "${do_i2p}" == "n" ]]
+    then
+        get_opts+=("-I")
     fi
 
     if [[ "${input_file}" != "/dev/stdin" ]]
@@ -748,7 +814,7 @@ main ()
     # TODO: see if this can be done in one jq call, without having
     # to pass the list to jq --slurp and then everything to jq.
     printf '{"updated":"%s","instances":%s}' "${TODAY}" "$(IFS=$'\n'
-        for instance in "${instance_entries[@]}" "${imported_onions[@]}"
+        for instance in "${instance_entries[@]}" "${imported_nonwww[@]}"
         do
             echo "${instance}"
         done | jq -Mcers .
