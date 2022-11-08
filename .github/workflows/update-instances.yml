@@ -1,21 +1,16 @@
-name: Update instances.json
+name: Update json and markdown
 
 on:
   push:
-    branches: [ master ]
-
+    paths:
+      - "instances.txt"
+    branches:
+      - master
   workflow_dispatch: # run on manual trigger
-
-  schedule:
-    - cron: "0 */12 * * *" # run every 12 hours
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
-    env:
-      INPUT_FILE: instances.txt
-      OUTPUT_FILE: instances.json
 
     steps:
     - name: Checkout the repository
@@ -23,15 +18,12 @@ jobs:
 
     - name: Generate instances
       run: |
-       ./generate-instances-json.sh -i ${{env.INPUT_FILE}} -o ${{env.OUTPUT_FILE}}
+       ./generate-instances-json.sh -i ./instances.txt -o ./instances.json
+       ./generate-instances-markdown.py --output=./instances.md ./instances.json
 
-    - name: Commit updated file back to the repository
+    - name: Commit updated files back to the repository
       run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add ${{env.OUTPUT_FILE}} 
-          git diff-index --quiet HEAD \
-            && echo "No changes to commit" \
-            || git commit -m "[update] Update instances"
-          git fetch
+          git commit -am "[update] Update instances"
           git push
