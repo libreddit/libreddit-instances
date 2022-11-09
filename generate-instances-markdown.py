@@ -10,7 +10,7 @@ This script requires python3 of at least version 3.5.
 Almost all of this script is licensed under the GNU General Public License,
 version 3.
 
-Portions of this script, specifically the function `flag()`, are adapted from
+A Portion of this script, specifically the function `flag()`, is adapted from
 Django Countries (https://github.com/SmileyChris/django-countries), licensed
 under the MIT License. Pursuant to the copyright notice requirement of that
 license, the full contents of the license agreement as of Nov 5, 2022, are
