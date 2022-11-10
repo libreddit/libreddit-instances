@@ -1,5 +1,5 @@
 {
-  "updated": "2022-11-07",
+  "updated": "2022-11-10",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -93,12 +93,12 @@
     {
       "url": "https://libreddit.esmailelbob.xyz",
       "country": "CA",
-      "version": "v0.23.1"
+      "version": "v0.23.2"
     },
     {
       "url": "https://lr.vern.cc",
       "country": "CA",
-      "version": "v0.1.0"
+      "version": "v0.23.2"
     },
     {
       "url": "https://libreddit.nl",
@@ -262,24 +262,9 @@
       "version": "v0.23.2"
     },
     {
-      "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
-      "country": "US",
-      "version": "v0.22.9"
-    },
-    {
-      "onion": "http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion",
-      "country": "DE",
+      "url": "https://reddit.stetsed.xyz",
+      "country": "NL",
       "version": "v0.23.2"
-    },
-    {
-      "onion": "http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
-      "country": "CA",
-      "version": "v0.23.1"
-    },
-    {
-      "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
-      "country": "US",
-      "version": "v0.22.9"
     }
   ]
 }
