@@ -18,7 +18,6 @@
 |https://libreddit.hu|WWW|v0.20.2|🇫🇮 FI|✅||
 |https://libreddit.totaldarkness.net|WWW|v0.23.1|🇨🇦 CA|||
 |https://libreddit.esmailelbob.xyz|WWW|v0.23.2|🇨🇦 CA|||
-|https://lr.vern.cc|WWW|v0.23.2|🇨🇦 CA|||
 |https://libreddit.nl|WWW|v0.23.2|🇳🇱 NL|||
 |https://reddi.tk|WWW|v0.22.9|🇺🇸 US|✅||
 |https://r.walkx.org|WWW|v0.22.8|🇳🇱 NL|✅||
@@ -33,7 +32,6 @@
 |https://rd.jae.su|WWW|v0.23.2|🇫🇮 FI|||
 |https://libreddit.foss.wtf|WWW|v0.23.2|🇩🇪 DE|||
 |https://libreddit.encrypted-data.xyz|WWW|v0.22.9|🇫🇷 FR|✅||
-|https://libreddit.eu.org|WWW|v0.22.9|🇮🇪 IE|✅||
 |https://l.opnxng.com|WWW|v0.23.2|🇸🇬 SG|||
 |https://libreddit.cachyos.org|WWW|v0.22.9|🇩🇪 DE|✅||
 |https://rd.funami.tech|WWW|v0.22.8|🇰🇷 KR|||
@@ -45,8 +43,11 @@
 |https://libreddit.freedit.eu|WWW|v0.23.1|🇺🇸 US|✅||
 |https://libreddit.mha.fi|WWW|v0.22.9|🇫🇮 FI|||
 |https://libreddit.garudalinux.org|WWW|v0.23.2|🇫🇮 FI|✅||
-|https://libreddit.mask.sh|WWW|v0.23.2|🇺🇸 US|||
 |https://www.futureddit.gq|WWW|v0.23.1|🇮🇹 IT|✅||
 |https://lr.4201337.xyz|WWW|v0.22.9|🇫🇷 FR|||
 |https://lr.odyssey346.dev|WWW|v0.23.2|🇫🇷 FR|||
 |https://reddit.stetsed.xyz|WWW|v0.23.2|🇳🇱 NL|||
+|http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
+|http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion|Tor|v0.23.2|🇩🇪 DE|||
+|http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.23.1|🇨🇦 CA|||
+|http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||

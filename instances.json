@@ -1,5 +1,5 @@
 {
-  "updated": "2022-11-10",
+  "updated": "2022-11-11",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -96,11 +96,6 @@
       "version": "v0.23.2"
     },
     {
-      "url": "https://lr.vern.cc",
-      "country": "CA",
-      "version": "v0.23.2"
-    },
-    {
       "url": "https://libreddit.nl",
       "country": "NL",
       "version": "v0.23.2"
@@ -176,12 +171,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://libreddit.eu.org",
-      "country": "IE",
-      "version": "v0.22.9",
-      "cloudflare": true
-    },
-    {
       "url": "https://l.opnxng.com",
       "country": "SG",
       "version": "v0.23.2"
@@ -241,11 +230,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://libreddit.mask.sh",
-      "country": "US",
-      "version": "v0.23.2"
-    },
-    {
       "url": "https://www.futureddit.gq",
       "country": "IT",
       "version": "v0.23.1",
@@ -265,6 +249,26 @@
       "url": "https://reddit.stetsed.xyz",
       "country": "NL",
       "version": "v0.23.2"
+    },
+    {
+      "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
+      "country": "US",
+      "version": "v0.22.9"
+    },
+    {
+      "onion": "http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion",
+      "country": "DE",
+      "version": "v0.23.2"
+    },
+    {
+      "onion": "http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
+      "country": "CA",
+      "version": "v0.23.1"
+    },
+    {
+      "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
+      "country": "US",
+      "version": "v0.22.9"
     }
   ]
 }
