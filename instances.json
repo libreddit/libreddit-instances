@@ -1,5 +1,5 @@
 {
-  "updated": "2022-11-11",
+  "updated": "2022-11-12",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -251,6 +251,17 @@
       "version": "v0.23.2"
     },
     {
+      "url": "https://lr.artemislena.eu",
+      "country": "DE",
+      "version": "v0.23.2"
+    },
+    {
+      "url": "https://discuss.whatever.social",
+      "country": "US",
+      "version": "v0.23.2",
+      "description": "uses CDN"
+    },
+    {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
       "country": "US",
       "version": "v0.22.9"
@@ -263,7 +274,7 @@
     {
       "onion": "http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
       "country": "CA",
-      "version": "v0.23.1"
+      "version": "v0.23.2"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
