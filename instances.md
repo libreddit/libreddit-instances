@@ -31,7 +31,8 @@
 |https://reddit.dr460nf1r3.org|WWW|v0.23.2|🇩🇪 DE|✅||
 |https://rd.jae.su|WWW|v0.23.2|🇫🇮 FI|||
 |https://libreddit.foss.wtf|WWW|v0.23.2|🇩🇪 DE|||
-|https://libreddit.encrypted-data.xyz|WWW|v0.22.9|🇫🇷 FR|✅||
+|https://libreddit.encrypted-data.xyz|WWW|v0.23.1|🇫🇷 FR|✅||
+|https://libreddit.eu.org|WWW|v0.22.9|🇮🇪 IE|✅||
 |https://l.opnxng.com|WWW|v0.23.2|🇸🇬 SG|||
 |https://libreddit.cachyos.org|WWW|v0.22.9|🇩🇪 DE|✅||
 |https://rd.funami.tech|WWW|v0.22.8|🇰🇷 KR|||
@@ -53,3 +54,4 @@
 |http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion|Tor|v0.23.2|🇩🇪 DE|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.23.2|🇨🇦 CA|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
+|http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion|Tor|v0.23.2|🇩🇪 DE|||

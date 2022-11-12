@@ -167,6 +167,12 @@
     {
       "url": "https://libreddit.encrypted-data.xyz",
       "country": "FR",
+      "version": "v0.23.1",
+      "cloudflare": true
+    },
+    {
+      "url": "https://libreddit.eu.org",
+      "country": "IE",
       "version": "v0.22.9",
       "cloudflare": true
     },
@@ -280,6 +286,11 @@
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
       "country": "US",
       "version": "v0.22.9"
+    },
+    {
+      "onion": "http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
+      "country": "DE",
+      "version": "v0.23.2"
     }
   ]
 }
