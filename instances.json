@@ -1,5 +1,5 @@
 {
-  "updated": "2022-11-07",
+  "updated": "2022-11-11",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -93,12 +93,7 @@
     {
       "url": "https://libreddit.esmailelbob.xyz",
       "country": "CA",
-      "version": "v0.23.1"
-    },
-    {
-      "url": "https://lr.vern.cc",
-      "country": "CA",
-      "version": "v0.1.0"
+      "version": "v0.23.2"
     },
     {
       "url": "https://libreddit.nl",
@@ -176,12 +171,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://libreddit.eu.org",
-      "country": "IE",
-      "version": "v0.22.9",
-      "cloudflare": true
-    },
-    {
       "url": "https://l.opnxng.com",
       "country": "SG",
       "version": "v0.23.2"
@@ -241,11 +230,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://libreddit.mask.sh",
-      "country": "US",
-      "version": "v0.23.2"
-    },
-    {
       "url": "https://www.futureddit.gq",
       "country": "IT",
       "version": "v0.23.1",
@@ -259,6 +243,11 @@
     {
       "url": "https://lr.odyssey346.dev",
       "country": "FR",
+      "version": "v0.23.2"
+    },
+    {
+      "url": "https://reddit.stetsed.xyz",
+      "country": "NL",
       "version": "v0.23.2"
     },
     {
