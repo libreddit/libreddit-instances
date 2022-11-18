@@ -1,5 +1,5 @@
 {
-  "updated": "2022-11-15",
+  "updated": "2022-11-18",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -10,7 +10,7 @@
     {
       "url": "https://libreddit.kavin.rocks",
       "country": "IN",
-      "version": "v0.23.2"
+      "version": "v0.24.0"
     },
     {
       "url": "https://reddit.invak.id",
@@ -30,7 +30,7 @@
     {
       "url": "https://libreddit.strongthany.cc",
       "country": "US",
-      "version": "v0.22.9"
+      "version": "v0.24.0"
     },
     {
       "url": "https://libreddit.privacy.com.de",
@@ -46,7 +46,7 @@
     {
       "url": "https://r.nf",
       "country": "DE",
-      "version": "v0.23.1",
+      "version": "v0.24.0",
       "cloudflare": true
     },
     {
@@ -67,7 +67,7 @@
     {
       "url": "https://libreddit.de",
       "country": "DE",
-      "version": "v0.22.9"
+      "version": "v0.24.0"
     },
     {
       "url": "https://libreddit.pussthecat.org",
@@ -165,14 +165,9 @@
       "version": "v0.24.0"
     },
     {
-      "url": "https://libreddit.foss.wtf",
-      "country": "DE",
-      "version": "v0.23.2"
-    },
-    {
       "url": "https://libreddit.encrypted-data.xyz",
       "country": "FR",
-      "version": "v0.23.1",
+      "version": "v0.24.0",
       "cloudflare": true
     },
     {
@@ -184,7 +179,7 @@
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
-      "version": "v0.23.2"
+      "version": "v0.24.0"
     },
     {
       "url": "https://libreddit.cachyos.org",
@@ -264,11 +259,6 @@
     {
       "url": "https://reddit.stetsed.xyz",
       "country": "NL",
-      "version": "v0.23.2"
-    },
-    {
-      "url": "https://lr.artemislena.eu",
-      "country": "DE",
       "version": "v0.24.0"
     },
     {
@@ -276,6 +266,11 @@
       "country": "US",
       "version": "v0.23.2",
       "description": "uses CDN"
+    },
+    {
+      "url": "https://libreddit.pufe.org",
+      "country": "NZ",
+      "version": "v0.24.0"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
