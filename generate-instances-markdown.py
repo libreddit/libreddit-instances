@@ -97,19 +97,6 @@ WARNING: This script will overwrite the output file if it exists.
         sys.stderr.write("\t" + e.__str__() + "\n")
         return 1
 
-    if parsed_args.OUTPUT_FILE == "-":
-        out = sys.stdout
-    else:
-        try:
-            mode="x"
-            if os.path.exists(parsed_args.OUTPUT_FILE):
-                mode="w"
-            out = open(parsed_args.OUTPUT_FILE, mode)
-        except Exception as e:
-            sys.stderr.write("Error opening '{}' for writing:\n".format(parsed_args.OUTPUT_FILE))
-            sys.stderr.write("\t" + e.__str__() + "\n")
-            return 1
-
     table_preamble = "|URL|Network|Version|Location|Behind Cloudflare?|Comment|\n|-|-|-|-|-|-|\n"
     table_rows = []
     for instance in instances["instances"]:
@@ -158,13 +145,23 @@ WARNING: This script will overwrite the output file if it exists.
             location = country
 
         table_rows.append("|{0}|{1}|{2}|{3}|{4}|{5}|\n".format(
-                    url,
-                    network,
-                    version,
-                    location,
-                    "\u2705" if cloudflare else "",
-                    description
+            url,
+            network,
+            version,
+            location,
+            "\u2705" if cloudflare else "",
+            description
         ))
+
+    if parsed_args.OUTPUT_FILE == "-":
+        out = sys.stdout
+    else:
+        try:
+            out = open(parsed_args.OUTPUT_FILE, "w" if os.path.exists(parsed_args.OUTPUT_FILE) else "x")
+        except Exception as e:
+            sys.stderr.write("Error opening '{}' for writing:\n".format(parsed_args.OUTPUT_FILE))
+            sys.stderr.write("\t" + e.__str__() + "\n")
+            return 1
 
     out.write(table_preamble)
     for row in table_rows:
