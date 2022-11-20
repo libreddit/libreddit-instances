@@ -13,7 +13,7 @@
 |https://lr.mint.lgbt|WWW|v0.22.9|🇨🇦 CA|||
 |https://libreddit.drivet.xyz|WWW|v0.23.2|🇵🇱 PL|||
 |https://libreddit.de|WWW|v0.24.0|🇩🇪 DE|||
-|https://libreddit.pussthecat.org|WWW|v0.23.2|🇩🇪 DE|||
+|https://libreddit.pussthecat.org|WWW|v0.24.0|🇩🇪 DE|||
 |https://libreddit.northboot.xyz|WWW|v0.23.2|🇩🇪 DE|||
 |https://libreddit.hu|WWW|v0.20.2|🇫🇮 FI|✅||
 |https://libreddit.totaldarkness.net|WWW|v0.23.1|🇨🇦 CA|||
@@ -23,7 +23,7 @@
 |https://reddi.tk|WWW|v0.22.9|🇺🇸 US|✅||
 |https://r.walkx.org|WWW|v0.22.8|🇳🇱 NL|✅||
 |https://libreddit.kylrth.com|WWW|v0.23.2|🇨🇦 CA|||
-|https://libreddit.tiekoetter.com|WWW|v0.23.1|🇩🇪 DE|||
+|https://libreddit.tiekoetter.com|WWW|v0.24.0|🇩🇪 DE|||
 |https://reddit.rtrace.io|WWW|v0.23.2|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.22.9|🇺🇸 US|||
 |https://r.ahwx.org|WWW|v0.22.9|🇳🇱 NL|✅||
@@ -31,24 +31,26 @@
 |https://libreddit.dcs0.hu|WWW|v0.22.8|🇭🇺 HU|||
 |https://reddit.dr460nf1r3.org|WWW|v0.23.2|🇩🇪 DE|✅||
 |https://rd.jae.su|WWW|v0.24.0|🇫🇮 FI|||
+|https://libreddit.foss.wtf|WWW|v0.24.0|🇩🇪 DE|||
 |https://libreddit.encrypted-data.xyz|WWW|v0.24.0|🇫🇷 FR|✅||
 |https://libreddit.eu.org|WWW|v0.22.9|🇮🇪 IE|✅||
 |https://l.opnxng.com|WWW|v0.24.0|🇸🇬 SG|||
-|https://libreddit.cachyos.org|WWW|v0.22.9|🇩🇪 DE|✅||
+|https://libreddit.cachyos.org|WWW|v0.24.0|🇩🇪 DE|✅||
 |https://rd.funami.tech|WWW|v0.22.8|🇰🇷 KR|||
 |https://libreddit.projectsegfau.lt|WWW|v0.22.9|🇱🇺 LU|||
 |https://www.futureddit.gq|WWW|v0.24.0|🇹🇷 TR|✅||
 |https://lr.slipfox.xyz|WWW|v0.22.9|🇺🇸 US|||
-|https://libreddit.oxymagnesium.com|WWW|v0.22.9|🇺🇸 US|||
+|https://libreddit.oxymagnesium.com|WWW|v0.23.1|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.22.9|🇺🇸 US|||
 |https://libreddit.freedit.eu|WWW|v0.24.0|🇺🇸 US|✅||
-|https://libreddit.mha.fi|WWW|v0.23.2|🇫🇮 FI|||
+|https://libreddit.mha.fi|WWW|v0.24.0|🇫🇮 FI|||
 |https://libreddit.garudalinux.org|WWW|v0.23.2|🇫🇮 FI|✅||
 |https://libreddit.mask.sh|WWW|v0.23.2|🇺🇸 US|||
 |https://www.futureddit.gq|WWW|v0.24.0|🇮🇹 IT|✅||
 |https://lr.4201337.xyz|WWW|v0.22.9|🇫🇷 FR|||
 |https://lr.odyssey346.dev|WWW|v0.24.0|🇫🇷 FR|||
 |https://reddit.stetsed.xyz|WWW|v0.24.0|🇳🇱 NL|||
+|https://lr.artemislena.eu|WWW|v0.24.0|🇩🇪 DE|||
 |https://discuss.whatever.social|WWW|v0.23.2|🇺🇸 US||uses CDN|
 |https://libreddit.pufe.org|WWW|v0.24.0|🇳🇿 NZ|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
