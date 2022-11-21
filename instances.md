@@ -53,6 +53,7 @@
 |https://lr.artemislena.eu|WWW|v0.24.0|🇩🇪 DE|||
 |https://discuss.whatever.social|WWW|v0.23.2|🇺🇸 US||uses CDN|
 |https://libreddit.pufe.org|WWW|v0.24.0|🇳🇿 NZ|||
+|https://libreddit.marcopisco.com|WWW|v0.24.0|🇵🇹 PT|✅||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion|Tor|v0.23.2|🇩🇪 DE|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.24.0|🇨🇦 CA|||
