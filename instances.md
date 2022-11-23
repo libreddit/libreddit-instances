@@ -1,6 +1,6 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://libreddit.spike.codes|WWW|v0.24.0|🇺🇸 US||official instance|
+|https://libreddit.spike.codes|WWW|v0.24.1|🇺🇸 US||official instance|
 |https://libreddit.kavin.rocks|WWW|v0.24.0|🇮🇳 IN|||
 |https://reddit.invak.id|WWW|v0.24.1|🇧🇬 BG|||
 |https://reddit.simo.sh|WWW|v0.24.1|🇧🇬 BG|||
