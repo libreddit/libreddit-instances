@@ -5,20 +5,18 @@
 |https://reddit.invak.id|WWW|v0.24.1|🇧🇬 BG|||
 |https://reddit.simo.sh|WWW|v0.24.1|🇧🇬 BG|||
 |https://lr.riverside.rocks|WWW|v0.15.2|🇺🇸 US|||
-|https://libreddit.strongthany.cc|WWW|v0.24.0|🇺🇸 US|||
 |https://libreddit.privacy.com.de|WWW|v0.22.9|🇩🇪 DE|||
 |https://libreddit.domain.glass|WWW|v0.10.5|🇺🇸 US|✅||
-|https://r.nf|WWW|v0.24.0|🇩🇪 DE|✅||
+|https://r.nf|WWW|v0.24.1|🇩🇪 DE|✅||
 |https://reddit.stuehieyr.com|WWW|v0.22.6|🇩🇪 DE|||
 |https://lr.mint.lgbt|WWW|v0.22.9|🇨🇦 CA|||
 |https://libreddit.drivet.xyz|WWW|v0.24.1|🇵🇱 PL|||
 |https://libreddit.de|WWW|v0.24.1|🇩🇪 DE|||
-|https://libreddit.pussthecat.org|WWW|v0.24.0|🇩🇪 DE|||
+|https://libreddit.pussthecat.org|WWW|v0.24.1|🇩🇪 DE|||
 |https://libreddit.northboot.xyz|WWW|v0.23.2|🇩🇪 DE|||
 |https://libreddit.hu|WWW|v0.20.2|🇫🇮 FI|✅||
 |https://libreddit.totaldarkness.net|WWW|v0.23.1|🇨🇦 CA|||
 |https://libreddit.esmailelbob.xyz|WWW|v0.24.0|🇨🇦 CA|||
-|https://lr.vern.cc|WWW|v0.23.2|🇨🇦 CA|||
 |https://libreddit.nl|WWW|v0.24.1|🇳🇱 NL|||
 |https://reddi.tk|WWW|v0.22.9|🇺🇸 US|✅||
 |https://r.walkx.org|WWW|v0.24.1|🇳🇱 NL|✅||
@@ -42,18 +40,19 @@
 |https://lr.slipfox.xyz|WWW|v0.22.9|🇺🇸 US|||
 |https://libreddit.oxymagnesium.com|WWW|v0.24.0|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.22.9|🇺🇸 US|||
-|https://libreddit.freedit.eu|WWW|v0.24.0|🇺🇸 US|✅||
+|https://libreddit.freedit.eu|WWW|v0.24.1|🇺🇸 US|✅||
 |https://libreddit.mha.fi|WWW|v0.24.1|🇫🇮 FI|||
 |https://libreddit.garudalinux.org|WWW|v0.24.1|🇫🇮 FI|✅||
 |https://libreddit.mask.sh|WWW|v0.23.2|🇺🇸 US|||
 |https://www.futureddit.gq|WWW|v0.24.1|🇮🇹 IT|✅||
-|https://lr.4201337.xyz|WWW|v0.22.9|🇫🇷 FR|||
+|https://lr.4201337.xyz|WWW|v0.24.1|🇫🇷 FR|||
 |https://lr.odyssey346.dev|WWW|v0.24.1|🇫🇷 FR|||
 |https://reddit.stetsed.xyz|WWW|v0.24.1|🇳🇱 NL|||
 |https://lr.artemislena.eu|WWW|v0.24.1|🇩🇪 DE|||
-|https://discuss.whatever.social|WWW|v0.23.2|🇺🇸 US||uses CDN|
+|https://discuss.whatever.social|WWW|v0.24.1|🇺🇸 US||uses CDN|
 |https://libreddit.pufe.org|WWW|v0.24.0|🇳🇿 NZ|||
 |https://libreddit.marcopisco.com|WWW|v0.24.0|🇵🇹 PT|✅||
+|https://lr.aeong.one|WWW|v0.23.2|🇰🇷 KR|✅||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion|Tor|v0.23.2|🇩🇪 DE|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.24.0|🇨🇦 CA|||
