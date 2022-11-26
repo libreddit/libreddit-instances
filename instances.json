@@ -1,5 +1,5 @@
 {
-  "updated": "2022-11-24",
+  "updated": "2022-11-26",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -28,11 +28,6 @@
       "version": "v0.15.2"
     },
     {
-      "url": "https://libreddit.strongthany.cc",
-      "country": "US",
-      "version": "v0.24.0"
-    },
-    {
       "url": "https://libreddit.privacy.com.de",
       "country": "DE",
       "version": "v0.22.9"
@@ -46,7 +41,7 @@
     {
       "url": "https://r.nf",
       "country": "DE",
-      "version": "v0.24.0",
+      "version": "v0.24.1",
       "cloudflare": true
     },
     {
@@ -72,7 +67,7 @@
     {
       "url": "https://libreddit.pussthecat.org",
       "country": "DE",
-      "version": "v0.24.0"
+      "version": "v0.24.1"
     },
     {
       "url": "https://libreddit.northboot.xyz",
@@ -94,11 +89,6 @@
       "url": "https://libreddit.esmailelbob.xyz",
       "country": "CA",
       "version": "v0.24.0"
-    },
-    {
-      "url": "https://lr.vern.cc",
-      "country": "CA",
-      "version": "v0.23.2"
     },
     {
       "url": "https://libreddit.nl",
@@ -226,7 +216,7 @@
     {
       "url": "https://libreddit.freedit.eu",
       "country": "US",
-      "version": "v0.24.0",
+      "version": "v0.24.1",
       "cloudflare": true
     },
     {
@@ -254,7 +244,7 @@
     {
       "url": "https://lr.4201337.xyz",
       "country": "FR",
-      "version": "v0.22.9"
+      "version": "v0.24.1"
     },
     {
       "url": "https://lr.odyssey346.dev",
@@ -274,7 +264,7 @@
     {
       "url": "https://discuss.whatever.social",
       "country": "US",
-      "version": "v0.23.2",
+      "version": "v0.24.1",
       "description": "uses CDN"
     },
     {
@@ -286,6 +276,12 @@
       "url": "https://libreddit.marcopisco.com",
       "country": "PT",
       "version": "v0.24.0",
+      "cloudflare": true
+    },
+    {
+      "url": "https://lr.aeong.one",
+      "country": "KR",
+      "version": "v0.23.2",
       "cloudflare": true
     },
     {
