@@ -134,7 +134,7 @@ The script will process the CSV and for each row connect to the URL and get the 
     "url": "<url>",
     "version": "<version>",
     "cloudflare": <true if cloudflare is enabled; null otherwise>,
-    "description: "<description if non-empty; null otherwise>"
+    "description": "<description if non-empty; null otherwise>"
 }
 ```
 
