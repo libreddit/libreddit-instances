@@ -22,10 +22,9 @@
 |https://r.walkx.org|WWW|v0.24.1|🇳🇱 NL|✅||
 |https://libreddit.kylrth.com|WWW|v0.23.2|🇨🇦 CA|||
 |https://libreddit.tiekoetter.com|WWW|v0.24.1|🇩🇪 DE|||
-|https://reddit.rtrace.io|WWW|v0.24.0|🇩🇪 DE|||
+|https://reddit.rtrace.io|WWW|v0.24.1|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.22.9|🇺🇸 US|||
 |https://r.ahwx.org|WWW|v0.22.9|🇳🇱 NL|✅||
-|https://bob.fr.to|WWW|v0.24.1|🇺🇸 US|||
 |https://libreddit.dcs0.hu|WWW|v0.24.1|🇭🇺 HU|||
 |https://reddit.dr460nf1r3.org|WWW|v0.24.1|🇩🇪 DE|✅||
 |https://rd.jae.su|WWW|v0.24.1|🇫🇮 FI|||
@@ -47,12 +46,12 @@
 |https://www.futureddit.gq|WWW|v0.24.1|🇮🇹 IT|✅||
 |https://lr.4201337.xyz|WWW|v0.24.1|🇫🇷 FR|||
 |https://lr.odyssey346.dev|WWW|v0.24.1|🇫🇷 FR|||
-|https://reddit.stetsed.xyz|WWW|v0.24.1|🇳🇱 NL|||
+|https://reddit.selfhostable.net|WWW|v0.24.1|🇳🇱 NL|||
 |https://lr.artemislena.eu|WWW|v0.24.1|🇩🇪 DE|||
 |https://discuss.whatever.social|WWW|v0.24.1|🇺🇸 US||uses CDN|
-|https://libreddit.pufe.org|WWW|v0.24.0|🇳🇿 NZ|||
+|https://libreddit.pufe.org|WWW|v0.24.1|🇳🇿 NZ|||
 |https://libreddit.marcopisco.com|WWW|v0.24.0|🇵🇹 PT|✅||
-|https://lr.aeong.one|WWW|v0.23.2|🇰🇷 KR|✅||
+|https://lr.aeong.one|WWW|v0.24.1|🇰🇷 KR|✅||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion|Tor|v0.23.2|🇩🇪 DE|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.24.0|🇨🇦 CA|||
