@@ -25,6 +25,7 @@
 |https://reddit.rtrace.io|WWW|v0.24.1|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.22.9|🇺🇸 US|||
 |https://r.ahwx.org|WWW|v0.22.9|🇳🇱 NL|✅||
+|https://bob.fr.to|WWW|v0.24.1|🇺🇸 US|||
 |https://libreddit.dcs0.hu|WWW|v0.24.1|🇭🇺 HU|||
 |https://reddit.dr460nf1r3.org|WWW|v0.24.1|🇩🇪 DE|✅||
 |https://rd.jae.su|WWW|v0.24.1|🇫🇮 FI|||

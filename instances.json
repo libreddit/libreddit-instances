@@ -134,6 +134,11 @@
       "cloudflare": true
     },
     {
+      "url": "https://bob.fr.to",
+      "country": "US",
+      "version": "v0.24.1"
+    },
+    {
       "url": "https://libreddit.dcs0.hu",
       "country": "HU",
       "version": "v0.24.1"
