@@ -143,7 +143,7 @@ At the end, the script will assemble the entries into a JSON array and place the
 ```json
 {
     "updated": "<today's date (at the Greenwich meridian) in ISO 8601 format>",
-    "instances: [<entries>]
+    "instances": ["<entries>"]
 }
 ```
 
