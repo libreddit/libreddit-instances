@@ -5,6 +5,7 @@
 |https://reddit.invak.id|WWW|v0.24.1|🇧🇬 BG|||
 |https://reddit.simo.sh|WWW|v0.24.1|🇧🇬 BG|||
 |https://lr.riverside.rocks|WWW|v0.15.2|🇺🇸 US|||
+|https://libreddit.strongthany.cc|WWW|v0.24.0|🇺🇸 US|||
 |https://libreddit.privacy.com.de|WWW|v0.22.9|🇩🇪 DE|||
 |https://libreddit.domain.glass|WWW|v0.10.5|🇺🇸 US|✅||
 |https://r.nf|WWW|v0.24.1|🇩🇪 DE|✅||
@@ -15,8 +16,8 @@
 |https://libreddit.pussthecat.org|WWW|v0.24.1|🇩🇪 DE|||
 |https://libreddit.northboot.xyz|WWW|v0.23.2|🇩🇪 DE|||
 |https://libreddit.hu|WWW|v0.20.2|🇫🇮 FI|✅||
-|https://libreddit.totaldarkness.net|WWW|v0.23.1|🇨🇦 CA|||
 |https://libreddit.esmailelbob.xyz|WWW|v0.24.0|🇨🇦 CA|||
+|https://lr.vern.cc|WWW|v0.23.2|🇺🇸 US|||
 |https://libreddit.nl|WWW|v0.24.1|🇳🇱 NL|||
 |https://reddi.tk|WWW|v0.22.9|🇺🇸 US|✅||
 |https://r.walkx.org|WWW|v0.24.1|🇳🇱 NL|✅||
@@ -30,7 +31,7 @@
 |https://reddit.dr460nf1r3.org|WWW|v0.24.1|🇩🇪 DE|✅||
 |https://rd.jae.su|WWW|v0.24.1|🇫🇮 FI|||
 |https://libreddit.foss.wtf|WWW|v0.24.1|🇩🇪 DE|||
-|https://libreddit.encrypted-data.xyz|WWW|v0.24.0|🇫🇷 FR|✅||
+|https://libreddit.encrypted-data.xyz|WWW|v0.24.1|🇫🇷 FR|✅||
 |https://libreddit.eu.org|WWW|v0.22.9|🇮🇪 IE|✅||
 |https://l.opnxng.com|WWW|v0.24.1|🇸🇬 SG|||
 |https://libreddit.cachyos.org|WWW|v0.24.0|🇩🇪 DE|✅||
