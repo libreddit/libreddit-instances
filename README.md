@@ -16,7 +16,7 @@ This repo consists of four files:
 
 To generate `instances.json`, perform the following:
 
-1. Modify `instances.txt` to add or remove instances. See [Expected CSV format](#Expected CSV format) for the expected format of each CSV row.
+1. Modify `instances.txt` to add or remove instances. See [Expected CSV format](#expected-csv-format) for the expected format of each CSV row.
 1. Run `generate-instances-json.sh -i ./instances.txt -o ./instances.json` to generate `instances.json`. The existing `instances.json` will be replaced.
 1. Run `generate-instances-markdown.py --output=./instances.md ./instances.json` to generate `instances.md`. The existing `instances.md` file will be replaced.
 
