@@ -1,5 +1,5 @@
 {
-  "updated": "2022-12-04",
+  "updated": "2022-12-05",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -46,7 +46,7 @@
     {
       "url": "https://r.nf",
       "country": "DE",
-      "version": "v0.24.3",
+      "version": "v0.25.0",
       "cloudflare": true
     },
     {
@@ -62,7 +62,7 @@
     {
       "url": "https://libreddit.drivet.xyz",
       "country": "PL",
-      "version": "v0.24.1"
+      "version": "v0.25.0"
     },
     {
       "url": "https://libreddit.de",
@@ -103,7 +103,7 @@
     {
       "url": "https://libreddit.nl",
       "country": "NL",
-      "version": "v0.24.3"
+      "version": "v0.25.0"
     },
     {
       "url": "https://reddi.tk",
@@ -120,12 +120,12 @@
     {
       "url": "https://libreddit.kylrth.com",
       "country": "CA",
-      "version": "v0.23.2"
+      "version": "v0.24.0"
     },
     {
       "url": "https://libreddit.tiekoetter.com",
       "country": "DE",
-      "version": "v0.24.3"
+      "version": "v0.25.0"
     },
     {
       "url": "https://reddit.rtrace.io",
@@ -167,7 +167,7 @@
     {
       "url": "https://libreddit.foss.wtf",
       "country": "DE",
-      "version": "v0.24.3"
+      "version": "v0.25.0"
     },
     {
       "url": "https://libreddit.encrypted-data.xyz",
@@ -214,7 +214,7 @@
     {
       "url": "https://libreddit.freedit.eu",
       "country": "US",
-      "version": "v0.24.1",
+      "version": "v0.25.0",
       "cloudflare": true
     },
     {
@@ -238,6 +238,11 @@
       "country": "IT",
       "version": "v0.25.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://lr.4201337.xyz",
+      "country": "FR",
+      "version": "v0.25.0"
     },
     {
       "url": "https://lr.odyssey346.dev",
@@ -306,6 +311,11 @@
       "onion": "http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
       "country": "DE",
       "version": "v0.25.0"
+    },
+    {
+      "onion": "http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
+      "country": "US",
+      "version": "v0.22.9"
     }
   ]
 }
