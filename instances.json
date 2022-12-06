@@ -1,5 +1,5 @@
 {
-  "updated": "2022-12-05",
+  "updated": "2022-12-06",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -62,12 +62,12 @@
     {
       "url": "https://libreddit.drivet.xyz",
       "country": "PL",
-      "version": "v0.25.0"
+      "version": "v0.24.1"
     },
     {
       "url": "https://libreddit.de",
       "country": "DE",
-      "version": "v0.24.1"
+      "version": "v0.25.0"
     },
     {
       "url": "https://libreddit.pussthecat.org",

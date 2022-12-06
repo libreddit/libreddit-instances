@@ -11,8 +11,8 @@
 |https://r.nf|WWW|v0.25.0|🇩🇪 DE|✅||
 |https://reddit.stuehieyr.com|WWW|v0.22.6|🇩🇪 DE|||
 |https://lr.mint.lgbt|WWW|v0.22.9|🇨🇦 CA|||
-|https://libreddit.drivet.xyz|WWW|v0.25.0|🇵🇱 PL|||
-|https://libreddit.de|WWW|v0.24.1|🇩🇪 DE|||
+|https://libreddit.drivet.xyz|WWW|v0.24.1|🇵🇱 PL|||
+|https://libreddit.de|WWW|v0.25.0|🇩🇪 DE|||
 |https://libreddit.pussthecat.org|WWW|v0.25.0|🇩🇪 DE|||
 |https://libreddit.northboot.xyz|WWW|v0.23.2|🇩🇪 DE|||
 |https://libreddit.hu|WWW|v0.20.2|🇫🇮 FI|✅||
