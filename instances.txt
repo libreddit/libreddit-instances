@@ -1,4 +1,6 @@
 https://libreddit.spike.codes,US,false,"official instance"
+https://libreddit.org,DE,true,""
+https://libreddit.eu.org,FR,true,""
 https://libreddit.kavin.rocks,IN,false,""
 https://reddit.invak.id,BG,false,""
 https://reddit.simo.sh,BG,false,""
