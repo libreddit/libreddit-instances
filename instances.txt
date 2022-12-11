@@ -1,6 +1,8 @@
 https://libreddit.spike.codes,US,false,"official instance"
+https://libreddit.org,DE,true,""
 https://libreddit.kavin.rocks,IN,false,""
 https://reddit.invak.id,BG,false,""
+https://libreddit.eu.org,DE,true,""
 https://reddit.simo.sh,BG,false,""
 https://lr.riverside.rocks,US,false,""
 https://libreddit.strongthany.cc,US,false,""
