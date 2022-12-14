@@ -153,7 +153,7 @@
     {
       "url": "https://bob.fr.to",
       "country": "US",
-      "version": "v0.25.0"
+      "version": "v0.25.1"
     },
     {
       "url": "https://libreddit.dcs0.hu",
@@ -243,7 +243,7 @@
     {
       "url": "https://www.futureddit.gq",
       "country": "IT",
-      "version": "v0.25.0",
+      "version": "v0.25.1",
       "cloudflare": true
     },
     {
@@ -292,6 +292,11 @@
     {
       "url": "https://reddit.smnz.de",
       "country": "DE",
+      "version": "v0.25.0"
+    },
+    {
+      "url": "https://libreddit.bus-hit.me",
+      "country": "CA",
       "version": "v0.25.0"
     },
     {
