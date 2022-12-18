@@ -22,7 +22,7 @@
 |https://lr.vern.cc|WWW|v0.25.0|🇺🇸 US|||
 |https://libreddit.nl|WWW|v0.25.0|🇳🇱 NL|||
 |https://reddi.tk|WWW|v0.22.9|🇺🇸 US|✅||
-|https://r.walkx.org|WWW|v0.25.0|🇳🇱 NL|✅||
+|https://r.walkx.fyi|WWW|v0.25.0|🇳🇱 NL|✅||
 |https://libreddit.kylrth.com|WWW|v0.24.0|🇨🇦 CA|||
 |https://libreddit.tiekoetter.com|WWW|v0.25.0|🇩🇪 DE|||
 |https://reddit.rtrace.io|WWW|v0.24.1|🇩🇪 DE|||
