@@ -1,16 +1,16 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://libreddit.spike.codes|WWW|v0.25.0|🇺🇸 US||official instance|
-|https://libreddit.org|WWW|v0.25.0|🇩🇪 DE|✅||
+|https://libreddit.spike.codes|WWW|v0.25.1|🇺🇸 US||official instance|
+|https://libreddit.org|WWW|v0.25.1|🇩🇪 DE|✅||
 |https://libreddit.kavin.rocks|WWW|v0.25.0|🇮🇳 IN|||
 |https://reddit.invak.id|WWW|v0.25.0|🇧🇬 BG|||
-|https://libreddit.eu.org|WWW|v0.25.0|🇩🇪 DE|✅||
+|https://libreddit.eu.org|WWW|v0.25.1|🇩🇪 DE|✅||
 |https://reddit.simo.sh|WWW|v0.25.0|🇧🇬 BG|||
 |https://lr.riverside.rocks|WWW|v0.15.2|🇺🇸 US|||
 |https://libreddit.strongthany.cc|WWW|v0.24.0|🇺🇸 US|||
-|https://libreddit.privacy.com.de|WWW|v0.22.9|🇩🇪 DE|||
 |https://libreddit.domain.glass|WWW|v0.10.5|🇺🇸 US|✅||
-|https://r.nf|WWW|v0.25.0|🇩🇪 DE|✅||
+|https://r.nf|WWW|v0.25.1|🇩🇪 DE|✅||
+|https://reddit.stuehieyr.com|WWW|v0.22.6|🇩🇪 DE|||
 |https://lr.mint.lgbt|WWW|v0.22.9|🇨🇦 CA|||
 |https://libreddit.drivet.xyz|WWW|v0.25.0|🇵🇱 PL|||
 |https://libreddit.de|WWW|v0.25.0|🇩🇪 DE|||
@@ -20,11 +20,11 @@
 |https://libreddit.totaldarkness.net|WWW|v0.23.1|🇨🇦 CA|||
 |https://libreddit.esmailelbob.xyz|WWW|v0.25.0|🇨🇦 CA|||
 |https://lr.vern.cc|WWW|v0.25.0|🇺🇸 US|||
-|https://libreddit.nl|WWW|v0.25.0|🇳🇱 NL|||
+|https://libreddit.nl|WWW|v0.25.1|🇳🇱 NL|||
 |https://reddi.tk|WWW|v0.22.9|🇺🇸 US|✅||
 |https://r.walkx.fyi|WWW|v0.25.0|🇳🇱 NL|✅||
 |https://libreddit.kylrth.com|WWW|v0.24.0|🇨🇦 CA|||
-|https://libreddit.tiekoetter.com|WWW|v0.25.0|🇩🇪 DE|||
+|https://libreddit.tiekoetter.com|WWW|v0.25.1|🇩🇪 DE|||
 |https://reddit.rtrace.io|WWW|v0.24.1|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.22.9|🇺🇸 US|||
 |https://r.ahwx.org|WWW|v0.22.9|🇳🇱 NL|✅||
@@ -33,16 +33,16 @@
 |https://reddit.dr460nf1r3.org|WWW|v0.25.0|🇩🇪 DE|✅||
 |https://rd.jae.su|WWW|v0.25.0|🇫🇮 FI|||
 |https://libreddit.foss.wtf|WWW|v0.25.0|🇩🇪 DE|||
-|https://libreddit.eu.org|WWW|v0.25.0|🇮🇪 IE|✅||
+|https://libreddit.eu.org|WWW|v0.25.1|🇮🇪 IE|✅||
 |https://l.opnxng.com|WWW|v0.25.0|🇸🇬 SG|||
-|https://libreddit.cachyos.org|WWW|v0.24.0|🇩🇪 DE|✅||
+|https://libreddit.cachyos.org|WWW|v0.25.0|🇩🇪 DE|✅||
 |https://rd.funami.tech|WWW|v0.25.0|🇰🇷 KR|||
 |https://libreddit.projectsegfau.lt|WWW|v0.22.9|🇱🇺 LU|||
 |https://lr.slipfox.xyz|WWW|v0.22.9|🇺🇸 US|||
 |https://libreddit.oxymagnesium.com|WWW|v0.24.0|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.25.0|🇺🇸 US|||
-|https://libreddit.freedit.eu|WWW|v0.25.0|🇺🇸 US|✅||
-|https://libreddit.mha.fi|WWW|v0.25.0|🇫🇮 FI|||
+|https://libreddit.freedit.eu|WWW|v0.25.1|🇺🇸 US|✅||
+|https://libreddit.mha.fi|WWW|v0.25.1|🇫🇮 FI|||
 |https://libreddit.garudalinux.org|WWW|v0.25.0|🇫🇮 FI|✅||
 |https://libreddit.mask.sh|WWW|v0.23.2|🇺🇸 US|||
 |https://www.futureddit.gq|WWW|v0.25.1|🇮🇹 IT|✅||

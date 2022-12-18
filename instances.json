@@ -1,16 +1,16 @@
 {
-  "updated": "2022-12-14",
+  "updated": "2022-12-18",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
       "country": "US",
-      "version": "v0.25.0",
+      "version": "v0.25.1",
       "description": "official instance"
     },
     {
       "url": "https://libreddit.org",
       "country": "DE",
-      "version": "v0.25.0",
+      "version": "v0.25.1",
       "cloudflare": true
     },
     {
@@ -26,7 +26,7 @@
     {
       "url": "https://libreddit.eu.org",
       "country": "DE",
-      "version": "v0.25.0",
+      "version": "v0.25.1",
       "cloudflare": true
     },
     {
@@ -45,11 +45,6 @@
       "version": "v0.24.0"
     },
     {
-      "url": "https://libreddit.privacy.com.de",
-      "country": "DE",
-      "version": "v0.22.9"
-    },
-    {
       "url": "https://libreddit.domain.glass",
       "country": "US",
       "version": "v0.10.5",
@@ -58,8 +53,13 @@
     {
       "url": "https://r.nf",
       "country": "DE",
-      "version": "v0.25.0",
+      "version": "v0.25.1",
       "cloudflare": true
+    },
+    {
+      "url": "https://reddit.stuehieyr.com",
+      "country": "DE",
+      "version": "v0.22.6"
     },
     {
       "url": "https://lr.mint.lgbt",
@@ -110,7 +110,7 @@
     {
       "url": "https://libreddit.nl",
       "country": "NL",
-      "version": "v0.25.0"
+      "version": "v0.25.1"
     },
     {
       "url": "https://reddi.tk",
@@ -132,7 +132,7 @@
     {
       "url": "https://libreddit.tiekoetter.com",
       "country": "DE",
-      "version": "v0.25.0"
+      "version": "v0.25.1"
     },
     {
       "url": "https://reddit.rtrace.io",
@@ -179,7 +179,7 @@
     {
       "url": "https://libreddit.eu.org",
       "country": "IE",
-      "version": "v0.25.0",
+      "version": "v0.25.1",
       "cloudflare": true
     },
     {
@@ -190,7 +190,7 @@
     {
       "url": "https://libreddit.cachyos.org",
       "country": "DE",
-      "version": "v0.24.0",
+      "version": "v0.25.0",
       "cloudflare": true
     },
     {
@@ -221,13 +221,13 @@
     {
       "url": "https://libreddit.freedit.eu",
       "country": "US",
-      "version": "v0.25.0",
+      "version": "v0.25.1",
       "cloudflare": true
     },
     {
       "url": "https://libreddit.mha.fi",
       "country": "FI",
-      "version": "v0.25.0"
+      "version": "v0.25.1"
     },
     {
       "url": "https://libreddit.garudalinux.org",
