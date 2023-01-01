@@ -288,14 +288,15 @@
       "version": "v0.25.0"
     },
     {
+      "url": "https://libreddit.lunar.icu",
+      "country": "DE",
+      "version": "v0.25.1",
+      "cloudflare": true
+    },
+    {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
       "country": "US",
       "version": "v0.22.9"
-    },
-    {
-      "onion": "http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion",
-      "country": "DE",
-      "version": "v0.25.0"
     },
     {
       "onion": "http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",

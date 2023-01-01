@@ -54,8 +54,8 @@
 |https://reddit.smnz.de|WWW|v0.25.0|🇩🇪 DE|||
 |https://libreddit.bus-hit.me|WWW|v0.25.0|🇨🇦 CA|||
 |https://reddit.leptons.xyz|WWW|v0.25.0|🇺🇰 UK|||
+|https://libreddit.lunar.icu|WWW|v0.25.1|🇩🇪 DE|✅||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
-|http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion|Tor|v0.25.0|🇩🇪 DE|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion|Tor|v0.25.0|🇩🇪 DE|||
