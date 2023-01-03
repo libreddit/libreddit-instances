@@ -1,10 +1,10 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://libreddit.spike.codes|WWW|v0.25.2|🇺🇸 US||official instance|
+|https://libreddit.spike.codes|WWW|v0.26.0|🇺🇸 US||official instance|
 |https://libreddit.kavin.rocks|WWW|v0.25.0|🇮🇳 IN|||
-|https://reddit.invak.id|WWW|v0.25.3|🇧🇬 BG|||
+|https://reddit.invak.id|WWW|v0.27.0|🇧🇬 BG|||
 |https://libreddit.eu.org|WWW|v0.25.1|🇩🇪 DE|✅||
-|https://reddit.simo.sh|WWW|v0.25.2|🇧🇬 BG|||
+|https://reddit.simo.sh|WWW|v0.25.3|🇧🇬 BG|||
 |https://lr.riverside.rocks|WWW|v0.15.2|🇺🇸 US|||
 |https://libreddit.strongthany.cc|WWW|v0.24.0|🇺🇸 US|||
 |https://libreddit.domain.glass|WWW|v0.10.5|🇺🇸 US|✅||
@@ -18,7 +18,7 @@
 |https://libreddit.totaldarkness.net|WWW|v0.25.1|🇨🇦 CA|||
 |https://libreddit.esmailelbob.xyz|WWW|v0.25.0|🇨🇦 CA|||
 |https://lr.vern.cc|WWW|v0.25.0|🇺🇸 US|||
-|https://libreddit.nl|WWW|v0.25.2|🇳🇱 NL|||
+|https://libreddit.nl|WWW|v0.25.3|🇳🇱 NL|||
 |https://reddi.tk|WWW|v0.22.9|🇺🇸 US|✅||
 |https://r.walkx.fyi|WWW|v0.25.0|🇳🇱 NL|✅||
 |https://libreddit.kylrth.com|WWW|v0.25.0|🇨🇦 CA|||
@@ -26,7 +26,7 @@
 |https://reddit.rtrace.io|WWW|v0.25.0|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.22.9|🇺🇸 US|||
 |https://r.ahwx.org|WWW|v0.25.0|🇳🇱 NL|✅||
-|https://bob.fr.to|WWW|v0.25.2|🇺🇸 US|||
+|https://bob.fr.to|WWW|v0.26.0|🇺🇸 US|||
 |https://libreddit.dcs0.hu|WWW|v0.25.0|🇭🇺 HU|||
 |https://reddit.dr460nf1r3.org|WWW|v0.25.0|🇩🇪 DE|✅||
 |https://rd.jae.su|WWW|v0.25.0|🇫🇮 FI|||
@@ -38,7 +38,7 @@
 |https://lr.slipfox.xyz|WWW|v0.22.9|🇺🇸 US|||
 |https://libreddit.oxymagnesium.com|WWW|v0.25.1|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.25.0|🇺🇸 US|||
-|https://libreddit.freedit.eu|WWW|v0.25.1|🇺🇸 US|✅||
+|https://libreddit.freedit.eu|WWW|v0.25.3|🇺🇸 US|✅||
 |https://libreddit.mha.fi|WWW|v0.25.1|🇫🇮 FI|||
 |https://libreddit.garudalinux.org|WWW|v0.25.0|🇫🇮 FI|✅||
 |https://libreddit.mask.sh|WWW|v0.23.2|🇺🇸 US|||
@@ -56,6 +56,7 @@
 |https://libreddit.lunar.icu|WWW|v0.25.1|🇩🇪 DE|✅||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion|Tor|v0.25.0|🇩🇪 DE|||
+|http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion|Tor|v0.25.0|🇩🇪 DE|||
 |http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion|Tor|v0.22.9|🇺🇸 US|||
