@@ -10,9 +10,12 @@ body:
     placeholder: UN
   validations:
     required: true
-- type: checkbox
+- type: dropdown
   attributes:
     label: Cloudflare enabled?
+    options:
+      - Yes
+      - No
     description: Does this instance use Cloudflare?
   validations:
     required: true
