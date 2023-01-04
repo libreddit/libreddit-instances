@@ -14,8 +14,8 @@ body:
   attributes:
     label: Cloudflare enabled?
     options:
-      - Yes
-      - No
+      - "Yes"
+      - "No"
     description: Does this instance use Cloudflare?
   validations:
     required: true
