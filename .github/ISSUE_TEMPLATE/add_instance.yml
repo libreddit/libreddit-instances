@@ -1,0 +1,34 @@
+name: Add Instance
+description: Request an instance to be added
+title: "(Instance) "
+labels: "Type: instance"
+body:
+- type: input
+  attributes:
+    label: Country
+    description: What country is the server hosted in?
+    placeholder: UN
+  validations:
+    required: true
+- type: checkbox
+  attributes:
+    label: Cloudflare enabled?
+    description: Does this instance use Cloudflare?
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: What type of instance is it?
+    options:
+      - HTTPS
+      - Tor
+      - I2P
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: URL
+    description: What is the full URL?
+    placeholder: https://sample-libreddit.com
+  validations:
+    required: true
