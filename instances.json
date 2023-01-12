@@ -1,5 +1,5 @@
 {
-  "updated": "2023-01-09",
+  "updated": "2023-01-12",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -21,18 +21,18 @@
     {
       "url": "https://reddit.invak.id",
       "country": "BG",
-      "version": "v0.27.0"
+      "version": "v0.27.1"
     },
     {
       "url": "https://libreddit.eu.org",
       "country": "DE",
-      "version": "v0.25.1",
+      "version": "v0.27.0",
       "cloudflare": true
     },
     {
       "url": "https://reddit.simo.sh",
       "country": "BG",
-      "version": "v0.27.0"
+      "version": "v0.27.1"
     },
     {
       "url": "https://lr.riverside.rocks",
@@ -42,7 +42,7 @@
     {
       "url": "https://libreddit.strongthany.cc",
       "country": "US",
-      "version": "v0.24.0"
+      "version": "v0.27.0"
     },
     {
       "url": "https://libreddit.domain.glass",
@@ -67,8 +67,8 @@
       "version": "v0.22.9"
     },
     {
-      "url": "https://libreddit.de",
-      "country": "DE",
+      "url": "https://libreddit.drivet.xyz",
+      "country": "PL",
       "version": "v0.25.0"
     },
     {
@@ -142,7 +142,7 @@
     {
       "url": "https://bob.fr.to",
       "country": "US",
-      "version": "v0.27.0"
+      "version": "v0.27.1"
     },
     {
       "url": "https://libreddit.dcs0.hu",
@@ -199,12 +199,12 @@
     {
       "url": "https://reddit.utsav2.dev",
       "country": "US",
-      "version": "v0.25.0"
+      "version": "v0.27.0"
     },
     {
       "url": "https://libreddit.freedit.eu",
       "country": "US",
-      "version": "v0.27.0",
+      "version": "v0.27.1",
       "cloudflare": true
     },
     {
@@ -226,11 +226,16 @@
     {
       "url": "https://www.futureddit.gq",
       "country": "IT",
-      "version": "v0.27.0",
+      "version": "v0.27.1",
       "cloudflare": true
     },
     {
       "url": "https://lr.4201337.xyz",
+      "country": "FR",
+      "version": "v0.25.0"
+    },
+    {
+      "url": "https://lr.odyssey346.dev",
       "country": "FR",
       "version": "v0.25.0"
     },
@@ -264,7 +269,7 @@
     {
       "url": "https://reddit.smnz.de",
       "country": "DE",
-      "version": "v0.27.0"
+      "version": "v0.27.1"
     },
     {
       "url": "https://libreddit.bus-hit.me",
