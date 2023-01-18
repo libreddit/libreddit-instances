@@ -1,10 +1,10 @@
 {
-  "updated": "2023-01-12",
+  "updated": "2023-01-18",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
       "country": "US",
-      "version": "v0.27.0",
+      "version": "v0.27.1",
       "description": "official instance"
     },
     {
@@ -53,7 +53,7 @@
     {
       "url": "https://r.nf",
       "country": "DE",
-      "version": "v0.27.0",
+      "version": "v0.27.1",
       "cloudflare": true
     },
     {
@@ -72,6 +72,11 @@
       "version": "v0.25.0"
     },
     {
+      "url": "https://libreddit.de",
+      "country": "DE",
+      "version": "v0.25.0"
+    },
+    {
       "url": "https://libreddit.pussthecat.org",
       "country": "DE",
       "version": "v0.25.0"
@@ -84,7 +89,7 @@
     {
       "url": "https://libreddit.totaldarkness.net",
       "country": "CA",
-      "version": "v0.25.1"
+      "version": "v0.27.1"
     },
     {
       "url": "https://libreddit.esmailelbob.xyz",
@@ -99,7 +104,7 @@
     {
       "url": "https://libreddit.nl",
       "country": "NL",
-      "version": "v0.27.0"
+      "version": "v0.27.1"
     },
     {
       "url": "https://reddi.tk",
@@ -121,7 +126,7 @@
     {
       "url": "https://libreddit.tiekoetter.com",
       "country": "DE",
-      "version": "v0.27.0"
+      "version": "v0.27.1"
     },
     {
       "url": "https://reddit.rtrace.io",
@@ -132,12 +137,6 @@
       "url": "https://libreddit.privacydev.net",
       "country": "US",
       "version": "v0.22.9"
-    },
-    {
-      "url": "https://r.ahwx.org",
-      "country": "NL",
-      "version": "v0.25.0",
-      "cloudflare": true
     },
     {
       "url": "https://bob.fr.to",
@@ -184,7 +183,7 @@
     {
       "url": "https://libreddit.projectsegfau.lt",
       "country": "LU",
-      "version": "v0.22.9"
+      "version": "v0.25.0"
     },
     {
       "url": "https://lr.slipfox.xyz",
@@ -222,12 +221,6 @@
       "url": "https://libreddit.mask.sh",
       "country": "US",
       "version": "v0.23.2"
-    },
-    {
-      "url": "https://www.futureddit.gq",
-      "country": "IT",
-      "version": "v0.27.1",
-      "cloudflare": true
     },
     {
       "url": "https://lr.4201337.xyz",
@@ -286,6 +279,11 @@
       "country": "DE",
       "version": "v0.25.1",
       "cloudflare": true
+    },
+    {
+      "url": "https://lbr.frail.duckdns.org",
+      "country": "BR",
+      "version": "v0.27.1"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
