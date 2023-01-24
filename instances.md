@@ -1,10 +1,11 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
 |https://libreddit.spike.codes|WWW|v0.27.1|🇺🇸 US||official instance|
+|https://libreddit.eu.org|WWW|v0.27.0|🇩🇪 DE|✅||
 |https://safereddit.com|WWW|v0.27.0|🇺🇸 US||SFW only|
+|https://libreddit.gq|WWW|v0.27.1|🇺🇸 US|||
 |https://libreddit.kavin.rocks|WWW|v0.25.0|🇮🇳 IN|||
 |https://reddit.invak.id|WWW|v0.27.1|🇧🇬 BG|||
-|https://libreddit.eu.org|WWW|v0.27.0|🇩🇪 DE|✅||
 |https://reddit.simo.sh|WWW|v0.27.1|🇧🇬 BG|||
 |https://lr.riverside.rocks|WWW|v0.15.2|🇺🇸 US|||
 |https://libreddit.strongthany.cc|WWW|v0.27.0|🇺🇸 US|||
