@@ -54,6 +54,7 @@
 |https://reddit.leptons.xyz|WWW|v0.27.0|🇬🇧 GB|||
 |https://libreddit.lunar.icu|WWW|v0.25.1|🇩🇪 DE|✅||
 |https://lbr.frail.duckdns.org|WWW|v0.27.1|🇧🇷 BR|||
+|https://reddit.moe.ngo|WWW|v0.27.1|🇮🇩 ID|✅||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion|Tor|v0.27.0|🇩🇪 DE|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||

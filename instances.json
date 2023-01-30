@@ -1,5 +1,5 @@
 {
-  "updated": "2023-01-18",
+  "updated": "2023-01-19",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -284,6 +284,12 @@
       "url": "https://lbr.frail.duckdns.org",
       "country": "BR",
       "version": "v0.27.1"
+    },
+    {
+      "url": "https://reddit.moe.ngo",
+      "country": "ID",
+      "version": "v0.27.1",
+      "cloudflare": true
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
