@@ -777,7 +777,8 @@ main ()
             done
         } >&2
 
-        return 1
+		# Allow the script to still execute even if not all instances are reachable
+        return 0
     fi
 
     return ${rc}
