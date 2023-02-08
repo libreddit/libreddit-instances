@@ -63,3 +63,4 @@
 |http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion|Tor|v0.25.0|🇩🇪 DE|||
 |http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://snoo.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion|Tor|v0.25.0|🇨🇦 CA|||
+|http://wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p|I2P|v0.25.0|🇨🇦 CA|||

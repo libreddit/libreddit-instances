@@ -332,6 +332,11 @@
       "onion": "http://snoo.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
       "country": "CA",
       "version": "v0.25.0"
+    },
+    {
+      "i2p": "http://wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p",
+      "country": "CA",
+      "version": "v0.25.0"
     }
   ]
 }
