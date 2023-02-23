@@ -264,7 +264,7 @@
     {
       "url": "https://reddit.thekitty.zone",
       "country": "DE",
-      "version": "v0.27.1"
+      "version": "v0.29.3"
     },
     {
       "url": "https://reddit.moe.ngo",
@@ -286,6 +286,11 @@
       "url": "https://snoo.habedieeh.re",
       "country": "CA",
       "version": "v0.25.0"
+    },
+    {
+      "url": "https://libreddit.kutay.dev",
+      "country": "DE",
+      "version": "v0.29.3"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
