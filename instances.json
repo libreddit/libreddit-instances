@@ -264,7 +264,7 @@
     {
       "url": "https://reddit.thekitty.zone",
       "country": "DE",
-      "version": "v0.29.3"
+      "version": "v0.27.1"
     },
     {
       "url": "https://reddit.moe.ngo",
@@ -290,6 +290,11 @@
     {
       "url": "https://libreddit.kutay.dev",
       "country": "DE",
+      "version": "v0.29.3"
+    },
+    {
+      "url": "https://libreddit.tux.pizza",
+      "country": "US",
       "version": "v0.29.3"
     },
     {
