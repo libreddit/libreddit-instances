@@ -509,8 +509,8 @@ create_instance_entry ()
 
     if [[ -n "${description}" ]]
     then
-        # DANGER: If the description string isn't properly escaped, the JSON will be
-        # malformed!
+        # DANGER: If the description string isn't properly escaped, the JSON
+        # will be malformed!
         json+=","
         json+="$(printf '"description":"%s"' "${description}")"
     fi
@@ -526,12 +526,13 @@ helpdoc ()
 {
     cat <<!
 USAGE
-    ${BASH_SOURCE[0]} [-I INPUT_JSON] [-T] [-f] [-i INPUT_CSV] [-o OUTPUT_JSON]
+    ${BASH_SOURCE[0]} [-I INPUT_JSON] [-T] [-e | -f] [-i INPUT_CSV] [-o OUTPUT_JSON]
     ${BASH_SOURCE[0]} -h
 
 DESCRIPTION
-    Generate a JSON of Libreddit instances, given a CSV input listing those
-    instances.
+    Generate a JSON of Libreddit instances, given a CSV file at INPUT_CSV
+    listing those instances. If INPUT_CSV is not given, this script will
+    read the CSV file from stdin.
 
     The INPUT_CSV file must be a file in CSV syntax of the form
 
@@ -555,6 +556,13 @@ DESCRIPTION
       availability of the torsocks program). If you want to disable connections
       to these onion sites, provide the -T option.
 
+    * This script will return a non-zero status code when at least one instance
+      could not be reached. If you want this script always to return 0 even
+      when not all instances could be reached, provide the -e option (this
+      script will still return a non-zero code if there was a problem
+      constructing the final JSON object or if the file supplied to the -I
+      option could not be read).
+
 OPTIONS
     -I INPUT_JSON
         Import the list of Libreddit onion and I2P instances from the file
@@ -562,18 +570,25 @@ OPTIONS
         causes the script to ignore the value in I2P_HTTP_PROXY. Note that the
         argument provided to this option CANNOT be the same as the argument
         provided to -i. If the JSON could not be read, the script will exit with
-        status code 1.
+        status code 1, even if -e is provided.
 
     -T
         Do not connect to Tor. Onion sites in INPUT_CSV will not be processed.
         Assuming no other failure, the script will still exit with status code
         0.
 
+    -e
+        Always exit with status code 0, even when at least one instance cannot
+        be reached, except in the situations where (1) the file in INPUT_JSON
+        (see \`-I\`) could not be processed; or (2) the JSON object could not
+        be constructed. Cannot be used together with -f.
+
     -f
         Force the script to exit, with status code 1, upon the first failure to
         connect to an instance. Normally, the script will continue to build and
         output the JSON even when one or more of the instances could not be
-        reached, though the exit code will be non-zero.
+        reached, though the exit code will be non-zero. Cannot be used together
+        with -e.
 
     -i INPUT_CSV
         Use INPUT_CSV as the input file. To read from stdin (the default
@@ -609,6 +624,7 @@ main ()
     local OPTIND
     local OPTARG
 
+    local nofailrc=n
     local failfast=n
     local do_tor=y
     local do_i2p=y
@@ -621,12 +637,14 @@ main ()
     local -a imported_nonwww=()
     local instance_entry=
     local -i rc=0
+    local json_corrupted=n
 
-    while getopts ":I:Tfhi:o:" opt
+    while getopts ":I:Tefhi:o:" opt
     do
         case "${opt}" in
         I) import_nonwww_from_file="${OPTARG}" ;;
         T) do_tor=n ;;
+        e) nofailrc=y ;;
         f) failfast=y ;;
         h) helpdoc ; exit ;;
         i)
@@ -660,6 +678,14 @@ main ()
             ;;
         esac
     done
+
+    # -e and -f cannot be used together.
+    if [[ "${nofailrc}" == "y" && "${failfast}" == "y" ]]
+    then
+        echo >&2 "-e and -f canont be used together."
+        helpdoc
+        exit 255
+    fi
 
     # Make sure we have necessary dependencies before moving forward.
     # shellcheck disable=SC2207
@@ -752,6 +778,10 @@ main ()
     fi
    
     # Read in the CSV.
+    if [[ "${input_file}" == "/dev/stdin" ]]
+    then
+        echo >&2 "Reading from stdin..."
+    fi
     local -a rows=()
     <"${input_file}" mapfile rows
     rc=0
@@ -824,6 +854,7 @@ main ()
     if [[ ${rc} -ne 0 ]]
     then
         echo >&2 "There was a problem processing the JSON. The output file may be corrupted."
+        json_corrupted=y
     fi
 
     if [[ ${#failed[@]} -gt 0 ]]
@@ -836,9 +867,21 @@ main ()
             done
         } >&2
 
-        return 1
+        if [[ "${nofailrc}" == "y" ]]
+        then
+            # Special case when user provides -e: exit with 0, except if the
+            # JSON is corrupted.
+            if [[ "${json_corrupted}" == "n" ]]
+            then
+                return 0
+            fi
+        else
+            # Normal case: return non-zero code on this failure.
+            return 1
+        fi
     fi
 
+    # This will be non-zero if the JSON is corrupted.
     return ${rc}
 }
 
