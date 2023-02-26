@@ -21,7 +21,7 @@
     {
       "url": "https://reddit.invak.id",
       "country": "BG",
-      "version": "v0.29.3"
+      "version": "v0.29.4"
     },
     {
       "url": "https://libreddit.eu.org",
@@ -32,7 +32,7 @@
     {
       "url": "https://reddit.simo.sh",
       "country": "BG",
-      "version": "v0.29.3"
+      "version": "v0.29.4"
     },
     {
       "url": "https://lr.riverside.rocks",
@@ -47,12 +47,12 @@
     {
       "url": "https://libreddit.privacy.com.de",
       "country": "DE",
-      "version": "v0.29.3"
+      "version": "v0.29.4"
     },
     {
       "url": "https://reddit.baby",
       "country": "DE",
-      "version": "v0.29.3",
+      "version": "v0.29.4",
       "description": "mirror of libreddit.privacy.com.de"
     },
     {
@@ -105,7 +105,7 @@
     {
       "url": "https://libreddit.nl",
       "country": "NL",
-      "version": "v0.29.3"
+      "version": "v0.29.4"
     },
     {
       "url": "https://reddi.tk",
@@ -148,7 +148,7 @@
     {
       "url": "https://bob.fr.to",
       "country": "US",
-      "version": "v0.29.3"
+      "version": "v0.29.4"
     },
     {
       "url": "https://libreddit.dcs0.hu",
@@ -169,7 +169,7 @@
     {
       "url": "https://libreddit.foss.wtf",
       "country": "DE",
-      "version": "v0.29.3"
+      "version": "v0.29.4"
     },
     {
       "url": "https://l.opnxng.com",
@@ -210,7 +210,7 @@
     {
       "url": "https://libreddit.freedit.eu",
       "country": "US",
-      "version": "v0.29.3",
+      "version": "v0.29.4",
       "cloudflare": true
     },
     {
@@ -248,7 +248,7 @@
     {
       "url": "https://libreddit.pufe.org",
       "country": "NZ",
-      "version": "v0.29.3"
+      "version": "v0.29.4"
     },
     {
       "url": "https://lr.aeong.one",
@@ -259,7 +259,7 @@
     {
       "url": "https://reddit.smnz.de",
       "country": "DE",
-      "version": "v0.29.3"
+      "version": "v0.29.4"
     },
     {
       "url": "https://libreddit.bus-hit.me",
@@ -285,12 +285,12 @@
     {
       "url": "https://reddit.thekitty.zone",
       "country": "DE",
-      "version": "v0.27.1"
+      "version": "v0.29.2"
     },
     {
       "url": "https://reddit.moe.ngo",
       "country": "ID",
-      "version": "v0.29.3",
+      "version": "v0.29.4",
       "cloudflare": true
     },
     {
@@ -323,6 +323,11 @@
       "country": "US",
       "version": "v0.25.0",
       "cloudflare": true
+    },
+    {
+      "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
+      "country": "US",
+      "version": "v0.22.9"
     },
     {
       "onion": "http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion",
