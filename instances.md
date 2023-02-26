@@ -53,14 +53,14 @@
 |https://reddit.leptons.xyz|WWW|v0.27.2|🇬🇧 GB|||
 |https://libreddit.lunar.icu|WWW|v0.25.1|🇩🇪 DE|✅||
 |https://lbr.frail.duckdns.org|WWW|v0.28.1|🇧🇷 BR|||
-|https://reddit.thekitty.zone|WWW|v0.29.3|🇩🇪 DE|||
+|https://reddit.thekitty.zone|WWW|v0.27.1|🇩🇪 DE|||
 |https://reddit.moe.ngo|WWW|v0.29.3|🇮🇩 ID|✅||
 |https://r.darklab.sh|WWW|v0.25.0|🇺🇸 US|||
 |https://libreddit.albr.to|WWW|v0.27.2|🇩🇪 DE|||
 |https://snoo.habedieeh.re|WWW|v0.25.0|🇨🇦 CA|||
 |https://libreddit.kutay.dev|WWW|v0.29.3|🇩🇪 DE|||
 |https://libreddit.tux.pizza|WWW|v0.29.3|🇺🇸 US|||
-|http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
+|https://libreddit.billbert.co|WWW|v0.25.0|🇺🇸 US|✅||
 |http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion|Tor|v0.29.3|🇩🇪 DE|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||

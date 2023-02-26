@@ -285,7 +285,7 @@
     {
       "url": "https://reddit.thekitty.zone",
       "country": "DE",
-      "version": "v0.29.3"
+      "version": "v0.27.1"
     },
     {
       "url": "https://reddit.moe.ngo",
@@ -319,9 +319,10 @@
       "version": "v0.29.3"
     },
     {
-      "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
+      "url": "https://libreddit.billbert.co",
       "country": "US",
-      "version": "v0.22.9"
+      "version": "v0.25.0",
+      "cloudflare": true
     },
     {
       "onion": "http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion",
