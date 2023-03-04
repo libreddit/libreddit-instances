@@ -1,0 +1,28 @@
+name: Update json and markdown
+
+on:
+  push:
+    paths:
+      - "instances.txt"
+    branches:
+      - master
+  workflow_dispatch: # run on manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v3
+
+    - name: Generate instances
+      run: |
+       ./generate-instances-json.sh -e -i ./instances.txt -I ./instances.json -o ./instances.json
+       ./generate-instances-markdown.py --output=./instances.md ./instances.json
+    - name: Commit updated files back to the repository
+      run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -am "[update] Update instances"
+          git push
