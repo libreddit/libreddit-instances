@@ -1,35 +1,33 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://libreddit.spike.codes|WWW|v0.29.3|🇺🇸 US||official instance|
-|https://safereddit.com|WWW|v0.29.3|🇺🇸 US||SFW only|
-|https://libreddit.kavin.rocks|WWW|v0.25.0|🇮🇳 IN|||
+|https://libreddit.spike.codes|WWW|v0.29.4|🇺🇸 US||official instance|
+|https://safereddit.com|WWW|v0.29.4|🇺🇸 US||SFW only|
+|https://libreddit.kavin.rocks|WWW|v0.29.4|🇮🇳 IN|||
 |https://reddit.invak.id|WWW|v0.29.4|🇧🇬 BG|||
 |https://libreddit.eu.org|WWW|v0.29.1|🇩🇪 DE|✅||
 |https://reddit.simo.sh|WWW|v0.29.4|🇧🇬 BG|||
 |https://lr.riverside.rocks|WWW|v0.28.1|🇺🇸 US|||
-|https://libreddit.strongthany.cc|WWW|v0.27.0|🇺🇸 US|||
 |https://libreddit.privacy.com.de|WWW|v0.29.4|🇩🇪 DE|||
 |https://reddit.baby|WWW|v0.29.4|🇩🇪 DE||mirror of libreddit.privacy.com.de|
 |https://libreddit.domain.glass|WWW|v0.10.5|🇺🇸 US|✅||
-|https://r.nf|WWW|v0.27.1|🇩🇪 DE|✅||
+|https://r.nf|WWW|v0.29.4|🇩🇪 DE|✅||
 |https://lr.mint.lgbt|WWW|v0.22.9|🇨🇦 CA|||
 |https://libreddit.de|WWW|v0.25.0|🇩🇪 DE|||
-|https://libreddit.pussthecat.org|WWW|v0.29.3|🇩🇪 DE|||
+|https://libreddit.pussthecat.org|WWW|v0.29.4|🇩🇪 DE|||
 |https://libreddit.northboot.xyz|WWW|v0.29.3|🇩🇪 DE|||
 |https://libreddit.totaldarkness.net|WWW|v0.29.3|🇨🇦 CA|||
 |https://libreddit.esmailelbob.xyz|WWW|v0.25.0|🇨🇦 CA|||
-|https://lr.vern.cc|WWW|v0.27.2|🇺🇸 US|||
 |https://libreddit.nl|WWW|v0.29.4|🇳🇱 NL|||
 |https://reddi.tk|WWW|v0.22.9|🇺🇸 US|✅||
 |https://r.walkx.fyi|WWW|v0.25.0|🇳🇱 NL|✅||
 |https://libreddit.kylrth.com|WWW|v0.25.0|🇨🇦 CA|||
-|https://libreddit.tiekoetter.com|WWW|v0.29.3|🇩🇪 DE|||
+|https://libreddit.tiekoetter.com|WWW|v0.29.4|🇩🇪 DE|||
 |https://reddit.rtrace.io|WWW|v0.29.3|🇩🇪 DE|||
-|https://libreddit.privacydev.net|WWW|v0.22.9|🇺🇸 US|||
-|https://r.ahwx.org|WWW|v0.25.0|🇳🇱 NL|✅||
+|https://libreddit.privacydev.net|WWW|v0.29.4|🇺🇸 US|||
+|https://r.ahwx.org|WWW|v0.29.4|🇳🇱 NL|✅||
 |https://bob.fr.to|WWW|v0.29.4|🇺🇸 US|||
 |https://libreddit.dcs0.hu|WWW|v0.25.0|🇭🇺 HU|||
-|https://reddit.dr460nf1r3.org|WWW|v0.29.3|🇩🇪 DE|✅||
+|https://reddit.dr460nf1r3.org|WWW|v0.29.4|🇩🇪 DE|✅||
 |https://rd.777.tf|WWW|v0.25.0|🇫🇮 FI|||
 |https://libreddit.foss.wtf|WWW|v0.29.4|🇩🇪 DE|||
 |https://l.opnxng.com|WWW|v0.25.0|🇸🇬 SG|||
@@ -38,10 +36,9 @@
 |https://libreddit.projectsegfau.lt|WWW|v0.25.0|🇱🇺 LU|||
 |https://lr.slipfox.xyz|WWW|v0.22.9|🇺🇸 US|||
 |https://libreddit.oxymagnesium.com|WWW|v0.29.3|🇺🇸 US|||
-|https://reddit.utsav2.dev|WWW|v0.29.3|🇺🇸 US|||
 |https://libreddit.freedit.eu|WWW|v0.29.4|🇺🇸 US|✅||
 |https://libreddit.mha.fi|WWW|v0.27.2|🇫🇮 FI|||
-|https://libreddit.garudalinux.org|WWW|v0.29.3|🇫🇮 FI|✅||
+|https://libreddit.garudalinux.org|WWW|v0.29.4|🇫🇮 FI|✅||
 |https://lr.4201337.xyz|WWW|v0.29.3|🇫🇷 FR|||
 |https://lr.odyssey346.dev|WWW|v0.25.0|🇫🇷 FR|||
 |https://lr.artemislena.eu|WWW|v0.25.0|🇩🇪 DE|||
@@ -50,16 +47,15 @@
 |https://lr.aeong.one|WWW|v0.25.0|🇰🇷 KR|✅||
 |https://reddit.smnz.de|WWW|v0.29.4|🇩🇪 DE|||
 |https://libreddit.bus-hit.me|WWW|v0.25.0|🇨🇦 CA|||
-|https://reddit.leptons.xyz|WWW|v0.27.2|🇬🇧 GB|||
+|https://reddit.leptons.xyz|WWW|v0.29.4|🇬🇧 GB|||
 |https://libreddit.lunar.icu|WWW|v0.25.1|🇩🇪 DE|✅||
-|https://lbr.frail.duckdns.org|WWW|v0.28.1|🇧🇷 BR|||
-|https://reddit.thekitty.zone|WWW|v0.29.2|🇩🇪 DE|||
+|https://reddit.thekitty.zone|WWW|v0.29.4|🇩🇪 DE|||
 |https://reddit.moe.ngo|WWW|v0.29.4|🇮🇩 ID|✅||
 |https://r.darklab.sh|WWW|v0.25.0|🇺🇸 US|||
 |https://libreddit.albr.to|WWW|v0.27.2|🇩🇪 DE|||
 |https://snoo.habedieeh.re|WWW|v0.25.0|🇨🇦 CA|||
-|https://libreddit.kutay.dev|WWW|v0.29.3|🇩🇪 DE|||
-|https://libreddit.tux.pizza|WWW|v0.29.3|🇺🇸 US|||
+|https://libreddit.kutay.dev|WWW|v0.29.4|🇩🇪 DE|||
+|https://libreddit.tux.pizza|WWW|v0.29.4|🇺🇸 US|||
 |https://libreddit.billbert.co|WWW|v0.25.0|🇺🇸 US|✅||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion|Tor|v0.29.3|🇩🇪 DE|||
