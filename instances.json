@@ -146,11 +146,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://bob.fr.to",
-      "country": "US",
-      "version": "v0.30.0"
-    },
-    {
       "url": "https://libreddit.dcs0.hu",
       "country": "HU",
       "version": "v0.25.0"
@@ -346,6 +341,11 @@
     },
     {
       "onion": "http://snoo.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
+      "country": "CA",
+      "version": "v0.25.0"
+    },
+    {
+      "i2p": "http://wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p",
       "country": "CA",
       "version": "v0.25.0"
     }
