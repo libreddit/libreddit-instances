@@ -1,6 +1,5 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://libreddit.spike.codes|WWW|v0.30.1|🇺🇸 US||official instance|
 |https://safereddit.com|WWW|v0.30.0|🇺🇸 US||SFW only|
 |https://libreddit.kavin.rocks|WWW|v0.30.0|🇮🇳 IN|||
 |https://reddit.invak.id|WWW|v0.30.0|🇧🇬 BG|||
@@ -14,8 +13,9 @@
 |https://r.nf|WWW|v0.30.0|🇩🇪 DE|✅||
 |https://lr.mint.lgbt|WWW|v0.22.9|🇨🇦 CA|||
 |https://libreddit.de|WWW|v0.25.0|🇩🇪 DE|||
-|https://libreddit.pussthecat.org|WWW|v0.29.4|🇩🇪 DE|||
+|https://libreddit.pussthecat.org|WWW|v0.30.0|🇩🇪 DE|||
 |https://libreddit.northboot.xyz|WWW|v0.29.3|🇩🇪 DE|||
+|https://libreddit.hu|WWW|v0.30.0|🇫🇮 FI|✅||
 |https://libreddit.totaldarkness.net|WWW|v0.29.3|🇨🇦 CA|||
 |https://libreddit.esmailelbob.xyz|WWW|v0.25.0|🇨🇦 CA|||
 |https://lr.vern.cc|WWW|v0.27.2|🇺🇸 US|||
@@ -37,6 +37,7 @@
 |https://libreddit.projectsegfau.lt|WWW|v0.25.0|🇱🇺 LU|||
 |https://lr.slipfox.xyz|WWW|v0.22.9|🇺🇸 US|||
 |https://libreddit.oxymagnesium.com|WWW|v0.29.3|🇺🇸 US|||
+|https://reddit.utsav2.dev|WWW|v0.29.4|🇺🇸 US|||
 |https://libreddit.freedit.eu|WWW|v0.30.1|🇺🇸 US|✅||
 |https://libreddit.mha.fi|WWW|v0.27.2|🇫🇮 FI|||
 |https://libreddit.garudalinux.org|WWW|v0.30.0|🇫🇮 FI|✅||

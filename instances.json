@@ -1,12 +1,6 @@
 {
-  "updated": "2023-03-11",
+  "updated": "2023-03-14",
   "instances": [
-    {
-      "url": "https://libreddit.spike.codes",
-      "country": "US",
-      "version": "v0.30.1",
-      "description": "official instance"
-    },
     {
       "url": "https://safereddit.com",
       "country": "US",
@@ -80,12 +74,18 @@
     {
       "url": "https://libreddit.pussthecat.org",
       "country": "DE",
-      "version": "v0.29.4"
+      "version": "v0.30.0"
     },
     {
       "url": "https://libreddit.northboot.xyz",
       "country": "DE",
       "version": "v0.29.3"
+    },
+    {
+      "url": "https://libreddit.hu",
+      "country": "FI",
+      "version": "v0.30.0",
+      "cloudflare": true
     },
     {
       "url": "https://libreddit.totaldarkness.net",
@@ -196,6 +196,11 @@
       "url": "https://libreddit.oxymagnesium.com",
       "country": "US",
       "version": "v0.29.3"
+    },
+    {
+      "url": "https://reddit.utsav2.dev",
+      "country": "US",
+      "version": "v0.29.4"
     },
     {
       "url": "https://libreddit.freedit.eu",
