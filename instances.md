@@ -26,7 +26,7 @@
 |https://libreddit.kylrth.com|WWW|v0.25.0|🇨🇦 CA|||
 |https://libreddit.tiekoetter.com|WWW|v0.30.1|🇩🇪 DE|||
 |https://reddit.rtrace.io|WWW|v0.29.3|🇩🇪 DE|||
-|https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||
+|https://libreddit.privacydev.net|WWW|v0.30.1|🇳🇱 NL|||
 |https://r.ahwx.org|WWW|v0.29.4|🇳🇱 NL|✅||
 |https://libreddit.dcs0.hu|WWW|v0.25.0|🇭🇺 HU|||
 |https://reddit.dr460nf1r3.org|WWW|v0.30.0|🇩🇪 DE|✅||
@@ -66,3 +66,4 @@
 |http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion|Tor|v0.25.0|🇩🇪 DE|||
 |http://snoo.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion|Tor|v0.25.0|🇨🇦 CA|||
 |http://wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p|I2P|v0.25.0|🇨🇦 CA|||
+|http://libreddit.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion|Tor|v0.30.1|🇳🇱 NL|||
