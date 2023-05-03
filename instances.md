@@ -31,7 +31,7 @@
 |https://libreddit.dcs0.hu|WWW|v0.25.0|🇭🇺 HU|||
 |https://reddit.dr460nf1r3.org|WWW|v0.30.0|🇩🇪 DE|✅||
 |https://rd.777.tf|WWW|v0.25.0|🇫🇮 FI|||
-|https://libreddit.foss.wtf|WWW|v0.30.0|🇩🇪 DE|||
+|https://libreddit.ftw.lol|WWW|v0.30.1|🇩🇪 DE|||
 |https://l.opnxng.com|WWW|v0.25.0|🇸🇬 SG|||
 |https://libreddit.cachyos.org|WWW|v0.25.0|🇩🇪 DE|✅||
 |https://rd.funami.tech|WWW|v0.25.0|🇰🇷 KR|||
