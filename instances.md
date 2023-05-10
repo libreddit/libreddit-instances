@@ -5,6 +5,7 @@
 |https://libreddit.kavin.rocks|WWW|v0.30.0|🇮🇳 IN|||
 |https://reddit.invak.id|WWW|v0.30.0|🇧🇬 BG|||
 |https://libreddit.eu.org|WWW|v0.29.1|🇩🇪 DE|✅||
+|https://discuss.whateveritworks.org|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://reddit.simo.sh|WWW|v0.30.0|🇧🇬 BG|||
 |https://lr.riverside.rocks|WWW|v0.28.1|🇺🇸 US|||
 |https://libreddit.strongthany.cc|WWW|v0.30.1|🇺🇸 US|||
