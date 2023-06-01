@@ -7,6 +7,7 @@ on:
     branches:
       - master
   workflow_dispatch: # run on manual trigger
+  schedule: [{cron: "0 0 */2 * *"}] # Run every other day
 
 jobs:
   update:
