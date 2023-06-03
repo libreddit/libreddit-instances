@@ -1,12 +1,6 @@
 {
-  "updated": "2023-06-01",
+  "updated": "2023-06-03",
   "instances": [
-    {
-      "url": "https://libreddit.spike.codes",
-      "country": "US",
-      "version": "v0.30.1",
-      "description": "official instance"
-    },
     {
       "url": "https://safereddit.com",
       "country": "US",
@@ -139,11 +133,6 @@
       "country": "NL",
       "version": "v0.30.1",
       "cloudflare": true
-    },
-    {
-      "url": "https://bob.fr.to",
-      "country": "US",
-      "version": "v0.30.1"
     },
     {
       "url": "https://libreddit.dcs0.hu",
