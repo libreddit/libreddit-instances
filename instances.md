@@ -52,6 +52,7 @@
 |https://snoo.habedieeh.re|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.kutay.dev|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.tux.pizza|WWW|v0.30.1|🇺🇸 US|||
+|https://libreddit.bloatcat.tk|WWW|v0.30.1|🇮🇸 IS|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
