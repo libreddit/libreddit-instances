@@ -1,4 +1,5 @@
 https://libreddit.spike.codes,US,false,"official instance"
+https://libreddit.colinslegacy.com,US,true,""
 https://libreddit.org,DE,true,""
 https://safereddit.com,US,false,"SFW only"
 https://libreddit.kavin.rocks,IN,false,""
