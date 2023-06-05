@@ -4,7 +4,7 @@
 |https://libreddit.kavin.rocks|WWW|v0.30.1|🇮🇳 IN|||
 |https://reddit.invak.id|WWW|v0.30.1|🇧🇬 BG|||
 |https://reddit.simo.sh|WWW|v0.30.1|🇧🇬 BG|||
-|https://lr.riverside.rocks|WWW|v0.28.1|🇺🇸 US|||
+|https://lr.riverside.rocks|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.strongthany.cc|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.privacy.com.de|WWW|v0.30.1|🇩🇪 DE|||
 |https://reddit.baby|WWW|v0.30.1|🇩🇪 DE||mirror of libreddit.privacy.com.de|
