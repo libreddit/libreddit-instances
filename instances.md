@@ -19,7 +19,6 @@
 |https://libreddit.nl|WWW|v0.30.1|🇳🇱 NL|||
 |https://reddi.tk|WWW|v0.22.9|🇺🇸 US|✅||
 |https://r.walkx.fyi|WWW|v0.25.0|🇳🇱 NL|✅||
-|https://libreddit.kylrth.com|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.tiekoetter.com|WWW|v0.30.1|🇩🇪 DE|||
 |https://reddit.rtrace.io|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||
@@ -45,7 +44,6 @@
 |https://libreddit.bus-hit.me|WWW|v0.25.0|🇨🇦 CA|||
 |https://reddit.leptons.xyz|WWW|v0.30.1|🇬🇧 GB|||
 |https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
-|https://reddit.moe.ngo|WWW|v0.30.1|🇮🇩 ID|✅||
 |https://r.darklab.sh|WWW|v0.25.0|🇺🇸 US|||
 |https://snoo.habedieeh.re|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.kutay.dev|WWW|v0.30.1|🇩🇪 DE|||
