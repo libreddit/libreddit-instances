@@ -24,9 +24,12 @@
 |https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||
 |https://r.ahwx.org|WWW|v0.30.1|🇳🇱 NL|✅||
 <<<<<<< HEAD
+<<<<<<< HEAD
 |https://reddit.dr460nf1r3.org|WWW|v0.30.1|🇩🇪 DE|✅||
 =======
 >>>>>>> c554b60 (updated insances - added libreddit.onthescent.xyz)
+=======
+>>>>>>> c554b603f43464d5b0f1de4735cd2f2cfcd89f23
 |https://l.opnxng.com|WWW|v0.30.1|🇸🇬 SG|||
 |https://libreddit.cachyos.org|WWW|v0.25.0|🇩🇪 DE|✅||
 |https://rd.funami.tech|WWW|v0.30.1|🇰🇷 KR|||
