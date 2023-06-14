@@ -23,7 +23,13 @@
 |https://reddit.rtrace.io|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||
 |https://r.ahwx.org|WWW|v0.30.1|🇳🇱 NL|✅||
+<<<<<<< HEAD
+<<<<<<< HEAD
 |https://reddit.dr460nf1r3.org|WWW|v0.30.1|🇩🇪 DE|✅||
+=======
+>>>>>>> c554b60 (updated insances - added libreddit.onthescent.xyz)
+=======
+>>>>>>> c554b603f43464d5b0f1de4735cd2f2cfcd89f23
 |https://l.opnxng.com|WWW|v0.30.1|🇸🇬 SG|||
 |https://libreddit.cachyos.org|WWW|v0.25.0|🇩🇪 DE|✅||
 |https://rd.funami.tech|WWW|v0.30.1|🇰🇷 KR|||
@@ -37,7 +43,6 @@
 |https://lr.4201337.xyz|WWW|v0.30.1|🇫🇷 FR|||
 |https://lr.odyssey346.dev|WWW|v0.30.1|🇫🇷 FR|||
 |https://lr.artemislena.eu|WWW|v0.30.1|🇩🇪 DE|||
-|https://discuss.whatever.social|WWW|v0.25.0|🇺🇸 US||uses CDN|
 |https://libreddit.pufe.org|WWW|v0.30.1|🇳🇿 NZ|||
 |https://lr.aeong.one|WWW|v0.25.0|🇰🇷 KR|✅||
 |https://reddit.smnz.de|WWW|v0.30.1|🇩🇪 DE|||
@@ -48,9 +53,4 @@
 |https://snoo.habedieeh.re|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.kutay.dev|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.tux.pizza|WWW|v0.30.1|🇺🇸 US|||
-|http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
-|http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||
-|http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
-|http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion|Tor|v0.25.0|🇩🇪 DE|||
-|http://snoo.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion|Tor|v0.25.0|🇨🇦 CA|||
-|http://wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p|I2P|v0.25.0|🇨🇦 CA|||
+|https://libreddit.onthescent.xyz|WWW|v0.30.1|🇺🇸 US|||
