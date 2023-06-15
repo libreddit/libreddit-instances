@@ -10,7 +10,8 @@
 |https://reddit.baby|WWW|v0.30.1|🇩🇪 DE||mirror of libreddit.privacy.com.de|
 |https://libreddit.domain.glass|WWW|v0.10.5|🇺🇸 US|✅||
 |https://r.nf|WWW|v0.30.1|🇩🇪 DE|✅||
-|https://lr.mint.lgbt|WWW|v0.22.9|🇨🇦 CA|||
+|https://lr.mint.lgbt|WWW|v0.30.1|🇨🇦 CA|||
+|https://libreddit.de|WWW|v0.25.0|🇩🇪 DE|||
 |https://libreddit.pussthecat.org|WWW|v0.30.0|🇩🇪 DE|||
 |https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.hu|WWW|v0.30.1|🇫🇮 FI|✅||
@@ -23,6 +24,7 @@
 |https://reddit.rtrace.io|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||
 |https://r.ahwx.org|WWW|v0.30.1|🇳🇱 NL|✅||
+|https://libreddit.dcs0.hu|WWW|v0.25.0|🇭🇺 HU|||
 |https://reddit.dr460nf1r3.org|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://l.opnxng.com|WWW|v0.30.1|🇸🇬 SG|||
 |https://libreddit.cachyos.org|WWW|v0.25.0|🇩🇪 DE|✅||
