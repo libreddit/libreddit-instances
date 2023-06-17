@@ -10,7 +10,6 @@
 |https://reddit.baby|WWW|v0.30.1|🇩🇪 DE||mirror of libreddit.privacy.com.de|
 |https://libreddit.domain.glass|WWW|v0.10.5|🇺🇸 US|✅||
 |https://r.nf|WWW|v0.30.1|🇩🇪 DE|✅||
-|https://lr.mint.lgbt|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.de|WWW|v0.25.0|🇩🇪 DE|||
 |https://libreddit.pussthecat.org|WWW|v0.30.0|🇩🇪 DE|||
 |https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
@@ -20,6 +19,7 @@
 |https://libreddit.nl|WWW|v0.30.1|🇳🇱 NL|||
 |https://reddi.tk|WWW|v0.22.9|🇺🇸 US|✅||
 |https://r.walkx.fyi|WWW|v0.25.0|🇳🇱 NL|✅||
+|https://libreddit.kylrth.com|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.tiekoetter.com|WWW|v0.30.1|🇩🇪 DE|||
 |https://reddit.rtrace.io|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||
@@ -39,7 +39,6 @@
 |https://lr.4201337.xyz|WWW|v0.30.1|🇫🇷 FR|||
 |https://lr.odyssey346.dev|WWW|v0.30.1|🇫🇷 FR|||
 |https://lr.artemislena.eu|WWW|v0.30.1|🇩🇪 DE|||
-|https://discuss.whatever.social|WWW|v0.25.0|🇺🇸 US||uses CDN|
 |https://libreddit.pufe.org|WWW|v0.30.1|🇳🇿 NZ|||
 |https://lr.aeong.one|WWW|v0.25.0|🇰🇷 KR|✅||
 |https://reddit.smnz.de|WWW|v0.30.1|🇩🇪 DE|||
