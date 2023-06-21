@@ -38,13 +38,13 @@
 |https://libreddit.garudalinux.org|WWW|v0.30.1|🇫🇮 FI|✅||
 |https://lr.4201337.xyz|WWW|v0.30.1|🇫🇷 FR|||
 |https://lr.artemislena.eu|WWW|v0.30.1|🇩🇪 DE|||
-|https://discuss.whatever.social|WWW|v0.30.1|🇺🇸 US||uses CDN|
 |https://libreddit.pufe.org|WWW|v0.30.1|🇳🇿 NZ|||
 |https://lr.aeong.one|WWW|v0.25.0|🇰🇷 KR|✅||
 |https://reddit.smnz.de|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.bus-hit.me|WWW|v0.25.0|🇨🇦 CA|||
 |https://reddit.leptons.xyz|WWW|v0.30.1|🇬🇧 GB|||
 |https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
+|https://reddit.moe.ngo|WWW|v0.30.1|🇮🇩 ID|✅||
 |https://r.darklab.sh|WWW|v0.25.0|🇺🇸 US|||
 |https://snoo.habedieeh.re|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.kutay.dev|WWW|v0.30.1|🇩🇪 DE|||
