@@ -1,5 +1,5 @@
 {
-  "updated": "2023-06-21",
+  "updated": "2023-06-23",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -133,6 +133,11 @@
       "country": "NL",
       "version": "v0.30.1",
       "cloudflare": true
+    },
+    {
+      "url": "https://libreddit.dcs0.hu",
+      "country": "HU",
+      "version": "v0.25.0"
     },
     {
       "url": "https://reddit.dr460nf1r3.org",
