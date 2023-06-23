@@ -56,11 +56,6 @@
       "cloudflare": true
     },
     {
-      "url": "https://lr.mint.lgbt",
-      "country": "CA",
-      "version": "v0.30.1"
-    },
-    {
       "url": "https://libreddit.de",
       "country": "DE",
       "version": "v0.25.0"
@@ -267,34 +262,10 @@
       "version": "v0.30.1"
     },
     {
-      "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
+      "url": "https://libreddit.vanillax.me",
       "country": "US",
-      "version": "v0.22.9"
-    },
-    {
-      "onion": "http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion",
-      "country": "CA",
-      "version": "v0.25.0"
-    },
-    {
-      "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
-      "country": "US",
-      "version": "v0.22.9"
-    },
-    {
-      "onion": "http://lr.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
-      "country": "DE",
-      "version": "v0.25.0"
-    },
-    {
-      "onion": "http://snoo.habeehrhadazsw3izbrbilqajalfyqqln54mrja3iwpqxgcuxnus7eid.onion",
-      "country": "CA",
-      "version": "v0.25.0"
-    },
-    {
-      "i2p": "http://wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p",
-      "country": "CA",
-      "version": "v0.25.0"
+      "version": "v0.30.1",
+      "cloudflare": true
     }
   ]
 }
