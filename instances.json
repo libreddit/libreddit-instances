@@ -1,5 +1,5 @@
 {
-  "updated": "2023-06-23",
+  "updated": "2023-06-25",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -54,11 +54,6 @@
       "country": "DE",
       "version": "v0.30.1",
       "cloudflare": true
-    },
-    {
-      "url": "https://lr.mint.lgbt",
-      "country": "CA",
-      "version": "v0.30.1"
     },
     {
       "url": "https://libreddit.de",
