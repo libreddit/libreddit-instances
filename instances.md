@@ -1,7 +1,6 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
 |https://safereddit.com|WWW|v0.30.1|🇺🇸 US||SFW only|
-|https://libreddit.kavin.rocks|WWW|v0.30.1|🇮🇳 IN|||
 |https://reddit.invak.id|WWW|v0.30.1|🇧🇬 BG|||
 |https://reddit.simo.sh|WWW|v0.30.1|🇧🇬 BG|||
 |https://lr.riverside.rocks|WWW|v0.30.1|🇺🇸 US|||
