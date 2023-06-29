@@ -1,11 +1,16 @@
 {
-  "updated": "2023-06-27",
+  "updated": "2023-06-29",
   "instances": [
     {
       "url": "https://safereddit.com",
       "country": "US",
       "version": "v0.30.1",
       "description": "SFW only"
+    },
+    {
+      "url": "https://libreddit.kavin.rocks",
+      "country": "IN",
+      "version": "v0.30.1"
     },
     {
       "url": "https://reddit.invak.id",
@@ -240,11 +245,6 @@
       "url": "https://r.darklab.sh",
       "country": "US",
       "version": "v0.25.0"
-    },
-    {
-      "url": "https://snoo.habedieeh.re",
-      "country": "CA",
-      "version": "v0.30.1"
     },
     {
       "url": "https://libreddit.kutay.dev",
