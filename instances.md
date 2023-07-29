@@ -1,14 +1,13 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
 |https://safereddit.com|WWW|v0.30.1|🇺🇸 US||SFW only|
-|https://lr.riverside.rocks|WWW|v0.30.1|🇺🇸 US|||
+|https://libreddit.kavin.rocks|WWW|v0.30.1|🇮🇳 IN|||
 |https://libreddit.privacy.com.de|WWW|v0.30.1|🇩🇪 DE|||
 |https://reddit.baby|WWW|v0.30.1|🇩🇪 DE||mirror of libreddit.privacy.com.de|
 |https://libreddit.domain.glass|WWW|v0.10.5|🇺🇸 US|✅||
 |https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
-|https://libreddit.kylrth.com|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||
-|https://libreddit.cachyos.org|WWW|v0.30.1|🇩🇪 DE|✅||
+|https://l.opnxng.com|WWW|v0.30.1|🇸🇬 SG|||
 |https://rd.funami.tech|WWW|v0.30.1|🇰🇷 KR|||
 |https://libreddit.oxymagnesium.com|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.freedit.eu|WWW|v0.30.1|🇺🇸 US|✅||
