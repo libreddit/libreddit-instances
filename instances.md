@@ -2,13 +2,11 @@
 |-|-|-|-|-|-|
 |https://safereddit.com|WWW|v0.30.1|🇺🇸 US||SFW only|
 |https://libreddit.kavin.rocks|WWW|v0.30.1|🇮🇳 IN|||
-|https://libreddit.privacy.com.de|WWW|v0.30.1|🇩🇪 DE|||
-|https://reddit.baby|WWW|v0.30.1|🇩🇪 DE||mirror of libreddit.privacy.com.de|
 |https://libreddit.domain.glass|WWW|v0.10.5|🇺🇸 US|✅||
 |https://libreddit.pussthecat.org|WWW|v0.30.0|🇩🇪 DE|||
 |https://lr.vern.cc|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||
-|https://l.opnxng.com|WWW|v0.30.1|🇸🇬 SG|||
+|https://libreddit.cachyos.org|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://libreddit.oxymagnesium.com|WWW|v0.30.1|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.freedit.eu|WWW|v0.30.1|🇺🇸 US|✅||
@@ -21,6 +19,7 @@
 |https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://r.darklab.sh|WWW|v0.25.0|🇺🇸 US|||
 |https://snoo.habedieeh.re|WWW|v0.30.1|🇨🇦 CA|||
+|https://libreddit.kutay.dev|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.tux.pizza|WWW|v0.30.1|🇺🇸 US|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||
