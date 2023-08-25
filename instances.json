@@ -1,5 +1,5 @@
 {
-  "updated": "2023-08-23",
+  "updated": "2023-08-25",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -8,33 +8,24 @@
       "description": "SFW only"
     },
     {
-      "url": "https://libreddit.pussthecat.org",
-      "country": "DE",
-      "version": "v0.30.0"
+      "url": "https://reddit.invak.id",
+      "country": "BG",
+      "version": "v0.30.1"
     },
     {
-      "url": "https://libreddit.northboot.xyz",
+      "url": "https://libreddit.privacy.com.de",
       "country": "DE",
       "version": "v0.30.1"
+    },
+    {
+      "url": "https://reddit.baby",
+      "country": "DE",
+      "version": "v0.30.1",
+      "description": "mirror of libreddit.privacy.com.de"
     },
     {
       "url": "https://lr.vern.cc",
       "country": "US",
-      "version": "v0.30.1"
-    },
-    {
-      "url": "https://libreddit.kylrth.com",
-      "country": "CA",
-      "version": "v0.30.1"
-    },
-    {
-      "url": "https://libreddit.tiekoetter.com",
-      "country": "DE",
-      "version": "v0.30.1"
-    },
-    {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
       "version": "v0.30.1"
     },
     {
@@ -43,47 +34,9 @@
       "version": "v0.30.1"
     },
     {
-      "url": "https://reddit.dr460nf1r3.org",
-      "country": "DE",
-      "version": "v0.30.1",
-      "cloudflare": true
-    },
-    {
       "url": "https://l.opnxng.com",
       "country": "SG",
       "version": "v0.30.1"
-    },
-    {
-      "url": "https://libreddit.cachyos.org",
-      "country": "DE",
-      "version": "v0.30.1",
-      "cloudflare": true
-    },
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
-      "version": "v0.30.1"
-    },
-    {
-      "url": "https://lr.slipfox.xyz",
-      "country": "US",
-      "version": "v0.22.9"
-    },
-    {
-      "url": "https://libreddit.oxymagnesium.com",
-      "country": "US",
-      "version": "v0.30.1"
-    },
-    {
-      "url": "https://reddit.utsav2.dev",
-      "country": "US",
-      "version": "v0.30.1"
-    },
-    {
-      "url": "https://libreddit.freedit.eu",
-      "country": "US",
-      "version": "v0.30.1",
-      "cloudflare": true
     },
     {
       "url": "https://libreddit.mha.fi",
