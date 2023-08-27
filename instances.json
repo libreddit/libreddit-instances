@@ -1,5 +1,5 @@
 {
-  "updated": "2023-08-25",
+  "updated": "2023-08-27",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -10,6 +10,16 @@
     {
       "url": "https://reddit.invak.id",
       "country": "BG",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://reddit.simo.sh",
+      "country": "BG",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://libreddit.strongthany.cc",
+      "country": "US",
       "version": "v0.30.1"
     },
     {
@@ -24,8 +34,51 @@
       "description": "mirror of libreddit.privacy.com.de"
     },
     {
+      "url": "https://libreddit.domain.glass",
+      "country": "US",
+      "version": "v0.10.5",
+      "cloudflare": true
+    },
+    {
+      "url": "https://r.nf",
+      "country": "DE",
+      "version": "v0.30.1",
+      "cloudflare": true
+    },
+    {
+      "url": "https://libreddit.pussthecat.org",
+      "country": "DE",
+      "version": "v0.30.0"
+    },
+    {
+      "url": "https://libreddit.northboot.xyz",
+      "country": "DE",
+      "version": "v0.30.1"
+    },
+    {
       "url": "https://lr.vern.cc",
       "country": "US",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://r.walkx.fyi",
+      "country": "NL",
+      "version": "v0.25.0",
+      "cloudflare": true
+    },
+    {
+      "url": "https://libreddit.kylrth.com",
+      "country": "CA",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://libreddit.tiekoetter.com",
+      "country": "DE",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://reddit.rtrace.io",
+      "country": "DE",
       "version": "v0.30.1"
     },
     {
@@ -34,9 +87,37 @@
       "version": "v0.30.1"
     },
     {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
+      "url": "https://reddit.dr460nf1r3.org",
+      "country": "DE",
+      "version": "v0.30.1",
+      "cloudflare": true
+    },
+    {
+      "url": "https://libreddit.cachyos.org",
+      "country": "DE",
+      "version": "v0.30.1",
+      "cloudflare": true
+    },
+    {
+      "url": "https://lr.slipfox.xyz",
+      "country": "US",
+      "version": "v0.22.9"
+    },
+    {
+      "url": "https://libreddit.oxymagnesium.com",
+      "country": "US",
       "version": "v0.30.1"
+    },
+    {
+      "url": "https://reddit.utsav2.dev",
+      "country": "US",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://libreddit.freedit.eu",
+      "country": "US",
+      "version": "v0.30.1",
+      "cloudflare": true
     },
     {
       "url": "https://libreddit.mha.fi",
@@ -73,17 +154,6 @@
       "url": "https://reddit.leptons.xyz",
       "country": "GB",
       "version": "v0.30.1"
-    },
-    {
-      "url": "https://libreddit.lunar.icu",
-      "country": "DE",
-      "version": "v0.30.1",
-      "cloudflare": true
-    },
-    {
-      "url": "https://r.darklab.sh",
-      "country": "US",
-      "version": "v0.25.0"
     },
     {
       "url": "https://snoo.habedieeh.re",
