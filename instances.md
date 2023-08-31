@@ -2,18 +2,26 @@
 |-|-|-|-|-|-|
 |https://safereddit.com|WWW|v0.30.1|🇺🇸 US||SFW only|
 |https://reddit.invak.id|WWW|v0.30.1|🇧🇬 BG|||
-|https://libreddit.privacy.com.de|WWW|v0.30.1|🇩🇪 DE|||
-|https://reddit.baby|WWW|v0.30.1|🇩🇪 DE||mirror of libreddit.privacy.com.de|
-|https://lr.vern.cc|WWW|v0.30.1|🇺🇸 US|||
+|https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
+|https://libreddit.kylrth.com|WWW|v0.30.1|🇨🇦 CA|||
+|https://libreddit.tiekoetter.com|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||
+|https://reddit.dr460nf1r3.org|WWW|v0.30.1|🇩🇪 DE|✅||
+|https://l.opnxng.com|WWW|v0.30.1|🇸🇬 SG|||
+|https://libreddit.cachyos.org|WWW|v0.30.1|🇩🇪 DE|✅||
+|https://libreddit.projectsegfau.lt|WWW|v0.30.1|🇱🇺 LU|||
+|https://lr.slipfox.xyz|WWW|v0.22.9|🇺🇸 US|||
 |https://libreddit.oxymagnesium.com|WWW|v0.30.1|🇺🇸 US|||
+|https://reddit.utsav2.dev|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.freedit.eu|WWW|v0.30.1|🇺🇸 US|✅||
+|https://libreddit.mha.fi|WWW|v0.30.1|🇫🇮 FI|||
 |https://lr.4201337.xyz|WWW|v0.30.1|🇫🇷 FR|||
 |https://lr.aeong.one|WWW|v0.25.0|🇰🇷 KR|✅||
 |https://libreddit.bus-hit.me|WWW|v0.25.0|🇨🇦 CA|||
 |https://reddit.leptons.xyz|WWW|v0.30.1|🇬🇧 GB|||
 |https://r.darklab.sh|WWW|v0.25.0|🇺🇸 US|||
 |https://snoo.habedieeh.re|WWW|v0.30.1|🇨🇦 CA|||
+|https://libreddit.kutay.dev|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.tux.pizza|WWW|v0.30.1|🇺🇸 US|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||

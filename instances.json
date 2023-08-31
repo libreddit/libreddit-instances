@@ -1,5 +1,5 @@
 {
-  "updated": "2023-08-29",
+  "updated": "2023-08-31",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -13,19 +13,18 @@
       "version": "v0.30.1"
     },
     {
-      "url": "https://libreddit.privacy.com.de",
+      "url": "https://libreddit.northboot.xyz",
       "country": "DE",
       "version": "v0.30.1"
     },
     {
-      "url": "https://reddit.baby",
-      "country": "DE",
-      "version": "v0.30.1",
-      "description": "mirror of libreddit.privacy.com.de"
+      "url": "https://libreddit.kylrth.com",
+      "country": "CA",
+      "version": "v0.30.1"
     },
     {
-      "url": "https://lr.vern.cc",
-      "country": "US",
+      "url": "https://libreddit.tiekoetter.com",
+      "country": "DE",
       "version": "v0.30.1"
     },
     {
@@ -34,7 +33,39 @@
       "version": "v0.30.1"
     },
     {
+      "url": "https://reddit.dr460nf1r3.org",
+      "country": "DE",
+      "version": "v0.30.1",
+      "cloudflare": true
+    },
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://libreddit.cachyos.org",
+      "country": "DE",
+      "version": "v0.30.1",
+      "cloudflare": true
+    },
+    {
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://lr.slipfox.xyz",
+      "country": "US",
+      "version": "v0.22.9"
+    },
+    {
       "url": "https://libreddit.oxymagnesium.com",
+      "country": "US",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://reddit.utsav2.dev",
       "country": "US",
       "version": "v0.30.1"
     },
@@ -43,6 +74,11 @@
       "country": "US",
       "version": "v0.30.1",
       "cloudflare": true
+    },
+    {
+      "url": "https://libreddit.mha.fi",
+      "country": "FI",
+      "version": "v0.30.1"
     },
     {
       "url": "https://lr.4201337.xyz",
@@ -73,6 +109,11 @@
     {
       "url": "https://snoo.habedieeh.re",
       "country": "CA",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://libreddit.kutay.dev",
+      "country": "DE",
       "version": "v0.30.1"
     },
     {
