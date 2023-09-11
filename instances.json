@@ -1,19 +1,21 @@
 {
-  "updated": "2023-09-09",
+  "updated": "2023-09-11",
   "instances": [
     {
-      "url": "https://reddit.invak.id",
-      "country": "BG",
-      "version": "v0.30.1"
+      "url": "https://libreddit.spike.codes",
+      "country": "US",
+      "version": "v0.30.1",
+      "description": "official instance"
     },
     {
-      "url": "https://libreddit.pussthecat.org",
-      "country": "DE",
-      "version": "v0.30.0"
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.30.1",
+      "description": "SFW only"
     },
     {
-      "url": "https://libreddit.northboot.xyz",
-      "country": "DE",
+      "url": "https://libreddit.kavin.rocks",
+      "country": "IN",
       "version": "v0.30.1"
     },
     {
@@ -24,11 +26,6 @@
     {
       "url": "https://libreddit.kylrth.com",
       "country": "CA",
-      "version": "v0.30.1"
-    },
-    {
-      "url": "https://libreddit.privacydev.net",
-      "country": "US",
       "version": "v0.30.1"
     },
     {
@@ -82,6 +79,11 @@
       "country": "KR",
       "version": "v0.25.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://reddit.smnz.de",
+      "country": "DE",
+      "version": "v0.30.1"
     },
     {
       "url": "https://libreddit.bus-hit.me",
