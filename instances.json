@@ -1,5 +1,5 @@
 {
-  "updated": "2023-09-17",
+  "updated": "2023-09-19",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -28,12 +28,6 @@
       "version": "v0.30.1"
     },
     {
-      "url": "https://libreddit.domain.glass",
-      "country": "US",
-      "version": "v0.10.5",
-      "cloudflare": true
-    },
-    {
       "url": "https://libreddit.pussthecat.org",
       "country": "DE",
       "version": "v0.30.0"
@@ -47,6 +41,12 @@
       "url": "https://libreddit.hu",
       "country": "FI",
       "version": "v0.30.1",
+      "cloudflare": true
+    },
+    {
+      "url": "https://r.walkx.fyi",
+      "country": "NL",
+      "version": "v0.25.0",
       "cloudflare": true
     },
     {
@@ -70,6 +70,11 @@
       "version": "v0.30.1"
     },
     {
+      "url": "https://lr.slipfox.xyz",
+      "country": "US",
+      "version": "v0.22.9"
+    },
+    {
       "url": "https://libreddit.oxymagnesium.com",
       "country": "US",
       "version": "v0.30.1"
@@ -86,9 +91,25 @@
       "cloudflare": true
     },
     {
+      "url": "https://libreddit.mha.fi",
+      "country": "FI",
+      "version": "v0.30.1"
+    },
+    {
       "url": "https://lr.4201337.xyz",
       "country": "FR",
       "version": "v0.30.1"
+    },
+    {
+      "url": "https://lr.artemislena.eu",
+      "country": "DE",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://lr.aeong.one",
+      "country": "KR",
+      "version": "v0.25.0",
+      "cloudflare": true
     },
     {
       "url": "https://reddit.smnz.de",
@@ -99,6 +120,22 @@
       "url": "https://libreddit.bus-hit.me",
       "country": "CA",
       "version": "v0.25.0"
+    },
+    {
+      "url": "https://libreddit.lunar.icu",
+      "country": "DE",
+      "version": "v0.30.1",
+      "cloudflare": true
+    },
+    {
+      "url": "https://r.darklab.sh",
+      "country": "US",
+      "version": "v0.25.0"
+    },
+    {
+      "url": "https://snoo.habedieeh.re",
+      "country": "CA",
+      "version": "v0.30.1"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
