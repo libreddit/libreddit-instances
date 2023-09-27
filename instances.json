@@ -1,5 +1,5 @@
 {
-  "updated": "2023-09-25",
+  "updated": "2023-09-27",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -26,6 +26,12 @@
       "url": "https://libreddit.strongthany.cc",
       "country": "US",
       "version": "v0.30.1"
+    },
+    {
+      "url": "https://libreddit.domain.glass",
+      "country": "US",
+      "version": "v0.10.5",
+      "cloudflare": true
     },
     {
       "url": "https://libreddit.pussthecat.org",
@@ -117,15 +123,14 @@
       "cloudflare": true
     },
     {
+      "url": "https://reddit.smnz.de",
+      "country": "DE",
+      "version": "v0.30.1"
+    },
+    {
       "url": "https://libreddit.bus-hit.me",
       "country": "CA",
       "version": "v0.25.0"
-    },
-    {
-      "url": "https://libreddit.lunar.icu",
-      "country": "DE",
-      "version": "v0.30.1",
-      "cloudflare": true
     },
     {
       "url": "https://r.darklab.sh",
