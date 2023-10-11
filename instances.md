@@ -10,8 +10,11 @@
 |https://libreddit.hu|WWW|v0.30.1|🇫🇮 FI|✅||
 |https://r.walkx.fyi|WWW|v0.25.0|🇳🇱 NL|✅||
 |https://libreddit.kylrth.com|WWW|v0.30.1|🇨🇦 CA|||
+|https://libreddit.tiekoetter.com|WWW|v0.30.1|🇩🇪 DE|||
 |https://reddit.rtrace.io|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||
+|https://l.opnxng.com|WWW|v0.30.1|🇸🇬 SG|||
+|https://libreddit.projectsegfau.lt|WWW|v0.30.1|🇱🇺 LU|||
 |https://lr.slipfox.xyz|WWW|v0.22.9|🇺🇸 US|||
 |https://libreddit.oxymagnesium.com|WWW|v0.30.1|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.30.1|🇺🇸 US|||
