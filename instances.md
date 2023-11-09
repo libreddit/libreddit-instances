@@ -3,9 +3,12 @@
 |https://safereddit.com|WWW|v0.30.1|🇺🇸 US||SFW only|
 |https://libreddit.kavin.rocks|WWW|v0.30.1|🇮🇳 IN|||
 |https://reddit.invak.id|WWW|v0.30.1|🇧🇬 BG|||
+|https://reddit.simo.sh|WWW|v0.30.1|🇧🇬 BG|||
 |https://libreddit.strongthany.cc|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.domain.glass|WWW|v0.10.5|🇺🇸 US|✅||
 |https://libreddit.pussthecat.org|WWW|v0.30.0|🇩🇪 DE|||
+|https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
+|https://libreddit.hu|WWW|v0.30.1|🇫🇮 FI|✅||
 |https://libreddit.kylrth.com|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.tiekoetter.com|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||

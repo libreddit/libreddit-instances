@@ -1,5 +1,5 @@
 {
-  "updated": "2023-11-07",
+  "updated": "2023-11-09",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -18,6 +18,11 @@
       "version": "v0.30.1"
     },
     {
+      "url": "https://reddit.simo.sh",
+      "country": "BG",
+      "version": "v0.30.1"
+    },
+    {
       "url": "https://libreddit.strongthany.cc",
       "country": "US",
       "version": "v0.30.1"
@@ -32,6 +37,17 @@
       "url": "https://libreddit.pussthecat.org",
       "country": "DE",
       "version": "v0.30.0"
+    },
+    {
+      "url": "https://libreddit.northboot.xyz",
+      "country": "DE",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://libreddit.hu",
+      "country": "FI",
+      "version": "v0.30.1",
+      "cloudflare": true
     },
     {
       "url": "https://libreddit.kylrth.com",
