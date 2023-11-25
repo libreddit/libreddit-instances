@@ -1,12 +1,6 @@
 {
-  "updated": "2023-11-23",
+  "updated": "2023-11-25",
   "instances": [
-    {
-      "url": "https://libreddit.spike.codes",
-      "country": "US",
-      "version": "v0.30.1",
-      "description": "official instance"
-    },
     {
       "url": "https://safereddit.com",
       "country": "US",
@@ -102,8 +96,13 @@
       "version": "v0.25.0"
     },
     {
-      "url": "https://snoo.habedieeh.re",
-      "country": "CA",
+      "url": "https://r.darklab.sh",
+      "country": "US",
+      "version": "v0.25.0"
+    },
+    {
+      "url": "https://libreddit.kutay.dev",
+      "country": "DE",
       "version": "v0.30.1"
     },
     {
