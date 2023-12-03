@@ -1,19 +1,14 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
 |https://safereddit.com|WWW|v0.30.1|🇺🇸 US||SFW only|
-|https://libreddit.kavin.rocks|WWW|v0.30.1|🇮🇳 IN|||
 |https://reddit.invak.id|WWW|v0.30.1|🇧🇬 BG|||
-|https://libreddit.domain.glass|WWW|v0.10.5|🇺🇸 US|✅||
+|https://libreddit.pussthecat.org|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
-|https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||
-|https://l.opnxng.com|WWW|v0.30.1|🇸🇬 SG|||
+|https://libreddit.kylrth.com|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.freedit.eu|WWW|v0.30.1|🇺🇸 US|✅||
 |https://lr.artemislena.eu|WWW|v0.30.1|🇩🇪 DE|||
 |https://lr.aeong.one|WWW|v0.30.1|🇰🇷 KR|✅||
-|https://libreddit.bus-hit.me|WWW|v0.25.0|🇨🇦 CA|||
-|https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://r.darklab.sh|WWW|v0.25.0|🇺🇸 US|||
-|https://snoo.habedieeh.re|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.kutay.dev|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.tux.pizza|WWW|v0.30.1|🇺🇸 US|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
