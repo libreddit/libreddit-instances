@@ -1,5 +1,5 @@
 {
-  "updated": "2023-12-05",
+  "updated": "2023-12-07",
   "instances": [
     {
       "url": "https://libreddit.spike.codes",
@@ -12,6 +12,11 @@
       "country": "US",
       "version": "v0.30.1",
       "description": "SFW only"
+    },
+    {
+      "url": "https://libreddit.kavin.rocks",
+      "country": "IN",
+      "version": "v0.30.1"
     },
     {
       "url": "https://reddit.invak.id",
@@ -80,6 +85,11 @@
       "version": "v0.30.1"
     },
     {
+      "url": "https://reddit.utsav2.dev",
+      "country": "US",
+      "version": "v0.30.1"
+    },
+    {
       "url": "https://libreddit.freedit.eu",
       "country": "US",
       "version": "v0.30.1",
@@ -97,6 +107,11 @@
       "cloudflare": true
     },
     {
+      "url": "https://libreddit.bus-hit.me",
+      "country": "CA",
+      "version": "v0.25.0"
+    },
+    {
       "url": "https://libreddit.lunar.icu",
       "country": "DE",
       "version": "v0.30.1",
@@ -108,8 +123,18 @@
       "version": "v0.25.0"
     },
     {
+      "url": "https://snoo.habedieeh.re",
+      "country": "CA",
+      "version": "v0.30.1"
+    },
+    {
       "url": "https://libreddit.kutay.dev",
       "country": "DE",
+      "version": "v0.30.1"
+    },
+    {
+      "url": "https://libreddit.tux.pizza",
+      "country": "US",
       "version": "v0.30.1"
     },
     {
