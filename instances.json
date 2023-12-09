@@ -1,12 +1,6 @@
 {
-  "updated": "2023-12-07",
+  "updated": "2023-12-09",
   "instances": [
-    {
-      "url": "https://libreddit.spike.codes",
-      "country": "US",
-      "version": "v0.30.1",
-      "description": "official instance"
-    },
     {
       "url": "https://safereddit.com",
       "country": "US",
