@@ -1,12 +1,6 @@
 {
-  "updated": "2023-12-13",
+  "updated": "2023-12-15",
   "instances": [
-    {
-      "url": "https://libreddit.spike.codes",
-      "country": "US",
-      "version": "v0.30.1",
-      "description": "official instance"
-    },
     {
       "url": "https://safereddit.com",
       "country": "US",
@@ -42,6 +36,12 @@
       "url": "https://libreddit.projectsegfau.lt",
       "country": "LU",
       "version": "v0.30.1"
+    },
+    {
+      "url": "https://libreddit.freedit.eu",
+      "country": "US",
+      "version": "v0.30.1",
+      "cloudflare": true
     },
     {
       "url": "https://lr.artemislena.eu",

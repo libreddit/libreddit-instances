@@ -1,6 +1,5 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://libreddit.spike.codes|WWW|v0.30.1|🇺🇸 US||official instance|
 |https://safereddit.com|WWW|v0.30.1|🇺🇸 US||SFW only|
 |https://reddit.invak.id|WWW|v0.30.1|🇧🇬 BG|||
 |https://reddit.simo.sh|WWW|v0.30.1|🇧🇬 BG|||
@@ -8,6 +7,7 @@
 |https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.kylrth.com|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.projectsegfau.lt|WWW|v0.30.1|🇱🇺 LU|||
+|https://libreddit.freedit.eu|WWW|v0.30.1|🇺🇸 US|✅||
 |https://lr.artemislena.eu|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://libreddit.tux.pizza|WWW|v0.30.1|🇺🇸 US|||
