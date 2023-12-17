@@ -6,11 +6,11 @@
 |https://libreddit.strongthany.cc|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.kylrth.com|WWW|v0.30.1|🇨🇦 CA|||
+|https://l.opnxng.com|WWW|v0.30.1|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.30.1|🇱🇺 LU|||
 |https://libreddit.freedit.eu|WWW|v0.30.1|🇺🇸 US|✅||
 |https://lr.artemislena.eu|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
-|https://libreddit.tux.pizza|WWW|v0.30.1|🇺🇸 US|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
