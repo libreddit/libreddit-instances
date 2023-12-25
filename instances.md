@@ -7,6 +7,8 @@
 |https://libreddit.privacydev.net|WWW|v0.30.1|🇺🇸 US|||
 |https://l.opnxng.com|WWW|v0.30.1|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.30.1|🇱🇺 LU|||
+|https://libreddit.oxymagnesium.com|WWW|v0.30.1|🇺🇸 US|||
+|https://reddit.utsav2.dev|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.freedit.eu|WWW|v0.30.2|🇺🇸 US|✅||
 |https://lr.artemislena.eu|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
