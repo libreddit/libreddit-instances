@@ -11,11 +11,11 @@
 |https://l.opnxng.com|WWW|v0.31.0|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.31.0|🇱🇺 LU|||
 |https://libreddit.oxymagnesium.com|WWW|v0.30.1|🇺🇸 US|||
-|https://reddit.utsav2.dev|WWW|v0.30.1|🇺🇸 US|||
 |https://lr.artemislena.eu|WWW|v0.30.1|🇩🇪 DE|||
 |https://libreddit.bus-hit.me|WWW|v0.31.0|🇨🇦 CA|||
 |https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://snoo.habedieeh.re|WWW|v0.31.0|🇨🇦 CA|||
+|https://libreddit.tux.pizza|WWW|v0.30.1|🇺🇸 US|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
