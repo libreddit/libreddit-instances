@@ -1,5 +1,5 @@
 {
-  "updated": "2024-01-13",
+  "updated": "2024-01-15",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -38,6 +38,11 @@
       "version": "v0.30.1"
     },
     {
+      "url": "https://lr.vern.cc",
+      "country": "US",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://libreddit.kylrth.com",
       "country": "CA",
       "version": "v0.30.1"
@@ -45,7 +50,7 @@
     {
       "url": "https://libreddit.privacydev.net",
       "country": "US",
-      "version": "v0.30.1"
+      "version": "v0.31.0"
     },
     {
       "url": "https://l.opnxng.com",
