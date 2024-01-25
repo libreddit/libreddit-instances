@@ -7,7 +7,6 @@
 |https://libreddit.strongthany.cc|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.pussthecat.org|WWW|v0.31.0|🇩🇪 DE|||
 |https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
-|https://lr.vern.cc|WWW|v0.31.0|🇺🇸 US|||
 |https://libreddit.kylrth.com|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇺🇸 US|||
 |https://l.opnxng.com|WWW|v0.31.0|🇸🇬 SG|||
@@ -18,6 +17,7 @@
 |https://libreddit.bus-hit.me|WWW|v0.31.0|🇨🇦 CA|||
 |https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://snoo.habedieeh.re|WWW|v0.31.0|🇨🇦 CA|||
+|https://libreddit.tux.pizza|WWW|v0.31.0|🇺🇸 US|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
