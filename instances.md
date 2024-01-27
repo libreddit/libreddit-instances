@@ -7,6 +7,7 @@
 |https://libreddit.strongthany.cc|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.pussthecat.org|WWW|v0.31.0|🇩🇪 DE|||
 |https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
+|https://lr.vern.cc|WWW|v0.31.0|🇺🇸 US|||
 |https://libreddit.kylrth.com|WWW|v0.30.1|🇨🇦 CA|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇺🇸 US|||
 |https://l.opnxng.com|WWW|v0.31.0|🇸🇬 SG|||
