@@ -10,10 +10,8 @@
 |https://lr.vern.cc|WWW|v0.31.0|🇺🇸 US|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇺🇸 US|||
 |https://l.opnxng.com|WWW|v0.31.0|🇸🇬 SG|||
-|https://libreddit.projectsegfau.lt|WWW|v0.31.0|🇱🇺 LU|||
 |https://libreddit.oxymagnesium.com|WWW|v0.31.0|🇺🇸 US|||
 |https://lr.artemislena.eu|WWW|v0.30.1|🇩🇪 DE|||
-|https://discuss.whatever.social|WWW|v0.31.0|🇺🇸 US||uses CDN|
 |https://libreddit.bus-hit.me|WWW|v0.31.0|🇨🇦 CA|||
 |https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://snoo.habedieeh.re|WWW|v0.31.0|🇨🇦 CA|||
