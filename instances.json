@@ -1,16 +1,11 @@
 {
-  "updated": "2024-02-13",
+  "updated": "2024-02-15",
   "instances": [
     {
       "url": "https://safereddit.com",
       "country": "US",
       "version": "v0.31.0",
       "description": "SFW only"
-    },
-    {
-      "url": "https://libreddit.kavin.rocks",
-      "country": "IN",
-      "version": "v0.31.0"
     },
     {
       "url": "https://reddit.invak.id",
