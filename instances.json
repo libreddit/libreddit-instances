@@ -1,16 +1,16 @@
 {
-  "updated": "2024-02-19",
+  "updated": "2024-02-21",
   "instances": [
-    {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.31.0",
-      "description": "SFW only"
-    },
     {
       "url": "https://reddit.invak.id",
       "country": "BG",
       "version": "v0.31.0"
+    },
+    {
+      "url": "https://libreddit.eu.org",
+      "country": "DE",
+      "version": "v0.31.0",
+      "cloudflare": true
     },
     {
       "url": "https://reddit.simo.sh",
@@ -58,15 +58,14 @@
       "version": "v0.31.0"
     },
     {
-      "url": "https://lr.artemislena.eu",
-      "country": "DE",
+      "url": "https://reddit.utsav2.dev",
+      "country": "US",
       "version": "v0.30.1"
     },
     {
-      "url": "https://discuss.whatever.social",
-      "country": "US",
-      "version": "v0.31.0",
-      "description": "uses CDN"
+      "url": "https://lr.artemislena.eu",
+      "country": "DE",
+      "version": "v0.30.1"
     },
     {
       "url": "https://lr.aeong.one",
