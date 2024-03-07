@@ -1,11 +1,16 @@
 {
-  "updated": "2024-03-05",
+  "updated": "2024-03-07",
   "instances": [
     {
       "url": "https://safereddit.com",
       "country": "US",
       "version": "v0.31.0",
       "description": "SFW only"
+    },
+    {
+      "url": "https://libreddit.kavin.rocks",
+      "country": "IN",
+      "version": "v0.31.0"
     },
     {
       "url": "https://reddit.invak.id",
@@ -79,6 +84,11 @@
       "country": "KR",
       "version": "v0.31.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://reddit.smnz.de",
+      "country": "DE",
+      "version": "v0.31.0"
     },
     {
       "url": "https://libreddit.bus-hit.me",
