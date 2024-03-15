@@ -1,5 +1,5 @@
 {
-  "updated": "2024-03-13",
+  "updated": "2024-03-15",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -90,11 +90,6 @@
       "country": "DE",
       "version": "v0.30.1",
       "cloudflare": true
-    },
-    {
-      "url": "https://snoo.habedieeh.re",
-      "country": "CA",
-      "version": "v0.31.0"
     },
     {
       "url": "https://libreddit.tux.pizza",
