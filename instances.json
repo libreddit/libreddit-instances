@@ -1,5 +1,5 @@
 {
-  "updated": "2024-03-19",
+  "updated": "2024-03-21",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -73,6 +73,11 @@
       "country": "US",
       "version": "v0.31.0",
       "description": "uses CDN"
+    },
+    {
+      "url": "https://reddit.smnz.de",
+      "country": "DE",
+      "version": "v0.31.0"
     },
     {
       "url": "https://libreddit.bus-hit.me",
