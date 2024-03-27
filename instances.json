@@ -1,5 +1,5 @@
 {
-  "updated": "2024-03-25",
+  "updated": "2024-03-27",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -71,7 +71,7 @@
     {
       "url": "https://libreddit.oxymagnesium.com",
       "country": "US",
-      "version": "v0.31.0"
+      "version": "v0.31.2"
     },
     {
       "url": "https://reddit.utsav2.dev",
