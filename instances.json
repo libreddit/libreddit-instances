@@ -1,6 +1,12 @@
 {
-  "updated": "2024-04-03",
+  "updated": "2024-04-05",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.31.0",
+      "description": "SFW only"
+    },
     {
       "url": "https://libreddit.kavin.rocks",
       "country": "IN",
@@ -38,6 +44,11 @@
       "version": "v0.30.1"
     },
     {
+      "url": "https://lr.vern.cc",
+      "country": "US",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
       "version": "v0.31.0"
@@ -72,11 +83,6 @@
       "country": "US",
       "version": "v0.31.0",
       "description": "uses CDN"
-    },
-    {
-      "url": "https://reddit.smnz.de",
-      "country": "DE",
-      "version": "v0.31.0"
     },
     {
       "url": "https://libreddit.bus-hit.me",
