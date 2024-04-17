@@ -1,6 +1,5 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://safereddit.com|WWW|v0.31.0|🇺🇸 US||SFW only|
 |https://libreddit.kavin.rocks|WWW|v0.31.0|🇮🇳 IN|||
 |https://reddit.invak.id|WWW|v0.31.0|🇧🇬 BG|||
 |https://libreddit.eu.org|WWW|v0.31.0|🇩🇪 DE|✅||
@@ -8,6 +7,7 @@
 |https://libreddit.strongthany.cc|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
 |https://lr.vern.cc|WWW|v0.31.0|🇺🇸 US|||
+|https://reddit.rtrace.io|WWW|v0.31.0|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇺🇸 US|||
 |https://l.opnxng.com|WWW|v0.31.0|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.31.0|🇱🇺 LU|||

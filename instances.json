@@ -1,12 +1,6 @@
 {
-  "updated": "2024-04-15",
+  "updated": "2024-04-17",
   "instances": [
-    {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.31.0",
-      "description": "SFW only"
-    },
     {
       "url": "https://libreddit.kavin.rocks",
       "country": "IN",
@@ -41,6 +35,11 @@
     {
       "url": "https://lr.vern.cc",
       "country": "US",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://reddit.rtrace.io",
+      "country": "DE",
       "version": "v0.31.0"
     },
     {
