@@ -7,7 +7,7 @@
 |https://reddit.simo.sh|WWW|v0.30.1|🇧🇬 BG|||
 |https://libreddit.strongthany.cc|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
-|https://libreddit.nl|WWW|v0.31.0|🇳🇱 NL|||
+|https://lr.vern.cc|WWW|v0.31.0|🇺🇸 US|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇺🇸 US|||
 |https://l.opnxng.com|WWW|v0.31.0|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.31.0|🇱🇺 LU|||
