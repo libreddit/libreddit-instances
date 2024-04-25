@@ -1,5 +1,5 @@
 {
-  "updated": "2024-04-23",
+  "updated": "2024-04-25",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -10,11 +10,6 @@
     {
       "url": "https://libreddit.kavin.rocks",
       "country": "IN",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://reddit.invak.id",
-      "country": "BG",
       "version": "v0.31.0"
     },
     {
