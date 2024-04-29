@@ -1,5 +1,5 @@
 {
-  "updated": "2024-04-27",
+  "updated": "2024-04-29",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -39,6 +39,11 @@
       "version": "v0.31.0"
     },
     {
+      "url": "https://reddit.rtrace.io",
+      "country": "DE",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://libreddit.privacydev.net",
       "country": "US",
       "version": "v0.31.0"
@@ -68,11 +73,6 @@
       "country": "US",
       "version": "v0.31.0",
       "description": "uses CDN"
-    },
-    {
-      "url": "https://reddit.smnz.de",
-      "country": "DE",
-      "version": "v0.31.0"
     },
     {
       "url": "https://libreddit.bus-hit.me",
