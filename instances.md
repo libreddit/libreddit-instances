@@ -1,5 +1,6 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
+|https://safereddit.com|WWW|v0.31.0|🇺🇸 US||SFW only|
 |https://libreddit.kavin.rocks|WWW|v0.31.0|🇮🇳 IN|||
 |https://libreddit.eu.org|WWW|v0.31.0|🇩🇪 DE|✅||
 |https://reddit.simo.sh|WWW|v0.30.1|🇧🇬 BG|||
@@ -7,12 +8,14 @@
 |https://libreddit.northboot.xyz|WWW|v0.30.1|🇩🇪 DE|||
 |https://lr.vern.cc|WWW|v0.31.0|🇺🇸 US|||
 |https://libreddit.nl|WWW|v0.31.0|🇳🇱 NL|||
+|https://reddit.rtrace.io|WWW|v0.31.0|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.31.0|🇺🇸 US|||
-|https://l.opnxng.com|WWW|v0.31.0|🇸🇬 SG|||
+|https://l.opnxng.com|WWW|v0.31.2|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.31.0|🇱🇺 LU|||
 |https://libreddit.oxymagnesium.com|WWW|v0.31.2|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.30.1|🇺🇸 US|||
 |https://discuss.whatever.social|WWW|v0.31.0|🇺🇸 US||uses CDN|
+|https://reddit.smnz.de|WWW|v0.31.0|🇩🇪 DE|||
 |https://libreddit.bus-hit.me|WWW|v0.31.0|🇨🇦 CA|||
 |https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://snoo.habedieeh.re|WWW|v0.31.0|🇨🇦 CA|||

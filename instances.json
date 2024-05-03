@@ -1,6 +1,12 @@
 {
-  "updated": "2024-05-01",
+  "updated": "2024-05-03",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.31.0",
+      "description": "SFW only"
+    },
     {
       "url": "https://libreddit.kavin.rocks",
       "country": "IN",
@@ -38,6 +44,11 @@
       "version": "v0.31.0"
     },
     {
+      "url": "https://reddit.rtrace.io",
+      "country": "DE",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://libreddit.privacydev.net",
       "country": "US",
       "version": "v0.31.0"
@@ -45,7 +56,7 @@
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
-      "version": "v0.31.0"
+      "version": "v0.31.2"
     },
     {
       "url": "https://libreddit.projectsegfau.lt",
@@ -67,6 +78,11 @@
       "country": "US",
       "version": "v0.31.0",
       "description": "uses CDN"
+    },
+    {
+      "url": "https://reddit.smnz.de",
+      "country": "DE",
+      "version": "v0.31.0"
     },
     {
       "url": "https://libreddit.bus-hit.me",
