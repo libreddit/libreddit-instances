@@ -15,7 +15,6 @@
 |https://libreddit.oxymagnesium.com|WWW|v0.31.2|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.30.1|🇺🇸 US|||
 |https://discuss.whatever.social|WWW|v0.31.0|🇺🇸 US||uses CDN|
-|https://reddit.smnz.de|WWW|v0.31.0|🇩🇪 DE|||
 |https://libreddit.bus-hit.me|WWW|v0.31.0|🇨🇦 CA|||
 |https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://snoo.habedieeh.re|WWW|v0.31.0|🇨🇦 CA|||
