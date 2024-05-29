@@ -1,5 +1,5 @@
 {
-  "updated": "2024-05-27",
+  "updated": "2024-05-29",
   "instances": [
     {
       "url": "https://libreddit.kavin.rocks",
@@ -22,8 +22,8 @@
       "version": "v0.31.0"
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
       "version": "v0.31.0"
     },
     {
@@ -35,6 +35,11 @@
       "url": "https://libreddit.projectsegfau.lt",
       "country": "LU",
       "version": "v0.31.0"
+    },
+    {
+      "url": "https://libreddit.oxymagnesium.com",
+      "country": "US",
+      "version": "v0.31.2"
     },
     {
       "url": "https://reddit.utsav2.dev",
