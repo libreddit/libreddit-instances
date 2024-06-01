@@ -1,10 +1,71 @@
 {
-  "updated": "2024-05-31",
+  "updated": "2024-06-01",
   "instances": [
     {
-      "url": "https://reddit.utsav2.dev",
-      "country": "US",
+      "url": "https://libreddit.kavin.rocks",
+      "country": "IN",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://reddit.simo.sh",
+      "country": "BG",
       "version": "v0.30.1"
+    },
+    {
+      "url": "https://libreddit.nl",
+      "country": "NL",
+      "version": "v0.34.0"
+    },
+    {
+      "url": "https://reddit.rtrace.io",
+      "country": "DE",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.34.0"
+    },
+    {
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://libreddit.oxymagnesium.com",
+      "country": "US",
+      "version": "v0.31.2"
+    },
+    {
+      "url": "https://discuss.whatever.social",
+      "country": "US",
+      "version": "v0.34.0",
+      "description": "uses CDN"
+    },
+    {
+      "url": "https://reddit.smnz.de",
+      "country": "DE",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://libreddit.bus-hit.me",
+      "country": "CA",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://snoo.habedieeh.re",
+      "country": "CA",
+      "version": "v0.31.0"
+    },
+    {
+      "url": "https://libreddit.tux.pizza",
+      "country": "US",
+      "version": "v0.31.0"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
