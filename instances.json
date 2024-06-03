@@ -1,5 +1,5 @@
 {
-  "updated": "2024-06-01",
+  "updated": "2024-06-03",
   "instances": [
     {
       "url": "https://libreddit.kavin.rocks",
@@ -12,6 +12,11 @@
       "version": "v0.30.1"
     },
     {
+      "url": "https://lr.vern.cc",
+      "country": "US",
+      "version": "v0.31.0"
+    },
+    {
       "url": "https://libreddit.nl",
       "country": "NL",
       "version": "v0.34.0"
@@ -19,12 +24,7 @@
     {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
-      "version": "v0.31.0"
-    },
-    {
-      "url": "https://libreddit.privacydev.net",
-      "country": "US",
-      "version": "v0.31.0"
+      "version": "v0.34.0"
     },
     {
       "url": "https://l.opnxng.com",
@@ -34,7 +34,7 @@
     {
       "url": "https://libreddit.projectsegfau.lt",
       "country": "LU",
-      "version": "v0.31.0"
+      "version": "v0.34.0"
     },
     {
       "url": "https://libreddit.oxymagnesium.com",
@@ -50,12 +50,18 @@
     {
       "url": "https://reddit.smnz.de",
       "country": "DE",
-      "version": "v0.31.0"
+      "version": "v0.34.0"
     },
     {
       "url": "https://libreddit.bus-hit.me",
       "country": "CA",
       "version": "v0.31.0"
+    },
+    {
+      "url": "https://libreddit.lunar.icu",
+      "country": "DE",
+      "version": "v0.30.1",
+      "cloudflare": true
     },
     {
       "url": "https://snoo.habedieeh.re",
