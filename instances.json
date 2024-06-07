@@ -1,5 +1,5 @@
 {
-  "updated": "2024-06-05",
+  "updated": "2024-06-07",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -26,6 +26,11 @@
       "url": "https://reddit.rtrace.io",
       "country": "DE",
       "version": "v0.34.0"
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
+      "version": "v0.31.0"
     },
     {
       "url": "https://l.opnxng.com",
@@ -57,12 +62,6 @@
       "url": "https://libreddit.bus-hit.me",
       "country": "CA",
       "version": "v0.31.0"
-    },
-    {
-      "url": "https://libreddit.lunar.icu",
-      "country": "DE",
-      "version": "v0.30.1",
-      "cloudflare": true
     },
     {
       "url": "https://snoo.habedieeh.re",
