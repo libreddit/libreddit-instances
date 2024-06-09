@@ -1,5 +1,5 @@
 {
-  "updated": "2024-06-07",
+  "updated": "2024-06-09",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -35,7 +35,7 @@
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
-      "version": "v0.34.0"
+      "version": "v0.31.0"
     },
     {
       "url": "https://libreddit.projectsegfau.lt",
@@ -48,15 +48,15 @@
       "version": "v0.31.2"
     },
     {
+      "url": "https://reddit.utsav2.dev",
+      "country": "US",
+      "version": "v0.30.1"
+    },
+    {
       "url": "https://discuss.whatever.social",
       "country": "US",
       "version": "v0.34.0",
       "description": "uses CDN"
-    },
-    {
-      "url": "https://reddit.smnz.de",
-      "country": "DE",
-      "version": "v0.34.0"
     },
     {
       "url": "https://libreddit.bus-hit.me",
