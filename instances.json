@@ -1,5 +1,5 @@
 {
-  "updated": "2024-06-13",
+  "updated": "2024-06-15",
   "instances": [
     {
       "url": "https://libreddit.kavin.rocks",
@@ -42,11 +42,6 @@
       "version": "v0.31.2"
     },
     {
-      "url": "https://reddit.utsav2.dev",
-      "country": "US",
-      "version": "v0.30.1"
-    },
-    {
       "url": "https://discuss.whatever.social",
       "country": "US",
       "version": "v0.34.0",
@@ -56,12 +51,6 @@
       "url": "https://libreddit.bus-hit.me",
       "country": "CA",
       "version": "v0.31.0"
-    },
-    {
-      "url": "https://libreddit.lunar.icu",
-      "country": "DE",
-      "version": "v0.30.1",
-      "cloudflare": true
     },
     {
       "url": "https://snoo.habedieeh.re",
