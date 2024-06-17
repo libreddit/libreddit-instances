@@ -1,5 +1,5 @@
 {
-  "updated": "2024-06-15",
+  "updated": "2024-06-17",
   "instances": [
     {
       "url": "https://libreddit.kavin.rocks",
@@ -19,12 +19,17 @@
     {
       "url": "https://libreddit.nl",
       "country": "NL",
-      "version": "v0.34.0"
+      "version": "v0.31.0"
     },
     {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
       "version": "v0.34.0"
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
+      "version": "v0.31.0"
     },
     {
       "url": "https://l.opnxng.com",
@@ -46,6 +51,11 @@
       "country": "US",
       "version": "v0.34.0",
       "description": "uses CDN"
+    },
+    {
+      "url": "https://reddit.smnz.de",
+      "country": "DE",
+      "version": "v0.34.0"
     },
     {
       "url": "https://libreddit.bus-hit.me",
