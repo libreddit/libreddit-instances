@@ -1,5 +1,5 @@
 {
-  "updated": "2024-07-03",
+  "updated": "2024-07-05",
   "instances": [
     {
       "url": "https://libreddit.kavin.rocks",
@@ -12,11 +12,6 @@
       "version": "v0.30.1"
     },
     {
-      "url": "https://lr.vern.cc",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://libreddit.nl",
       "country": "NL",
       "version": "v0.35.1"
@@ -24,6 +19,11 @@
     {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
       "version": "v0.35.1"
     },
     {
