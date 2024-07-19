@@ -1,5 +1,5 @@
 {
-  "updated": "2024-07-17",
+  "updated": "2024-07-19",
   "instances": [
     {
       "url": "https://libreddit.kavin.rocks",
@@ -27,19 +27,9 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://l.opnxng.com",
       "country": "SG",
       "version": "v0.31.0"
-    },
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
-      "version": "v0.35.1"
     },
     {
       "url": "https://libreddit.oxymagnesium.com",
