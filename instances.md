@@ -9,6 +9,7 @@
 |https://libreddit.oxymagnesium.com|WWW|v0.35.1|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.bus-hit.me|WWW|v0.35.1|🇨🇦 CA|||
+|https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://r.darklab.sh|WWW|v0.35.1|🇺🇸 US|||
 |https://snoo.habedieeh.re|WWW|v0.31.0|🇨🇦 CA|||
 |https://libreddit.tux.pizza|WWW|v0.35.1|🇺🇸 US|||
