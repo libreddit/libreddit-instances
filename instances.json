@@ -1,5 +1,5 @@
 {
-  "updated": "2024-07-21",
+  "updated": "2024-07-23",
   "instances": [
     {
       "url": "https://libreddit.kavin.rocks",
@@ -47,20 +47,9 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://libreddit.lunar.icu",
-      "country": "DE",
-      "version": "v0.30.1",
-      "cloudflare": true
-    },
-    {
       "url": "https://r.darklab.sh",
       "country": "US",
       "version": "v0.35.1"
-    },
-    {
-      "url": "https://snoo.habedieeh.re",
-      "country": "CA",
-      "version": "v0.31.0"
     },
     {
       "url": "https://libreddit.tux.pizza",
