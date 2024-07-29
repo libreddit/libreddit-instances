@@ -1,6 +1,7 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
 |https://libreddit.kavin.rocks|WWW|v0.35.1|🇮🇳 IN|||
+|https://reddit.simo.sh|WWW|v0.30.1|🇧🇬 BG|||
 |https://lr.vern.cc|WWW|v0.35.1|🇺🇸 US|||
 |https://libreddit.nl|WWW|v0.35.1|🇳🇱 NL|||
 |https://reddit.rtrace.io|WWW|v0.35.1|🇩🇪 DE|||
