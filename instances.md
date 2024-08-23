@@ -2,6 +2,7 @@
 |-|-|-|-|-|-|
 |https://safereddit.com|WWW|v0.35.1|🇺🇸 US||SFW only|
 |https://libreddit.kavin.rocks|WWW|v0.35.1|🇮🇳 IN|||
+|https://libreddit.eu.org|WWW|v0.35.1|🇩🇪 DE|✅||
 |https://reddit.simo.sh|WWW|v0.30.1|🇧🇬 BG|||
 |https://lr.vern.cc|WWW|v0.35.1|🇺🇸 US|||
 |https://libreddit.nl|WWW|v0.35.1|🇳🇱 NL|||
