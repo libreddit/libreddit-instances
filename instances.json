@@ -1,10 +1,26 @@
 {
-  "updated": "2024-09-17",
+  "updated": "2024-09-19",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
     {
       "url": "https://reddit.simo.sh",
       "country": "BG",
       "version": "v0.30.1"
+    },
+    {
+      "url": "https://lr.vern.cc",
+      "country": "US",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.nl",
+      "country": "NL",
+      "version": "v0.35.1"
     },
     {
       "url": "https://reddit.rtrace.io",
@@ -12,14 +28,19 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://r.darklab.sh",
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.oxymagnesium.com",
       "country": "US",
       "version": "v0.35.1"
     },
     {
-      "url": "https://libreddit.tux.pizza",
+      "url": "https://reddit.utsav2.dev",
       "country": "US",
-      "version": "v0.35.1"
+      "version": "v0.30.1"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
