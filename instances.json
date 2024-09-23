@@ -1,6 +1,17 @@
 {
-  "updated": "2024-09-21",
+  "updated": "2024-09-23",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
+    {
+      "url": "https://libreddit.kavin.rocks",
+      "country": "IN",
+      "version": "v0.35.1"
+    },
     {
       "url": "https://reddit.simo.sh",
       "country": "BG",
@@ -19,6 +30,11 @@
     {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
       "version": "v0.35.1"
     },
     {
@@ -45,11 +61,6 @@
       "url": "https://r.darklab.sh",
       "country": "US",
       "version": "v0.35.1"
-    },
-    {
-      "url": "https://snoo.habedieeh.re",
-      "country": "CA",
-      "version": "v0.31.0"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
