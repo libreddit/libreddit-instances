@@ -9,6 +9,7 @@
 |https://libreddit.projectsegfau.lt|WWW|v0.35.1|🇱🇺 LU|||
 |https://libreddit.oxymagnesium.com|WWW|v0.35.1|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.30.1|🇺🇸 US|||
+|https://discuss.whatever.social|WWW|v0.35.1|🇺🇸 US||uses CDN|
 |https://libreddit.bus-hit.me|WWW|v0.35.1|🇨🇦 CA|||
 |https://snoo.habedieeh.re|WWW|v0.35.1|🇨🇦 CA|||
 |https://libreddit.tux.pizza|WWW|v0.35.1|🇺🇸 US|||
