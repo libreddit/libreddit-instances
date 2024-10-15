@@ -5,11 +5,11 @@
 |https://lr.vern.cc|WWW|v0.35.1|🇺🇸 US|||
 |https://r.walkx.fyi|WWW|v0.35.1|🇳🇱 NL|✅||
 |https://reddit.rtrace.io|WWW|v0.35.1|🇩🇪 DE|||
+|https://libreddit.privacydev.net|WWW|v0.35.1|🇺🇸 US|||
 |https://l.opnxng.com|WWW|v0.35.1|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.35.1|🇱🇺 LU|||
 |https://libreddit.oxymagnesium.com|WWW|v0.35.1|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.30.1|🇺🇸 US|||
-|https://discuss.whatever.social|WWW|v0.35.1|🇺🇸 US||uses CDN|
 |https://libreddit.bus-hit.me|WWW|v0.35.1|🇨🇦 CA|||
 |https://snoo.habedieeh.re|WWW|v0.35.1|🇨🇦 CA|||
 |https://libreddit.tux.pizza|WWW|v0.35.1|🇺🇸 US|||
