@@ -2,7 +2,6 @@
 |-|-|-|-|-|-|
 |https://safereddit.com|WWW|v0.35.1|🇺🇸 US||SFW only|
 |https://libreddit.kavin.rocks|WWW|v0.35.1|🇮🇳 IN|||
-|https://lr.vern.cc|WWW|v0.35.1|🇺🇸 US|||
 |https://r.walkx.fyi|WWW|v0.35.1|🇳🇱 NL|✅||
 |https://reddit.rtrace.io|WWW|v0.35.1|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.35.1|🇺🇸 US|||
@@ -11,7 +10,6 @@
 |https://libreddit.oxymagnesium.com|WWW|v0.35.1|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.bus-hit.me|WWW|v0.35.1|🇨🇦 CA|||
-|https://libreddit.lunar.icu|WWW|v0.30.1|🇩🇪 DE|✅||
 |https://snoo.habedieeh.re|WWW|v0.35.1|🇨🇦 CA|||
 |https://libreddit.tux.pizza|WWW|v0.35.1|🇺🇸 US|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
