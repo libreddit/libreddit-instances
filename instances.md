@@ -5,7 +5,6 @@
 |https://lr.vern.cc|WWW|v0.35.1|🇺🇸 US|||
 |https://r.walkx.fyi|WWW|v0.35.1|🇳🇱 NL|✅||
 |https://reddit.rtrace.io|WWW|v0.35.1|🇩🇪 DE|||
-|https://libreddit.privacydev.net|WWW|v0.35.1|🇺🇸 US|||
 |https://l.opnxng.com|WWW|v0.35.1|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.35.1|🇱🇺 LU|||
 |https://libreddit.oxymagnesium.com|WWW|v0.35.1|🇺🇸 US|||
