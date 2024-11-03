@@ -1,12 +1,6 @@
 {
-  "updated": "2024-11-01",
+  "updated": "2024-11-03",
   "instances": [
-    {
-      "url": "https://r.walkx.fyi",
-      "country": "NL",
-      "version": "v0.35.1",
-      "cloudflare": true
-    },
     {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
@@ -15,6 +9,16 @@
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.oxymagnesium.com",
+      "country": "US",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.bus-hit.me",
+      "country": "CA",
       "version": "v0.35.1"
     },
     {
