@@ -1,14 +1,24 @@
 {
-  "updated": "2024-11-03",
+  "updated": "2024-11-05",
   "instances": [
+    {
+      "url": "https://lr.vern.cc",
+      "country": "US",
+      "version": "v0.35.1"
+    },
     {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
       "version": "v0.35.1"
     },
     {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
       "version": "v0.35.1"
     },
     {
@@ -19,6 +29,16 @@
     {
       "url": "https://libreddit.bus-hit.me",
       "country": "CA",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://snoo.habedieeh.re",
+      "country": "CA",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.tux.pizza",
+      "country": "US",
       "version": "v0.35.1"
     },
     {
