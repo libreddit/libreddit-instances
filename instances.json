@@ -1,11 +1,6 @@
 {
-  "updated": "2024-11-05",
+  "updated": "2024-11-07",
   "instances": [
-    {
-      "url": "https://lr.vern.cc",
-      "country": "US",
-      "version": "v0.35.1"
-    },
     {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
@@ -17,8 +12,8 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
+      "url": "https://l.opnxng.com",
+      "country": "SG",
       "version": "v0.35.1"
     },
     {

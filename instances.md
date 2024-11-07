@@ -1,9 +1,8 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://lr.vern.cc|WWW|v0.35.1|🇺🇸 US|||
 |https://reddit.rtrace.io|WWW|v0.35.1|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.35.1|🇺🇸 US|||
-|https://libreddit.projectsegfau.lt|WWW|v0.35.1|🇱🇺 LU|||
+|https://l.opnxng.com|WWW|v0.35.1|🇸🇬 SG|||
 |https://libreddit.oxymagnesium.com|WWW|v0.35.1|🇺🇸 US|||
 |https://libreddit.bus-hit.me|WWW|v0.35.1|🇨🇦 CA|||
 |https://snoo.habedieeh.re|WWW|v0.35.1|🇨🇦 CA|||
