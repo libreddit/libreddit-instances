@@ -1,14 +1,14 @@
 {
-  "updated": "2024-11-07",
+  "updated": "2024-11-09",
   "instances": [
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
+      "url": "https://lr.vern.cc",
+      "country": "US",
       "version": "v0.35.1"
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "US",
+      "url": "https://reddit.rtrace.io",
+      "country": "DE",
       "version": "v0.35.1"
     },
     {
