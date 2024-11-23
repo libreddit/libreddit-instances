@@ -1,19 +1,14 @@
 {
-  "updated": "2024-11-21",
+  "updated": "2024-11-23",
   "instances": [
     {
-      "url": "https://libreddit.kavin.rocks",
-      "country": "IN",
+      "url": "https://lr.vern.cc",
+      "country": "US",
       "version": "v0.35.1"
     },
     {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.bus-hit.me",
-      "country": "CA",
       "version": "v0.35.1"
     },
     {
