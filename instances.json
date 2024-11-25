@@ -1,14 +1,30 @@
 {
-  "updated": "2024-11-23",
+  "updated": "2024-11-25",
   "instances": [
     {
-      "url": "https://lr.vern.cc",
+      "url": "https://safereddit.com",
       "country": "US",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
+    {
+      "url": "https://libreddit.kavin.rocks",
+      "country": "IN",
       "version": "v0.35.1"
     },
     {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.bus-hit.me",
+      "country": "CA",
       "version": "v0.35.1"
     },
     {
