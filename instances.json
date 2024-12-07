@@ -1,5 +1,5 @@
 {
-  "updated": "2024-12-05",
+  "updated": "2024-12-07",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -13,11 +13,6 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://lr.vern.cc",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
       "version": "v0.35.1"
@@ -27,11 +22,6 @@
       "country": "DE",
       "version": "v0.35.1",
       "cloudflare": true
-    },
-    {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
-      "version": "v0.35.1"
     },
     {
       "url": "https://libreddit.projectsegfau.lt",
@@ -51,11 +41,6 @@
     {
       "url": "https://snoo.habedieeh.re",
       "country": "CA",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.tux.pizza",
-      "country": "US",
       "version": "v0.35.1"
     },
     {
