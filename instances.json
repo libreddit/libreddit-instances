@@ -1,12 +1,6 @@
 {
-  "updated": "2024-12-17",
+  "updated": "2024-12-19",
   "instances": [
-    {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.35.1",
-      "description": "SFW only"
-    },
     {
       "url": "https://libreddit.kavin.rocks",
       "country": "IN",
@@ -25,16 +19,6 @@
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.bus-hit.me",
-      "country": "CA",
       "version": "v0.35.1"
     },
     {
