@@ -1,22 +1,10 @@
 {
-  "updated": "2025-01-21",
+  "updated": "2025-01-23",
   "instances": [
-    {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.35.1",
-      "description": "SFW only"
-    },
     {
       "url": "https://libreddit.kavin.rocks",
       "country": "IN",
       "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.eu.org",
-      "country": "DE",
-      "version": "v0.35.1",
-      "cloudflare": true
     },
     {
       "url": "https://reddit.rtrace.io",
@@ -35,13 +23,13 @@
       "description": "uses CDN"
     },
     {
-      "url": "https://libreddit.bus-hit.me",
+      "url": "https://snoo.habedieeh.re",
       "country": "CA",
       "version": "v0.35.1"
     },
     {
-      "url": "https://snoo.habedieeh.re",
-      "country": "CA",
+      "url": "https://libreddit.tux.pizza",
+      "country": "US",
       "version": "v0.35.1"
     },
     {
