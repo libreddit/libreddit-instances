@@ -1,5 +1,5 @@
 {
-  "updated": "2025-01-25",
+  "updated": "2025-01-27",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -13,8 +13,18 @@
       "version": "v0.35.1"
     },
     {
+      "url": "https://lr.vern.cc",
+      "country": "US",
+      "version": "v0.35.1"
+    },
+    {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
       "version": "v0.35.1"
     },
     {
