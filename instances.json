@@ -1,5 +1,5 @@
 {
-  "updated": "2025-02-03",
+  "updated": "2025-02-05",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -11,12 +11,6 @@
       "url": "https://libreddit.kavin.rocks",
       "country": "IN",
       "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.eu.org",
-      "country": "DE",
-      "version": "v0.35.1",
-      "cloudflare": true
     },
     {
       "url": "https://lr.vern.cc",
