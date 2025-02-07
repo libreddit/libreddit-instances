@@ -1,12 +1,11 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
 |https://safereddit.com|WWW|v0.35.1|🇺🇸 US||SFW only|
-|https://libreddit.kavin.rocks|WWW|v0.35.1|🇮🇳 IN|||
-|https://lr.vern.cc|WWW|v0.35.1|🇺🇸 US|||
 |https://reddit.rtrace.io|WWW|v0.35.1|🇩🇪 DE|||
 |https://l.opnxng.com|WWW|v0.35.1|🇸🇬 SG|||
 |https://libreddit.projectsegfau.lt|WWW|v0.35.1|🇱🇺 LU|||
 |https://discuss.whatever.social|WWW|v0.35.1|🇺🇸 US||uses CDN|
+|https://r.darklab.sh|WWW|v0.35.1|🇺🇸 US|||
 |https://snoo.habedieeh.re|WWW|v0.35.1|🇨🇦 CA|||
 |https://libreddit.tux.pizza|WWW|v0.35.1|🇺🇸 US|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
