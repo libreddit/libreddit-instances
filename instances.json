@@ -1,5 +1,5 @@
 {
-  "updated": "2025-02-07",
+  "updated": "2025-02-09",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -13,34 +13,14 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://discuss.whatever.social",
       "country": "US",
       "version": "v0.35.1",
       "description": "uses CDN"
     },
     {
-      "url": "https://r.darklab.sh",
-      "country": "US",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://snoo.habedieeh.re",
       "country": "CA",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.tux.pizza",
-      "country": "US",
       "version": "v0.35.1"
     },
     {
