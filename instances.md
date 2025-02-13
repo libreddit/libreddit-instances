@@ -1,6 +1,7 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://libreddit.kavin.rocks|WWW|v0.35.1|🇮🇳 IN|||
+|https://safereddit.com|WWW|v0.35.1|🇺🇸 US||SFW only|
+|https://lr.vern.cc|WWW|v0.35.1|🇺🇸 US|||
 |https://reddit.rtrace.io|WWW|v0.35.1|🇩🇪 DE|||
 |https://l.opnxng.com|WWW|v0.35.1|🇸🇬 SG|||
 |https://discuss.whatever.social|WWW|v0.35.1|🇺🇸 US||uses CDN|
