@@ -1,6 +1,12 @@
 {
-  "updated": "2025-02-23",
+  "updated": "2025-02-25",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "SFW only"
+    },
     {
       "url": "https://libreddit.kavin.rocks",
       "country": "IN",
@@ -40,11 +46,6 @@
     {
       "url": "https://snoo.habedieeh.re",
       "country": "CA",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.tux.pizza",
-      "country": "US",
       "version": "v0.35.1"
     },
     {
