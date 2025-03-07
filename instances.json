@@ -1,11 +1,16 @@
 {
-  "updated": "2025-03-05",
+  "updated": "2025-03-07",
   "instances": [
     {
       "url": "https://safereddit.com",
       "country": "US",
       "version": "v0.35.1",
       "description": "SFW only"
+    },
+    {
+      "url": "https://libreddit.kavin.rocks",
+      "country": "IN",
+      "version": "v0.35.1"
     },
     {
       "url": "https://lr.vern.cc",
@@ -25,11 +30,6 @@
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
       "version": "v0.35.1"
     },
     {
