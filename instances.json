@@ -1,5 +1,5 @@
 {
-  "updated": "2025-03-07",
+  "updated": "2025-03-09",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -8,18 +8,8 @@
       "description": "SFW only"
     },
     {
-      "url": "https://libreddit.kavin.rocks",
-      "country": "IN",
-      "version": "v0.35.1"
-    },
-    {
       "url": "https://lr.vern.cc",
       "country": "US",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
       "version": "v0.35.1"
     },
     {
@@ -28,8 +18,8 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
       "version": "v0.35.1"
     },
     {
