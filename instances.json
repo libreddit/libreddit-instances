@@ -1,5 +1,5 @@
 {
-  "updated": "2025-03-11",
+  "updated": "2025-03-13",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -8,8 +8,13 @@
       "description": "SFW only"
     },
     {
-      "url": "https://libreddit.kavin.rocks",
-      "country": "IN",
+      "url": "https://lr.vern.cc",
+      "country": "US",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://reddit.rtrace.io",
+      "country": "DE",
       "version": "v0.35.1"
     },
     {
@@ -36,11 +41,6 @@
     {
       "url": "https://snoo.habedieeh.re",
       "country": "CA",
-      "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.tux.pizza",
-      "country": "US",
       "version": "v0.35.1"
     },
     {
