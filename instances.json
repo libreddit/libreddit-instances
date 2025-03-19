@@ -1,22 +1,10 @@
 {
-  "updated": "2025-03-17",
+  "updated": "2025-03-19",
   "instances": [
-    {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.35.1",
-      "description": "SFW only"
-    },
     {
       "url": "https://libreddit.kavin.rocks",
       "country": "IN",
       "version": "v0.35.1"
-    },
-    {
-      "url": "https://libreddit.eu.org",
-      "country": "DE",
-      "version": "v0.35.1",
-      "cloudflare": true
     },
     {
       "url": "https://lr.vern.cc",
@@ -34,8 +22,13 @@
       "version": "v0.35.1"
     },
     {
-      "url": "https://reddit.utsav2.dev",
-      "country": "US",
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.35.1"
+    },
+    {
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
       "version": "v0.35.1"
     },
     {
