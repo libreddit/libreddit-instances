@@ -1,24 +1,23 @@
 {
-  "updated": "2025-04-23",
+  "updated": "2025-04-25",
   "instances": [
-    {
-      "url": "https://libreddit.eu.org",
-      "country": "DE",
-      "version": "v0.36.0",
-      "cloudflare": true
-    },
     {
       "url": "https://lr.vern.cc",
       "country": "US",
       "version": "v0.36.0"
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
-      "url": "https://libreddit.privacydev.net",
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://reddit.utsav2.dev",
       "country": "US",
       "version": "v0.36.0"
     },
