@@ -55,17 +55,13 @@ print("\033c", end="")
 
 # Show selected options
 print(f"Selected {selected_key.upper()} for address type.")
-print("\nAvailable instances:")
-print(f"0. All countries")
-for idx, country in enumerate(countries, 1):
-    print(f"{idx}. {country}")
 
 # Display filtered instances based on user selection
 print(f"\nInstances", end="")
 if selected_country:
     print(f" in {selected_country}", end="")
 else:
-    print(" in all countries:\n", end="")
+    print(" in all countries", end="")
 print(f" in {selected_key.upper()} format:\n")
 for item in instances:
     if selected_key in item and item[selected_key]:
