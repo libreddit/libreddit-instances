@@ -1,7 +1,6 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
 |https://lr.vern.cc|WWW|v0.36.0|🇺🇸 US|||
-|https://reddit.rtrace.io|WWW|v0.36.0|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.36.0|🇺🇸 US|||
 |https://discuss.whatever.social|WWW|v0.35.1|🇺🇸 US||uses CDN|
 |https://snoo.habedieeh.re|WWW|v0.36.0|🇨🇦 CA|||

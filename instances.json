@@ -1,14 +1,9 @@
 {
-  "updated": "2025-04-27",
+  "updated": "2025-04-29",
   "instances": [
     {
       "url": "https://lr.vern.cc",
       "country": "US",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
       "version": "v0.36.0"
     },
     {
