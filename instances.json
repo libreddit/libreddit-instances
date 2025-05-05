@@ -1,6 +1,11 @@
 {
-  "updated": "2025-05-03",
+  "updated": "2025-05-05",
   "instances": [
+    {
+      "url": "https://libreddit.kavin.rocks",
+      "country": "IN",
+      "version": "v0.36.0"
+    },
     {
       "url": "https://lr.vern.cc",
       "country": "US",
@@ -14,6 +19,11 @@
     {
       "url": "https://libreddit.privacydev.net",
       "country": "US",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
       "version": "v0.36.0"
     },
     {
