@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-09",
+  "updated": "2025-05-11",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -13,19 +13,13 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://libreddit.eu.org",
-      "country": "DE",
-      "version": "v0.36.0",
-      "cloudflare": true
-    },
-    {
       "url": "https://lr.vern.cc",
       "country": "US",
       "version": "v0.36.0"
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
