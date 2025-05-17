@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-15",
+  "updated": "2025-05-17",
   "instances": [
     {
       "url": "https://libreddit.kavin.rocks",
@@ -7,13 +7,14 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://lr.vern.cc",
-      "country": "US",
-      "version": "v0.36.0"
+      "url": "https://libreddit.eu.org",
+      "country": "DE",
+      "version": "v0.36.0",
+      "cloudflare": true
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
+      "url": "https://lr.vern.cc",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
