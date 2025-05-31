@@ -1,14 +1,19 @@
 {
-  "updated": "2025-05-29",
+  "updated": "2025-05-31",
   "instances": [
+    {
+      "url": "https://libreddit.kavin.rocks",
+      "country": "IN",
+      "version": "v0.36.0"
+    },
     {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
       "version": "v0.36.0"
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "US",
+      "url": "https://libreddit.projectsegfau.lt",
+      "country": "LU",
       "version": "v0.36.0"
     },
     {
