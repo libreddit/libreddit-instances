@@ -1,11 +1,15 @@
 {
-  "updated": "2025-06-03",
+  "updated": "2025-06-05",
   "instances": [
     {
-      "url": "https://libreddit.eu.org",
-      "country": "DE",
-      "version": "v0.36.0",
-      "cloudflare": true
+      "url": "https://libreddit.kavin.rocks",
+      "country": "IN",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://lr.vern.cc",
+      "country": "US",
+      "version": "v0.36.0"
     },
     {
       "url": "https://reddit.rtrace.io",
@@ -15,11 +19,6 @@
     {
       "url": "https://libreddit.privacydev.net",
       "country": "US",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://libreddit.projectsegfau.lt",
-      "country": "LU",
       "version": "v0.36.0"
     },
     {
@@ -36,6 +35,11 @@
     {
       "url": "https://snoo.habedieeh.re",
       "country": "CA",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://libreddit.tux.pizza",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
