@@ -1,11 +1,9 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://libreddit.kavin.rocks|WWW|v0.36.0|🇮🇳 IN|||
 |https://lr.vern.cc|WWW|v0.36.0|🇺🇸 US|||
 |https://reddit.rtrace.io|WWW|v0.36.0|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.36.0|🇺🇸 US|||
 |https://reddit.utsav2.dev|WWW|v0.36.0|🇺🇸 US|||
-|https://discuss.whatever.social|WWW|v0.35.1|🇺🇸 US||uses CDN|
 |https://snoo.habedieeh.re|WWW|v0.36.0|🇨🇦 CA|||
 |https://libreddit.tux.pizza|WWW|v0.36.0|🇺🇸 US|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||

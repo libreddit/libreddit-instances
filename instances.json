@@ -1,11 +1,6 @@
 {
-  "updated": "2025-06-07",
+  "updated": "2025-06-09",
   "instances": [
-    {
-      "url": "https://libreddit.kavin.rocks",
-      "country": "IN",
-      "version": "v0.36.0"
-    },
     {
       "url": "https://lr.vern.cc",
       "country": "US",
@@ -25,12 +20,6 @@
       "url": "https://reddit.utsav2.dev",
       "country": "US",
       "version": "v0.36.0"
-    },
-    {
-      "url": "https://discuss.whatever.social",
-      "country": "US",
-      "version": "v0.35.1",
-      "description": "uses CDN"
     },
     {
       "url": "https://snoo.habedieeh.re",
