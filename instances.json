@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-19",
+  "updated": "2025-06-21",
   "instances": [
     {
       "url": "https://libreddit.kavin.rocks",
@@ -17,6 +17,11 @@
       "version": "v0.36.0"
     },
     {
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
+      "version": "v0.36.0"
+    },
+    {
       "url": "https://reddit.utsav2.dev",
       "country": "US",
       "version": "v0.36.0"
@@ -30,6 +35,11 @@
     {
       "url": "https://snoo.habedieeh.re",
       "country": "CA",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://libreddit.tux.pizza",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
