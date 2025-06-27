@@ -1,11 +1,6 @@
 {
-  "updated": "2025-06-25",
+  "updated": "2025-06-27",
   "instances": [
-    {
-      "url": "https://lr.vern.cc",
-      "country": "US",
-      "version": "v0.36.0"
-    },
     {
       "url": "https://libreddit.privacydev.net",
       "country": "US",
