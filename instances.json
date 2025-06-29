@@ -1,8 +1,8 @@
 {
-  "updated": "2025-06-27",
+  "updated": "2025-06-29",
   "instances": [
     {
-      "url": "https://libreddit.privacydev.net",
+      "url": "https://lr.vern.cc",
       "country": "US",
       "version": "v0.36.0"
     },
@@ -11,6 +11,11 @@
       "country": "US",
       "version": "v0.35.1",
       "description": "uses CDN"
+    },
+    {
+      "url": "https://libreddit.tux.pizza",
+      "country": "US",
+      "version": "v0.36.0"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
