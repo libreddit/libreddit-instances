@@ -1,8 +1,13 @@
 {
-  "updated": "2025-06-29",
+  "updated": "2025-07-01",
   "instances": [
     {
-      "url": "https://lr.vern.cc",
+      "url": "https://reddit.rtrace.io",
+      "country": "DE",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
       "country": "US",
       "version": "v0.36.0"
     },
