@@ -1,19 +1,19 @@
 {
-  "updated": "2025-07-07",
+  "updated": "2025-07-09",
   "instances": [
     {
-      "url": "https://lr.vern.cc",
+      "url": "https://safereddit.com",
       "country": "US",
+      "version": "v0.36.0",
+      "description": "SFW only"
+    },
+    {
+      "url": "https://reddit.rtrace.io",
+      "country": "DE",
       "version": "v0.36.0"
     },
     {
-      "url": "https://discuss.whatever.social",
-      "country": "US",
-      "version": "v0.35.1",
-      "description": "uses CDN"
-    },
-    {
-      "url": "https://libreddit.tux.pizza",
+      "url": "https://reddit.utsav2.dev",
       "country": "US",
       "version": "v0.36.0"
     },
