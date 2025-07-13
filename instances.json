@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-11",
+  "updated": "2025-07-13",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -13,8 +13,8 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
