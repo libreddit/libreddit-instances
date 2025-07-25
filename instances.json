@@ -1,11 +1,10 @@
 {
-  "updated": "2025-07-23",
+  "updated": "2025-07-25",
   "instances": [
     {
-      "url": "https://safereddit.com",
+      "url": "https://lr.vern.cc",
       "country": "US",
-      "version": "v0.36.0",
-      "description": "SFW only"
+      "version": "v0.36.0"
     },
     {
       "url": "https://reddit.rtrace.io",

@@ -1,6 +1,6 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://safereddit.com|WWW|v0.36.0|🇺🇸 US||SFW only|
+|https://lr.vern.cc|WWW|v0.36.0|🇺🇸 US|||
 |https://reddit.rtrace.io|WWW|v0.36.0|🇩🇪 DE|||
 |https://discuss.whatever.social|WWW|v0.35.1|🇺🇸 US||uses CDN|
 |https://libreddit.tux.pizza|WWW|v0.36.0|🇺🇸 US|||
