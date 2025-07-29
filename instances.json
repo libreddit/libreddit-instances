@@ -1,9 +1,20 @@
 {
-  "updated": "2025-07-27",
+  "updated": "2025-07-29",
   "instances": [
     {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://discuss.whatever.social",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "uses CDN"
+    },
+    {
+      "url": "https://libreddit.tux.pizza",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
