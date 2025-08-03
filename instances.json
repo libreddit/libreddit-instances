@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-01",
+  "updated": "2025-08-03",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -13,9 +13,10 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://snoo.habedieeh.re",
-      "country": "CA",
-      "version": "v0.36.0"
+      "url": "https://discuss.whatever.social",
+      "country": "US",
+      "version": "v0.35.1",
+      "description": "uses CDN"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
