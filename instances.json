@@ -1,10 +1,11 @@
 {
-  "updated": "2025-08-11",
+  "updated": "2025-08-13",
   "instances": [
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
-      "version": "v0.36.0"
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.36.0",
+      "description": "SFW only"
     },
     {
       "url": "https://libreddit.privacydev.net",
