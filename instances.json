@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-25",
+  "updated": "2025-08-27",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -8,18 +8,13 @@
       "description": "SFW only"
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://libreddit.tux.pizza",
-      "country": "US",
       "version": "v0.36.0"
     },
     {
