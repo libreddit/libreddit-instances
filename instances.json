@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-29",
+  "updated": "2025-08-31",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -8,29 +8,15 @@
       "description": "SFW only"
     },
     {
-      "url": "https://lr.vern.cc",
-      "country": "US",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://libreddit.privacydev.net",
-      "country": "US",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://l.opnxng.com",
       "country": "SG",
       "version": "v0.36.0"
     },
     {
-      "url": "https://libreddit.tux.pizza",
+      "url": "https://discuss.whatever.social",
       "country": "US",
-      "version": "v0.36.0"
+      "version": "v0.35.1",
+      "description": "uses CDN"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
