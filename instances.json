@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-15",
+  "updated": "2025-09-17",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -15,6 +15,17 @@
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://discuss.whatever.social",
+      "country": "US",
+      "version": "v0.36.0",
+      "description": "uses CDN"
+    },
+    {
+      "url": "https://libreddit.tux.pizza",
+      "country": "US",
       "version": "v0.36.0"
     },
     {

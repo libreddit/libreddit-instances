@@ -3,6 +3,8 @@
 |https://safereddit.com|WWW|v0.36.0|🇺🇸 US||SFW only|
 |https://lr.vern.cc|WWW|v0.36.0|🇺🇸 US|||
 |https://l.opnxng.com|WWW|v0.36.0|🇸🇬 SG|||
+|https://discuss.whatever.social|WWW|v0.36.0|🇺🇸 US||uses CDN|
+|https://libreddit.tux.pizza|WWW|v0.36.0|🇺🇸 US|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
