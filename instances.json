@@ -1,14 +1,14 @@
 {
-  "updated": "2025-10-13",
+  "updated": "2025-10-15",
   "instances": [
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
+      "url": "https://lr.vern.cc",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
+      "url": "https://reddit.rtrace.io",
+      "country": "DE",
       "version": "v0.36.0"
     },
     {
@@ -18,7 +18,7 @@
       "description": "uses CDN"
     },
     {
-      "url": "https://libreddit.tux.pizza",
+      "url": "https://r.darklab.sh",
       "country": "US",
       "version": "v0.36.0"
     },
