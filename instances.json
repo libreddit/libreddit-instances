@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-15",
+  "updated": "2025-10-17",
   "instances": [
     {
       "url": "https://lr.vern.cc",
@@ -7,19 +7,13 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
-      "url": "https://discuss.whatever.social",
-      "country": "US",
-      "version": "v0.36.0",
-      "description": "uses CDN"
-    },
-    {
-      "url": "https://r.darklab.sh",
-      "country": "US",
+      "url": "https://l.opnxng.com",
+      "country": "SG",
       "version": "v0.36.0"
     },
     {
