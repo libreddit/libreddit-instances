@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-17",
+  "updated": "2025-10-19",
   "instances": [
     {
       "url": "https://lr.vern.cc",
@@ -7,8 +7,8 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "US",
+      "url": "https://reddit.rtrace.io",
+      "country": "DE",
       "version": "v0.36.0"
     },
     {
