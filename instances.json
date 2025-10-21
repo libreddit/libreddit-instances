@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-19",
+  "updated": "2025-10-21",
   "instances": [
     {
       "url": "https://lr.vern.cc",
@@ -12,8 +12,13 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://r.darklab.sh",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
