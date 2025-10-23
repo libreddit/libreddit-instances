@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-21",
+  "updated": "2025-10-23",
   "instances": [
     {
       "url": "https://lr.vern.cc",
@@ -17,9 +17,15 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://r.darklab.sh",
-      "country": "US",
+      "url": "https://l.opnxng.com",
+      "country": "SG",
       "version": "v0.36.0"
+    },
+    {
+      "url": "https://discuss.whatever.social",
+      "country": "US",
+      "version": "v0.36.0",
+      "description": "uses CDN"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
