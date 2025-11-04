@@ -13,6 +13,11 @@
       "description": "uses CDN"
     },
     {
+      "url": "https://libreddit.frontendfriendly.xyz",
+      "country": "US",
+      "version": "v0.30.1"
+    },
+    {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
       "country": "US",
       "version": "v0.22.9"
