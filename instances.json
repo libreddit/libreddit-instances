@@ -1,8 +1,8 @@
 {
-  "updated": "2025-11-05",
+  "updated": "2025-11-07",
   "instances": [
     {
-      "url": "https://libreddit.privacydev.net",
+      "url": "https://lr.vern.cc",
       "country": "US",
       "version": "v0.36.0"
     },
@@ -11,11 +11,6 @@
       "country": "US",
       "version": "v0.36.0",
       "description": "uses CDN"
-    },
-    {
-      "url": "https://r.darklab.sh",
-      "country": "US",
-      "version": "v0.36.0"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
