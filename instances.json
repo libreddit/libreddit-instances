@@ -1,16 +1,10 @@
 {
-  "updated": "2025-11-19",
+  "updated": "2025-11-21",
   "instances": [
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "US",
+      "url": "https://reddit.rtrace.io",
+      "country": "DE",
       "version": "v0.36.0"
-    },
-    {
-      "url": "https://discuss.whatever.social",
-      "country": "US",
-      "version": "v0.36.0",
-      "description": "uses CDN"
     },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
