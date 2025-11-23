@@ -1,9 +1,19 @@
 {
-  "updated": "2025-11-21",
+  "updated": "2025-11-23",
   "instances": [
     {
       "url": "https://reddit.rtrace.io",
       "country": "DE",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://snoo.habedieeh.re",
+      "country": "CA",
       "version": "v0.36.0"
     },
     {
