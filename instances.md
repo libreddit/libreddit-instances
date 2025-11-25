@@ -1,7 +1,7 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
-|https://reddit.rtrace.io|WWW|v0.36.0|🇩🇪 DE|||
 |https://libreddit.privacydev.net|WWW|v0.36.0|🇺🇸 US|||
+|https://r.darklab.sh|WWW|v0.36.0|🇺🇸 US|||
 |https://snoo.habedieeh.re|WWW|v0.36.0|🇨🇦 CA|||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
 |http://libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion|Tor|v0.25.0|🇨🇦 CA|||

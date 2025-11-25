@@ -1,13 +1,13 @@
 {
-  "updated": "2025-11-23",
+  "updated": "2025-11-25",
   "instances": [
     {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
+      "url": "https://libreddit.privacydev.net",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
-      "url": "https://libreddit.privacydev.net",
+      "url": "https://r.darklab.sh",
       "country": "US",
       "version": "v0.36.0"
     },
