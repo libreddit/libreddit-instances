@@ -1,8 +1,13 @@
 {
-  "updated": "2025-12-01",
+  "updated": "2025-12-03",
   "instances": [
     {
       "url": "https://lr.vern.cc",
+      "country": "US",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
       "country": "US",
       "version": "v0.36.0"
     },
