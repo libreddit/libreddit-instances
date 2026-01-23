@@ -1,11 +1,6 @@
 {
-  "updated": "2026-01-21",
+  "updated": "2026-01-23",
   "instances": [
-    {
-      "url": "https://lr.vern.cc",
-      "country": "US",
-      "version": "v0.36.0"
-    },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
       "country": "US",
