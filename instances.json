@@ -1,14 +1,9 @@
 {
-  "updated": "2026-02-23",
+  "updated": "2026-02-25",
   "instances": [
     {
       "url": "https://lr.vern.cc",
       "country": "US",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
       "version": "v0.36.0"
     },
     {
