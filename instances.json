@@ -1,11 +1,6 @@
 {
-  "updated": "2026-04-09",
+  "updated": "2026-04-11",
   "instances": [
-    {
-      "url": "https://lr.vern.cc",
-      "country": "US",
-      "version": "v0.36.0"
-    },
     {
       "url": "https://snoo.habedieeh.re",
       "country": "CA",
