@@ -1,11 +1,16 @@
 {
-  "updated": "2026-08-19",
+  "updated": "2026-08-21",
   "instances": [
     {
       "url": "https://safereddit.com",
       "country": "US",
       "version": "v0.36.0",
       "description": "SFW only"
+    },
+    {
+      "url": "https://lr.vern.cc",
+      "country": "US",
+      "version": "v0.36.0"
     },
     {
       "url": "https://snoo.habedieeh.re",
