@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-29",
   "instances": [
-    {
-      "url": "https://safereddit.com",
-      "country": "US",
-      "version": "v0.36.0",
-      "description": "SFW only"
-    },
-    {
-      "url": "https://reddit.rtrace.io",
-      "country": "DE",
-      "version": "v0.40.0"
-    },
-    {
-      "url": "https://snoo.habedieeh.re",
-      "country": "CA",
-      "version": "v0.36.0"
-    },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
       "country": "US",
