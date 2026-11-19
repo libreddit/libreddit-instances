@@ -1,6 +1,12 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-19",
   "instances": [
+    {
+      "url": "https://safereddit.com",
+      "country": "US",
+      "version": "v0.69.0",
+      "description": "SFW only"
+    },
     {
       "onion": "http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion",
       "country": "US",
